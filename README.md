@@ -3,10 +3,6 @@
 
 This folder contains two Python tools designed to help CS 321 students simulate and interact with the Smart Rocket System project **before actual hardware is available**.
 
-### 👤 Author: Arav  
-**Role:** Junior Developer & Documentation  
-**Summer 2025 Volunteer Team**
-
 ---
 
 ## 🚀 Tool 1: Launch Controller Simulator (`launch_controller_sim.py`)
