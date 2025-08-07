@@ -15,7 +15,6 @@ Name: Sudeep
 - [Sensirion SHTC3](https://www.adafruit.com/product/4636) - Low-power, high-accuracy digital sensor for measuring temperature and humidity.
 > **Note:** All sensors are breakout boards from Adafruit with good libraryy support.
 ---
----
 ## Installation
 - Install the CH9102 USB bridge driver for the first time. [Windows](https://www.wch-ic.com/downloads/CH343SER_ZIP.html), [Mac](https://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html)
 - Install [Visual Studio Code](https://code.visualstudio.com/).
@@ -29,7 +28,6 @@ Name: Sudeep
        ⚠️ This may take a few minutes (especially the first time).
 - Restart VS Code (if prompted)
 - Verify Installation - After restarting, you’ll see a PlatformIO icon (alien head) on the sidebar.
----
 ---
 ## How to Run
 - Click “**New Project**” in PlatformIO (PIO) Home.
@@ -57,7 +55,6 @@ Name: Sudeep
 - Connect the board to the computer USB , Micro-USB is used for module fimware upgrade.
 - Click (**→**) to upload firmware.
 - Click on (**Upload and Monitor**) to upload firmware and monitor the Serial Monitor.
----
 ---
 ## Sensor Interfacing and Data Display
 ### 1. Sensor Interfacing (I²C Communication)
@@ -101,15 +98,9 @@ Name: Sudeep
     - Serial monitor via Serial.print() (for debugging/logging).
     - OLED screen for real-time embedded visualization.
 ---
----
 ## Wiring & Pictures
 ![Wiring](images/wiring.png)
-Few pictures
 ![1](images/pic1.jpeg)
 ![2](images/pic2.jpeg)
 ![3](images/pic3.jpeg)
 ---
----
-
-
->>>>>>> 59712fb (Basic sensor interfacing)
