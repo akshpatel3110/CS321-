@@ -1,0 +1,8702 @@
+[
+  {
+    "time": 0.0,
+    "altimeter": {
+      "altitude": 0.165
+    },
+    "imu": {
+      "accel_x": 30.354,
+      "accel_y": 0.472,
+      "accel_z": 9.641,
+      "gyro_x": 0.131,
+      "gyro_y": 0.644,
+      "gyro_z": 0.461
+    },
+    "environment": {
+      "temperature": 25.258,
+      "humidity": 55.682
+    },
+    "gps": {
+      "latitude": 37.774952,
+      "longitude": -122.419406,
+      "altitude": 0.3,
+      "timestamp": 0.0
+    },
+    "raw": {
+      "altitude": 0.3,
+      "velocity": 3.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.1,
+    "altimeter": {
+      "altitude": 1.45
+    },
+    "imu": {
+      "accel_x": 29.103,
+      "accel_y": -0.471,
+      "accel_z": 9.101,
+      "gyro_x": -0.04,
+      "gyro_y": 0.295,
+      "gyro_z": 0.222
+    },
+    "environment": {
+      "temperature": 25.163,
+      "humidity": 54.734
+    },
+    "gps": {
+      "latitude": 37.774943,
+      "longitude": -122.419305,
+      "altitude": 0.9,
+      "timestamp": 0.1
+    },
+    "raw": {
+      "altitude": 0.9,
+      "velocity": 6.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.2,
+    "altimeter": {
+      "altitude": 1.315
+    },
+    "imu": {
+      "accel_x": 29.48,
+      "accel_y": -0.363,
+      "accel_z": 9.842,
+      "gyro_x": -0.076,
+      "gyro_y": -0.068,
+      "gyro_z": -0.271
+    },
+    "environment": {
+      "temperature": 24.499,
+      "humidity": 55.059
+    },
+    "gps": {
+      "latitude": 37.77495,
+      "longitude": -122.419369,
+      "altitude": 1.8,
+      "timestamp": 0.2
+    },
+    "raw": {
+      "altitude": 1.8,
+      "velocity": 9.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.3,
+    "altimeter": {
+      "altitude": 2.931
+    },
+    "imu": {
+      "accel_x": 31.103,
+      "accel_y": -0.232,
+      "accel_z": 9.923,
+      "gyro_x": 0.79,
+      "gyro_y": -0.086,
+      "gyro_z": 0.655
+    },
+    "environment": {
+      "temperature": 25.436,
+      "humidity": 55.469
+    },
+    "gps": {
+      "latitude": 37.774868,
+      "longitude": -122.419499,
+      "altitude": 3.0,
+      "timestamp": 0.3
+    },
+    "raw": {
+      "altitude": 3.0,
+      "velocity": 12.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.4,
+    "altimeter": {
+      "altitude": 4.396
+    },
+    "imu": {
+      "accel_x": 30.074,
+      "accel_y": -0.122,
+      "accel_z": 9.749,
+      "gyro_x": -0.938,
+      "gyro_y": 0.287,
+      "gyro_z": 0.267
+    },
+    "environment": {
+      "temperature": 25.054,
+      "humidity": 54.879
+    },
+    "gps": {
+      "latitude": 37.774848,
+      "longitude": -122.419413,
+      "altitude": 4.5,
+      "timestamp": 0.4
+    },
+    "raw": {
+      "altitude": 4.5,
+      "velocity": 15.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.5,
+    "altimeter": {
+      "altitude": 6.242
+    },
+    "imu": {
+      "accel_x": 29.779,
+      "accel_y": 0.056,
+      "accel_z": 9.897,
+      "gyro_x": 0.32,
+      "gyro_y": -0.115,
+      "gyro_z": 1.074
+    },
+    "environment": {
+      "temperature": 24.706,
+      "humidity": 55.1
+    },
+    "gps": {
+      "latitude": 37.774829,
+      "longitude": -122.41946,
+      "altitude": 6.3,
+      "timestamp": 0.5
+    },
+    "raw": {
+      "altitude": 6.3,
+      "velocity": 18.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.6,
+    "altimeter": {
+      "altitude": 8.775
+    },
+    "imu": {
+      "accel_x": 30.61,
+      "accel_y": -0.285,
+      "accel_z": 9.141,
+      "gyro_x": 0.727,
+      "gyro_y": 0.054,
+      "gyro_z": -0.152
+    },
+    "environment": {
+      "temperature": 25.14,
+      "humidity": 55.897
+    },
+    "gps": {
+      "latitude": 37.774836,
+      "longitude": -122.419475,
+      "altitude": 8.4,
+      "timestamp": 0.6
+    },
+    "raw": {
+      "altitude": 8.4,
+      "velocity": 21.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.7,
+    "altimeter": {
+      "altitude": 10.46
+    },
+    "imu": {
+      "accel_x": 30.133,
+      "accel_y": -0.364,
+      "accel_z": 9.857,
+      "gyro_x": 0.959,
+      "gyro_y": 0.69,
+      "gyro_z": 0.475
+    },
+    "environment": {
+      "temperature": 25.058,
+      "humidity": 55.445
+    },
+    "gps": {
+      "latitude": 37.774926,
+      "longitude": -122.419492,
+      "altitude": 10.8,
+      "timestamp": 0.7
+    },
+    "raw": {
+      "altitude": 10.8,
+      "velocity": 24.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.8,
+    "altimeter": {
+      "altitude": 14.226
+    },
+    "imu": {
+      "accel_x": 30.277,
+      "accel_y": 0.23,
+      "accel_z": 9.786,
+      "gyro_x": -0.848,
+      "gyro_y": 0.178,
+      "gyro_z": -0.228
+    },
+    "environment": {
+      "temperature": 25.764,
+      "humidity": 55.102
+    },
+    "gps": {
+      "latitude": 37.775,
+      "longitude": -122.419435,
+      "altitude": 13.5,
+      "timestamp": 0.8
+    },
+    "raw": {
+      "altitude": 13.5,
+      "velocity": 27.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 0.9,
+    "altimeter": {
+      "altitude": 16.61
+    },
+    "imu": {
+      "accel_x": 30.298,
+      "accel_y": 0.326,
+      "accel_z": 9.843,
+      "gyro_x": 0.902,
+      "gyro_y": 0.585,
+      "gyro_z": 1.803
+    },
+    "environment": {
+      "temperature": 24.775,
+      "humidity": 55.682
+    },
+    "gps": {
+      "latitude": 37.774889,
+      "longitude": -122.419416,
+      "altitude": 16.5,
+      "timestamp": 0.9
+    },
+    "raw": {
+      "altitude": 16.5,
+      "velocity": 30.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.0,
+    "altimeter": {
+      "altitude": 19.763
+    },
+    "imu": {
+      "accel_x": 29.732,
+      "accel_y": -0.342,
+      "accel_z": 10.022,
+      "gyro_x": 0.255,
+      "gyro_y": -0.771,
+      "gyro_z": 0.461
+    },
+    "environment": {
+      "temperature": 24.881,
+      "humidity": 55.377
+    },
+    "gps": {
+      "latitude": 37.774876,
+      "longitude": -122.419347,
+      "altitude": 19.8,
+      "timestamp": 1.0
+    },
+    "raw": {
+      "altitude": 19.8,
+      "velocity": 33.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.1,
+    "altimeter": {
+      "altitude": 22.55
+    },
+    "imu": {
+      "accel_x": 29.282,
+      "accel_y": -0.861,
+      "accel_z": 10.243,
+      "gyro_x": 0.002,
+      "gyro_y": -0.331,
+      "gyro_z": 0.393
+    },
+    "environment": {
+      "temperature": 24.156,
+      "humidity": 55.577
+    },
+    "gps": {
+      "latitude": 37.774964,
+      "longitude": -122.419405,
+      "altitude": 23.4,
+      "timestamp": 1.1
+    },
+    "raw": {
+      "altitude": 23.4,
+      "velocity": 36.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.2,
+    "altimeter": {
+      "altitude": 27.11
+    },
+    "imu": {
+      "accel_x": 29.907,
+      "accel_y": -0.921,
+      "accel_z": 10.241,
+      "gyro_x": 0.192,
+      "gyro_y": 0.121,
+      "gyro_z": 1.371
+    },
+    "environment": {
+      "temperature": 25.23,
+      "humidity": 55.538
+    },
+    "gps": {
+      "latitude": 37.774903,
+      "longitude": -122.419334,
+      "altitude": 27.3,
+      "timestamp": 1.2
+    },
+    "raw": {
+      "altitude": 27.3,
+      "velocity": 39.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.3,
+    "altimeter": {
+      "altitude": 31.62
+    },
+    "imu": {
+      "accel_x": 29.776,
+      "accel_y": -0.52,
+      "accel_z": 9.664,
+      "gyro_x": -0.019,
+      "gyro_y": 0.829,
+      "gyro_z": 1.705
+    },
+    "environment": {
+      "temperature": 24.017,
+      "humidity": 54.416
+    },
+    "gps": {
+      "latitude": 37.774914,
+      "longitude": -122.419467,
+      "altitude": 31.5,
+      "timestamp": 1.3
+    },
+    "raw": {
+      "altitude": 31.5,
+      "velocity": 42.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.4,
+    "altimeter": {
+      "altitude": 35.919
+    },
+    "imu": {
+      "accel_x": 30.047,
+      "accel_y": -1.096,
+      "accel_z": 9.289,
+      "gyro_x": 0.472,
+      "gyro_y": 0.583,
+      "gyro_z": -0.014
+    },
+    "environment": {
+      "temperature": 25.411,
+      "humidity": 54.996
+    },
+    "gps": {
+      "latitude": 37.774917,
+      "longitude": -122.419486,
+      "altitude": 36.0,
+      "timestamp": 1.4
+    },
+    "raw": {
+      "altitude": 36.0,
+      "velocity": 45.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.5,
+    "altimeter": {
+      "altitude": 39.864
+    },
+    "imu": {
+      "accel_x": 30.462,
+      "accel_y": -0.013,
+      "accel_z": 9.526,
+      "gyro_x": 0.369,
+      "gyro_y": -0.535,
+      "gyro_z": 0.805
+    },
+    "environment": {
+      "temperature": 24.957,
+      "humidity": 54.755
+    },
+    "gps": {
+      "latitude": 37.774837,
+      "longitude": -122.419371,
+      "altitude": 40.8,
+      "timestamp": 1.5
+    },
+    "raw": {
+      "altitude": 40.8,
+      "velocity": 48.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.6,
+    "altimeter": {
+      "altitude": 45.939
+    },
+    "imu": {
+      "accel_x": 30.31,
+      "accel_y": -0.351,
+      "accel_z": 9.3,
+      "gyro_x": 0.309,
+      "gyro_y": 0.441,
+      "gyro_z": 1.362
+    },
+    "environment": {
+      "temperature": 25.194,
+      "humidity": 54.293
+    },
+    "gps": {
+      "latitude": 37.774952,
+      "longitude": -122.419424,
+      "altitude": 45.9,
+      "timestamp": 1.6
+    },
+    "raw": {
+      "altitude": 45.9,
+      "velocity": 51.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.7,
+    "altimeter": {
+      "altitude": 52.134
+    },
+    "imu": {
+      "accel_x": 30.332,
+      "accel_y": -0.071,
+      "accel_z": 10.467,
+      "gyro_x": -0.359,
+      "gyro_y": -0.48,
+      "gyro_z": 1.347
+    },
+    "environment": {
+      "temperature": 25.602,
+      "humidity": 55.775
+    },
+    "gps": {
+      "latitude": 37.774937,
+      "longitude": -122.419474,
+      "altitude": 51.3,
+      "timestamp": 1.7
+    },
+    "raw": {
+      "altitude": 51.3,
+      "velocity": 54.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.8,
+    "altimeter": {
+      "altitude": 57.456
+    },
+    "imu": {
+      "accel_x": 30.031,
+      "accel_y": -0.052,
+      "accel_z": 9.833,
+      "gyro_x": -0.19,
+      "gyro_y": 0.108,
+      "gyro_z": 1.086
+    },
+    "environment": {
+      "temperature": 25.462,
+      "humidity": 55.044
+    },
+    "gps": {
+      "latitude": 37.774808,
+      "longitude": -122.419435,
+      "altitude": 57.0,
+      "timestamp": 1.8
+    },
+    "raw": {
+      "altitude": 57.0,
+      "velocity": 57.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 1.9,
+    "altimeter": {
+      "altitude": 63.661
+    },
+    "imu": {
+      "accel_x": 29.852,
+      "accel_y": 0.081,
+      "accel_z": 10.264,
+      "gyro_x": -0.291,
+      "gyro_y": 0.45,
+      "gyro_z": 1.814
+    },
+    "environment": {
+      "temperature": 25.009,
+      "humidity": 54.563
+    },
+    "gps": {
+      "latitude": 37.774992,
+      "longitude": -122.419429,
+      "altitude": 63.0,
+      "timestamp": 1.9
+    },
+    "raw": {
+      "altitude": 63.0,
+      "velocity": 60.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.0,
+    "altimeter": {
+      "altitude": 69.75
+    },
+    "imu": {
+      "accel_x": 29.358,
+      "accel_y": 0.192,
+      "accel_z": 10.105,
+      "gyro_x": 1.232,
+      "gyro_y": -0.023,
+      "gyro_z": 1.334
+    },
+    "environment": {
+      "temperature": 25.191,
+      "humidity": 55.377
+    },
+    "gps": {
+      "latitude": 37.774941,
+      "longitude": -122.419387,
+      "altitude": 69.3,
+      "timestamp": 2.0
+    },
+    "raw": {
+      "altitude": 69.3,
+      "velocity": 63.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.1,
+    "altimeter": {
+      "altitude": 75.88
+    },
+    "imu": {
+      "accel_x": 30.847,
+      "accel_y": 0.477,
+      "accel_z": 9.856,
+      "gyro_x": 0.657,
+      "gyro_y": 0.2,
+      "gyro_z": 1.394
+    },
+    "environment": {
+      "temperature": 25.869,
+      "humidity": 55.409
+    },
+    "gps": {
+      "latitude": 37.774819,
+      "longitude": -122.419444,
+      "altitude": 75.9,
+      "timestamp": 2.1
+    },
+    "raw": {
+      "altitude": 75.9,
+      "velocity": 66.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.2,
+    "altimeter": {
+      "altitude": 83.626
+    },
+    "imu": {
+      "accel_x": 29.44,
+      "accel_y": -0.434,
+      "accel_z": 9.198,
+      "gyro_x": 0.853,
+      "gyro_y": -0.01,
+      "gyro_z": 1.508
+    },
+    "environment": {
+      "temperature": 24.879,
+      "humidity": 54.719
+    },
+    "gps": {
+      "latitude": 37.774809,
+      "longitude": -122.419467,
+      "altitude": 82.8,
+      "timestamp": 2.2
+    },
+    "raw": {
+      "altitude": 82.8,
+      "velocity": 69.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.3,
+    "altimeter": {
+      "altitude": 90.883
+    },
+    "imu": {
+      "accel_x": 30.011,
+      "accel_y": -0.331,
+      "accel_z": 9.608,
+      "gyro_x": 1.538,
+      "gyro_y": 0.253,
+      "gyro_z": 2.071
+    },
+    "environment": {
+      "temperature": 24.744,
+      "humidity": 55.51
+    },
+    "gps": {
+      "latitude": 37.774966,
+      "longitude": -122.419423,
+      "altitude": 90.0,
+      "timestamp": 2.3
+    },
+    "raw": {
+      "altitude": 90.0,
+      "velocity": 72.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.4,
+    "altimeter": {
+      "altitude": 97.588
+    },
+    "imu": {
+      "accel_x": 30.033,
+      "accel_y": 0.348,
+      "accel_z": 9.727,
+      "gyro_x": 1.958,
+      "gyro_y": -0.076,
+      "gyro_z": 2.027
+    },
+    "environment": {
+      "temperature": 25.076,
+      "humidity": 54.291
+    },
+    "gps": {
+      "latitude": 37.774815,
+      "longitude": -122.419421,
+      "altitude": 97.5,
+      "timestamp": 2.4
+    },
+    "raw": {
+      "altitude": 97.5,
+      "velocity": 75.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.5,
+    "altimeter": {
+      "altitude": 105.904
+    },
+    "imu": {
+      "accel_x": 29.558,
+      "accel_y": 0.149,
+      "accel_z": 10.516,
+      "gyro_x": 0.536,
+      "gyro_y": -0.391,
+      "gyro_z": 2.286
+    },
+    "environment": {
+      "temperature": 24.85,
+      "humidity": 54.652
+    },
+    "gps": {
+      "latitude": 37.774966,
+      "longitude": -122.419338,
+      "altitude": 105.3,
+      "timestamp": 2.5
+    },
+    "raw": {
+      "altitude": 105.3,
+      "velocity": 78.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.6,
+    "altimeter": {
+      "altitude": 114.151
+    },
+    "imu": {
+      "accel_x": 28.872,
+      "accel_y": 0.525,
+      "accel_z": 9.404,
+      "gyro_x": 1.051,
+      "gyro_y": -0.421,
+      "gyro_z": 2.465
+    },
+    "environment": {
+      "temperature": 24.896,
+      "humidity": 54.97
+    },
+    "gps": {
+      "latitude": 37.774924,
+      "longitude": -122.41949,
+      "altitude": 113.4,
+      "timestamp": 2.6
+    },
+    "raw": {
+      "altitude": 113.4,
+      "velocity": 81.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.7,
+    "altimeter": {
+      "altitude": 120.755
+    },
+    "imu": {
+      "accel_x": 30.085,
+      "accel_y": -0.001,
+      "accel_z": 9.906,
+      "gyro_x": 1.223,
+      "gyro_y": -0.429,
+      "gyro_z": 2.496
+    },
+    "environment": {
+      "temperature": 25.394,
+      "humidity": 55.241
+    },
+    "gps": {
+      "latitude": 37.774865,
+      "longitude": -122.419481,
+      "altitude": 121.8,
+      "timestamp": 2.7
+    },
+    "raw": {
+      "altitude": 121.8,
+      "velocity": 84.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.8,
+    "altimeter": {
+      "altitude": 129.857
+    },
+    "imu": {
+      "accel_x": 30.205,
+      "accel_y": -0.051,
+      "accel_z": 9.946,
+      "gyro_x": 1.047,
+      "gyro_y": -0.634,
+      "gyro_z": 2.007
+    },
+    "environment": {
+      "temperature": 25.334,
+      "humidity": 55.857
+    },
+    "gps": {
+      "latitude": 37.774894,
+      "longitude": -122.419332,
+      "altitude": 130.5,
+      "timestamp": 2.8
+    },
+    "raw": {
+      "altitude": 130.5,
+      "velocity": 87.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 2.9,
+    "altimeter": {
+      "altitude": 139.915
+    },
+    "imu": {
+      "accel_x": 30.147,
+      "accel_y": -0.466,
+      "accel_z": 9.565,
+      "gyro_x": 0.793,
+      "gyro_y": -0.427,
+      "gyro_z": 1.538
+    },
+    "environment": {
+      "temperature": 25.461,
+      "humidity": 55.651
+    },
+    "gps": {
+      "latitude": 37.77484,
+      "longitude": -122.419448,
+      "altitude": 139.5,
+      "timestamp": 2.9
+    },
+    "raw": {
+      "altitude": 139.5,
+      "velocity": 90.0,
+      "acceleration": 30.0
+    }
+  },
+  {
+    "time": 3.0,
+    "altimeter": {
+      "altitude": 147.811
+    },
+    "imu": {
+      "accel_x": -4.893,
+      "accel_y": 0.504,
+      "accel_z": 9.419,
+      "gyro_x": 0.172,
+      "gyro_y": -0.041,
+      "gyro_z": 2.652
+    },
+    "environment": {
+      "temperature": 24.781,
+      "humidity": 54.955
+    },
+    "gps": {
+      "latitude": 37.774833,
+      "longitude": -122.419383,
+      "altitude": 148.45,
+      "timestamp": 3.0
+    },
+    "raw": {
+      "altitude": 148.45,
+      "velocity": 89.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.1,
+    "altimeter": {
+      "altitude": 157.442
+    },
+    "imu": {
+      "accel_x": -3.722,
+      "accel_y": -0.091,
+      "accel_z": 9.755,
+      "gyro_x": 0.094,
+      "gyro_y": 0.206,
+      "gyro_z": 1.731
+    },
+    "environment": {
+      "temperature": 24.006,
+      "humidity": 54.891
+    },
+    "gps": {
+      "latitude": 37.77486,
+      "longitude": -122.419405,
+      "altitude": 157.35,
+      "timestamp": 3.1
+    },
+    "raw": {
+      "altitude": 157.35,
+      "velocity": 89.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.2,
+    "altimeter": {
+      "altitude": 166.215
+    },
+    "imu": {
+      "accel_x": -4.745,
+      "accel_y": 0.721,
+      "accel_z": 9.19,
+      "gyro_x": 1.014,
+      "gyro_y": -0.531,
+      "gyro_z": 1.901
+    },
+    "environment": {
+      "temperature": 24.903,
+      "humidity": 54.716
+    },
+    "gps": {
+      "latitude": 37.774802,
+      "longitude": -122.419334,
+      "altitude": 166.2,
+      "timestamp": 3.2
+    },
+    "raw": {
+      "altitude": 166.2,
+      "velocity": 88.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.3,
+    "altimeter": {
+      "altitude": 175.209
+    },
+    "imu": {
+      "accel_x": -4.558,
+      "accel_y": 0.541,
+      "accel_z": 9.544,
+      "gyro_x": 1.526,
+      "gyro_y": 0.646,
+      "gyro_z": 1.842
+    },
+    "environment": {
+      "temperature": 25.159,
+      "humidity": 55.012
+    },
+    "gps": {
+      "latitude": 37.774856,
+      "longitude": -122.419395,
+      "altitude": 175.0,
+      "timestamp": 3.3
+    },
+    "raw": {
+      "altitude": 175.0,
+      "velocity": 88.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.4,
+    "altimeter": {
+      "altitude": 183.455
+    },
+    "imu": {
+      "accel_x": -4.46,
+      "accel_y": -0.097,
+      "accel_z": 9.469,
+      "gyro_x": -0.046,
+      "gyro_y": -1.012,
+      "gyro_z": 2.508
+    },
+    "environment": {
+      "temperature": 25.48,
+      "humidity": 55.783
+    },
+    "gps": {
+      "latitude": 37.774959,
+      "longitude": -122.419399,
+      "altitude": 183.75,
+      "timestamp": 3.4
+    },
+    "raw": {
+      "altitude": 183.75,
+      "velocity": 87.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.5,
+    "altimeter": {
+      "altitude": 192.941
+    },
+    "imu": {
+      "accel_x": -4.768,
+      "accel_y": -0.434,
+      "accel_z": 10.792,
+      "gyro_x": 0.846,
+      "gyro_y": 0.321,
+      "gyro_z": 1.244
+    },
+    "environment": {
+      "temperature": 25.441,
+      "humidity": 55.222
+    },
+    "gps": {
+      "latitude": 37.774889,
+      "longitude": -122.41947,
+      "altitude": 192.45,
+      "timestamp": 3.5
+    },
+    "raw": {
+      "altitude": 192.45,
+      "velocity": 87.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.6,
+    "altimeter": {
+      "altitude": 201.889
+    },
+    "imu": {
+      "accel_x": -5.586,
+      "accel_y": -1.105,
+      "accel_z": 9.749,
+      "gyro_x": 0.456,
+      "gyro_y": 0.766,
+      "gyro_z": 2.712
+    },
+    "environment": {
+      "temperature": 25.261,
+      "humidity": 54.973
+    },
+    "gps": {
+      "latitude": 37.774898,
+      "longitude": -122.419415,
+      "altitude": 201.1,
+      "timestamp": 3.6
+    },
+    "raw": {
+      "altitude": 201.1,
+      "velocity": 86.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.7,
+    "altimeter": {
+      "altitude": 209.205
+    },
+    "imu": {
+      "accel_x": -4.336,
+      "accel_y": -0.411,
+      "accel_z": 10.25,
+      "gyro_x": 0.221,
+      "gyro_y": 0.01,
+      "gyro_z": 2.138
+    },
+    "environment": {
+      "temperature": 24.74,
+      "humidity": 54.673
+    },
+    "gps": {
+      "latitude": 37.774825,
+      "longitude": -122.419424,
+      "altitude": 209.7,
+      "timestamp": 3.7
+    },
+    "raw": {
+      "altitude": 209.7,
+      "velocity": 86.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.8,
+    "altimeter": {
+      "altitude": 217.951
+    },
+    "imu": {
+      "accel_x": -4.469,
+      "accel_y": -0.87,
+      "accel_z": 8.932,
+      "gyro_x": 1.252,
+      "gyro_y": 0.803,
+      "gyro_z": 1.561
+    },
+    "environment": {
+      "temperature": 24.425,
+      "humidity": 54.459
+    },
+    "gps": {
+      "latitude": 37.774997,
+      "longitude": -122.419479,
+      "altitude": 218.25,
+      "timestamp": 3.8
+    },
+    "raw": {
+      "altitude": 218.25,
+      "velocity": 85.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 3.9,
+    "altimeter": {
+      "altitude": 226.604
+    },
+    "imu": {
+      "accel_x": -5.385,
+      "accel_y": 0.631,
+      "accel_z": 9.997,
+      "gyro_x": 1.57,
+      "gyro_y": 0.23,
+      "gyro_z": 1.979
+    },
+    "environment": {
+      "temperature": 24.787,
+      "humidity": 54.993
+    },
+    "gps": {
+      "latitude": 37.774855,
+      "longitude": -122.419354,
+      "altitude": 226.75,
+      "timestamp": 3.9
+    },
+    "raw": {
+      "altitude": 226.75,
+      "velocity": 85.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.0,
+    "altimeter": {
+      "altitude": 235.308
+    },
+    "imu": {
+      "accel_x": -4.449,
+      "accel_y": -0.923,
+      "accel_z": 9.853,
+      "gyro_x": 0.478,
+      "gyro_y": -0.997,
+      "gyro_z": 1.556
+    },
+    "environment": {
+      "temperature": 24.41,
+      "humidity": 55.279
+    },
+    "gps": {
+      "latitude": 37.774854,
+      "longitude": -122.419314,
+      "altitude": 235.2,
+      "timestamp": 4.0
+    },
+    "raw": {
+      "altitude": 235.2,
+      "velocity": 84.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.1,
+    "altimeter": {
+      "altitude": 243.672
+    },
+    "imu": {
+      "accel_x": -4.729,
+      "accel_y": -0.092,
+      "accel_z": 9.628,
+      "gyro_x": 0.352,
+      "gyro_y": -0.377,
+      "gyro_z": 0.969
+    },
+    "environment": {
+      "temperature": 24.87,
+      "humidity": 54.334
+    },
+    "gps": {
+      "latitude": 37.774855,
+      "longitude": -122.419421,
+      "altitude": 243.6,
+      "timestamp": 4.1
+    },
+    "raw": {
+      "altitude": 243.6,
+      "velocity": 84.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.2,
+    "altimeter": {
+      "altitude": 252.032
+    },
+    "imu": {
+      "accel_x": -4.401,
+      "accel_y": -0.322,
+      "accel_z": 8.958,
+      "gyro_x": 1.194,
+      "gyro_y": -0.391,
+      "gyro_z": 1.383
+    },
+    "environment": {
+      "temperature": 25.598,
+      "humidity": 56.145
+    },
+    "gps": {
+      "latitude": 37.774913,
+      "longitude": -122.419457,
+      "altitude": 251.95,
+      "timestamp": 4.2
+    },
+    "raw": {
+      "altitude": 251.95,
+      "velocity": 83.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.3,
+    "altimeter": {
+      "altitude": 260.857
+    },
+    "imu": {
+      "accel_x": -4.554,
+      "accel_y": 0.177,
+      "accel_z": 10.286,
+      "gyro_x": 0.001,
+      "gyro_y": -0.184,
+      "gyro_z": 1.389
+    },
+    "environment": {
+      "temperature": 24.01,
+      "humidity": 53.782
+    },
+    "gps": {
+      "latitude": 37.77484,
+      "longitude": -122.419387,
+      "altitude": 260.25,
+      "timestamp": 4.3
+    },
+    "raw": {
+      "altitude": 260.25,
+      "velocity": 83.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.4,
+    "altimeter": {
+      "altitude": 269.398
+    },
+    "imu": {
+      "accel_x": -4.637,
+      "accel_y": 1.179,
+      "accel_z": 10.972,
+      "gyro_x": 0.646,
+      "gyro_y": -0.287,
+      "gyro_z": 0.779
+    },
+    "environment": {
+      "temperature": 24.381,
+      "humidity": 54.739
+    },
+    "gps": {
+      "latitude": 37.774962,
+      "longitude": -122.419478,
+      "altitude": 268.5,
+      "timestamp": 4.4
+    },
+    "raw": {
+      "altitude": 268.5,
+      "velocity": 82.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.5,
+    "altimeter": {
+      "altitude": 276.834
+    },
+    "imu": {
+      "accel_x": -5.429,
+      "accel_y": 0.707,
+      "accel_z": 10.466,
+      "gyro_x": -0.055,
+      "gyro_y": 0.276,
+      "gyro_z": 1.155
+    },
+    "environment": {
+      "temperature": 24.206,
+      "humidity": 54.848
+    },
+    "gps": {
+      "latitude": 37.774818,
+      "longitude": -122.419376,
+      "altitude": 276.7,
+      "timestamp": 4.5
+    },
+    "raw": {
+      "altitude": 276.7,
+      "velocity": 82.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.6,
+    "altimeter": {
+      "altitude": 284.953
+    },
+    "imu": {
+      "accel_x": -5.883,
+      "accel_y": -0.033,
+      "accel_z": 9.451,
+      "gyro_x": 1.332,
+      "gyro_y": -0.527,
+      "gyro_z": 1.474
+    },
+    "environment": {
+      "temperature": 24.805,
+      "humidity": 54.873
+    },
+    "gps": {
+      "latitude": 37.774951,
+      "longitude": -122.419483,
+      "altitude": 284.85,
+      "timestamp": 4.6
+    },
+    "raw": {
+      "altitude": 284.85,
+      "velocity": 81.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.7,
+    "altimeter": {
+      "altitude": 292.625
+    },
+    "imu": {
+      "accel_x": -4.943,
+      "accel_y": 0.998,
+      "accel_z": 10.013,
+      "gyro_x": 1.284,
+      "gyro_y": -0.18,
+      "gyro_z": 1.95
+    },
+    "environment": {
+      "temperature": 25.186,
+      "humidity": 54.844
+    },
+    "gps": {
+      "latitude": 37.774932,
+      "longitude": -122.419466,
+      "altitude": 292.95,
+      "timestamp": 4.7
+    },
+    "raw": {
+      "altitude": 292.95,
+      "velocity": 81.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.8,
+    "altimeter": {
+      "altitude": 300.711
+    },
+    "imu": {
+      "accel_x": -5.237,
+      "accel_y": 0.184,
+      "accel_z": 10.035,
+      "gyro_x": 0.08,
+      "gyro_y": -0.358,
+      "gyro_z": 0.932
+    },
+    "environment": {
+      "temperature": 24.751,
+      "humidity": 55.632
+    },
+    "gps": {
+      "latitude": 37.774918,
+      "longitude": -122.419313,
+      "altitude": 301.0,
+      "timestamp": 4.8
+    },
+    "raw": {
+      "altitude": 301.0,
+      "velocity": 80.5,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 4.9,
+    "altimeter": {
+      "altitude": 309.974
+    },
+    "imu": {
+      "accel_x": -5.009,
+      "accel_y": 0.164,
+      "accel_z": 9.545,
+      "gyro_x": 1.141,
+      "gyro_y": -0.383,
+      "gyro_z": 1.078
+    },
+    "environment": {
+      "temperature": 24.837,
+      "humidity": 54.505
+    },
+    "gps": {
+      "latitude": 37.774921,
+      "longitude": -122.41934,
+      "altitude": 309.0,
+      "timestamp": 4.9
+    },
+    "raw": {
+      "altitude": 309.0,
+      "velocity": 80.0,
+      "acceleration": -5.0
+    }
+  },
+  {
+    "time": 5.0,
+    "altimeter": {
+      "altitude": 317.061
+    },
+    "imu": {
+      "accel_x": -9.8,
+      "accel_y": 0.466,
+      "accel_z": 10.509,
+      "gyro_x": 1.51,
+      "gyro_y": 0.363,
+      "gyro_z": 1.169
+    },
+    "environment": {
+      "temperature": 25.073,
+      "humidity": 54.807
+    },
+    "gps": {
+      "latitude": 37.774859,
+      "longitude": -122.419421,
+      "altitude": 316.9,
+      "timestamp": 5.0
+    },
+    "raw": {
+      "altitude": 316.9,
+      "velocity": 79.02,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.1,
+    "altimeter": {
+      "altitude": 324.909
+    },
+    "imu": {
+      "accel_x": -9.552,
+      "accel_y": -0.419,
+      "accel_z": 9.008,
+      "gyro_x": 1.024,
+      "gyro_y": 0.793,
+      "gyro_z": 0.267
+    },
+    "environment": {
+      "temperature": 25.218,
+      "humidity": 55.375
+    },
+    "gps": {
+      "latitude": 37.774921,
+      "longitude": -122.419302,
+      "altitude": 324.71,
+      "timestamp": 5.1
+    },
+    "raw": {
+      "altitude": 324.71,
+      "velocity": 78.04,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.2,
+    "altimeter": {
+      "altitude": 332.758
+    },
+    "imu": {
+      "accel_x": -9.993,
+      "accel_y": 0.524,
+      "accel_z": 9.464,
+      "gyro_x": 1.349,
+      "gyro_y": 0.378,
+      "gyro_z": 1.299
+    },
+    "environment": {
+      "temperature": 24.531,
+      "humidity": 54.574
+    },
+    "gps": {
+      "latitude": 37.774833,
+      "longitude": -122.419337,
+      "altitude": 332.41,
+      "timestamp": 5.2
+    },
+    "raw": {
+      "altitude": 332.41,
+      "velocity": 77.06,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.3,
+    "altimeter": {
+      "altitude": 340.347
+    },
+    "imu": {
+      "accel_x": -10.415,
+      "accel_y": -0.721,
+      "accel_z": 10.08,
+      "gyro_x": 0.756,
+      "gyro_y": 0.372,
+      "gyro_z": 1.198
+    },
+    "environment": {
+      "temperature": 25.457,
+      "humidity": 55.499
+    },
+    "gps": {
+      "latitude": 37.774904,
+      "longitude": -122.419365,
+      "altitude": 340.02,
+      "timestamp": 5.3
+    },
+    "raw": {
+      "altitude": 340.02,
+      "velocity": 76.08,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.4,
+    "altimeter": {
+      "altitude": 348.574
+    },
+    "imu": {
+      "accel_x": -9.51,
+      "accel_y": 0.265,
+      "accel_z": 9.958,
+      "gyro_x": 1.185,
+      "gyro_y": -0.178,
+      "gyro_z": 1.662
+    },
+    "environment": {
+      "temperature": 24.301,
+      "humidity": 53.971
+    },
+    "gps": {
+      "latitude": 37.774873,
+      "longitude": -122.419425,
+      "altitude": 347.53,
+      "timestamp": 5.4
+    },
+    "raw": {
+      "altitude": 347.53,
+      "velocity": 75.1,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.5,
+    "altimeter": {
+      "altitude": 353.689
+    },
+    "imu": {
+      "accel_x": -9.146,
+      "accel_y": 0.736,
+      "accel_z": 10.29,
+      "gyro_x": 0.785,
+      "gyro_y": 0.275,
+      "gyro_z": 2.092
+    },
+    "environment": {
+      "temperature": 25.108,
+      "humidity": 56.099
+    },
+    "gps": {
+      "latitude": 37.77482,
+      "longitude": -122.419304,
+      "altitude": 354.94,
+      "timestamp": 5.5
+    },
+    "raw": {
+      "altitude": 354.94,
+      "velocity": 74.11,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.6,
+    "altimeter": {
+      "altitude": 361.854
+    },
+    "imu": {
+      "accel_x": -8.934,
+      "accel_y": -0.653,
+      "accel_z": 9.623,
+      "gyro_x": 0.678,
+      "gyro_y": -1.158,
+      "gyro_z": 0.708
+    },
+    "environment": {
+      "temperature": 26.473,
+      "humidity": 54.885
+    },
+    "gps": {
+      "latitude": 37.774936,
+      "longitude": -122.419328,
+      "altitude": 362.25,
+      "timestamp": 5.6
+    },
+    "raw": {
+      "altitude": 362.25,
+      "velocity": 73.13,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.7,
+    "altimeter": {
+      "altitude": 370.278
+    },
+    "imu": {
+      "accel_x": -9.941,
+      "accel_y": 0.665,
+      "accel_z": 10.521,
+      "gyro_x": 0.991,
+      "gyro_y": 0.562,
+      "gyro_z": 1.601
+    },
+    "environment": {
+      "temperature": 25.256,
+      "humidity": 54.867
+    },
+    "gps": {
+      "latitude": 37.774821,
+      "longitude": -122.419361,
+      "altitude": 369.47,
+      "timestamp": 5.7
+    },
+    "raw": {
+      "altitude": 369.47,
+      "velocity": 72.15,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.8,
+    "altimeter": {
+      "altitude": 377.37
+    },
+    "imu": {
+      "accel_x": -9.652,
+      "accel_y": -0.18,
+      "accel_z": 9.936,
+      "gyro_x": 0.969,
+      "gyro_y": 0.999,
+      "gyro_z": 0.846
+    },
+    "environment": {
+      "temperature": 24.714,
+      "humidity": 54.487
+    },
+    "gps": {
+      "latitude": 37.774945,
+      "longitude": -122.41942,
+      "altitude": 376.59,
+      "timestamp": 5.8
+    },
+    "raw": {
+      "altitude": 376.59,
+      "velocity": 71.17,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 5.9,
+    "altimeter": {
+      "altitude": 384.311
+    },
+    "imu": {
+      "accel_x": -10.317,
+      "accel_y": 0.326,
+      "accel_z": 9.924,
+      "gyro_x": 1.34,
+      "gyro_y": 0.897,
+      "gyro_z": 1.637
+    },
+    "environment": {
+      "temperature": 24.203,
+      "humidity": 53.915
+    },
+    "gps": {
+      "latitude": 37.77496,
+      "longitude": -122.419492,
+      "altitude": 383.6,
+      "timestamp": 5.9
+    },
+    "raw": {
+      "altitude": 383.6,
+      "velocity": 70.19,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.0,
+    "altimeter": {
+      "altitude": 391.539
+    },
+    "imu": {
+      "accel_x": -10.262,
+      "accel_y": -0.473,
+      "accel_z": 9.002,
+      "gyro_x": 1.025,
+      "gyro_y": -0.381,
+      "gyro_z": 1.77
+    },
+    "environment": {
+      "temperature": 24.826,
+      "humidity": 55.575
+    },
+    "gps": {
+      "latitude": 37.774826,
+      "longitude": -122.419492,
+      "altitude": 390.53,
+      "timestamp": 6.0
+    },
+    "raw": {
+      "altitude": 390.53,
+      "velocity": 69.21,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.1,
+    "altimeter": {
+      "altitude": 398.465
+    },
+    "imu": {
+      "accel_x": -9.694,
+      "accel_y": -0.327,
+      "accel_z": 9.89,
+      "gyro_x": 0.664,
+      "gyro_y": 0.584,
+      "gyro_z": 0.95
+    },
+    "environment": {
+      "temperature": 24.778,
+      "humidity": 55.657
+    },
+    "gps": {
+      "latitude": 37.774964,
+      "longitude": -122.419452,
+      "altitude": 397.35,
+      "timestamp": 6.1
+    },
+    "raw": {
+      "altitude": 397.35,
+      "velocity": 68.23,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.2,
+    "altimeter": {
+      "altitude": 404.075
+    },
+    "imu": {
+      "accel_x": -10.115,
+      "accel_y": 0.157,
+      "accel_z": 9.892,
+      "gyro_x": 0.949,
+      "gyro_y": -0.219,
+      "gyro_z": 2.036
+    },
+    "environment": {
+      "temperature": 24.389,
+      "humidity": 55.478
+    },
+    "gps": {
+      "latitude": 37.774822,
+      "longitude": -122.419368,
+      "altitude": 404.07,
+      "timestamp": 6.2
+    },
+    "raw": {
+      "altitude": 404.07,
+      "velocity": 67.25,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.3,
+    "altimeter": {
+      "altitude": 410.757
+    },
+    "imu": {
+      "accel_x": -9.339,
+      "accel_y": 0.98,
+      "accel_z": 9.959,
+      "gyro_x": 1.141,
+      "gyro_y": 0.195,
+      "gyro_z": 0.884
+    },
+    "environment": {
+      "temperature": 24.982,
+      "humidity": 54.84
+    },
+    "gps": {
+      "latitude": 37.774977,
+      "longitude": -122.419416,
+      "altitude": 410.7,
+      "timestamp": 6.3
+    },
+    "raw": {
+      "altitude": 410.7,
+      "velocity": 66.27,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.4,
+    "altimeter": {
+      "altitude": 418.557
+    },
+    "imu": {
+      "accel_x": -9.497,
+      "accel_y": -0.155,
+      "accel_z": 10.476,
+      "gyro_x": 0.625,
+      "gyro_y": 0.236,
+      "gyro_z": 2.152
+    },
+    "environment": {
+      "temperature": 25.356,
+      "humidity": 54.534
+    },
+    "gps": {
+      "latitude": 37.774812,
+      "longitude": -122.419372,
+      "altitude": 417.23,
+      "timestamp": 6.4
+    },
+    "raw": {
+      "altitude": 417.23,
+      "velocity": 65.29,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.5,
+    "altimeter": {
+      "altitude": 424.243
+    },
+    "imu": {
+      "accel_x": -9.831,
+      "accel_y": -0.138,
+      "accel_z": 9.524,
+      "gyro_x": 1.354,
+      "gyro_y": 1.282,
+      "gyro_z": 0.601
+    },
+    "environment": {
+      "temperature": 24.783,
+      "humidity": 54.333
+    },
+    "gps": {
+      "latitude": 37.774881,
+      "longitude": -122.419447,
+      "altitude": 423.66,
+      "timestamp": 6.5
+    },
+    "raw": {
+      "altitude": 423.66,
+      "velocity": 64.3,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.6,
+    "altimeter": {
+      "altitude": 429.526
+    },
+    "imu": {
+      "accel_x": -9.002,
+      "accel_y": -0.433,
+      "accel_z": 9.3,
+      "gyro_x": 2.037,
+      "gyro_y": -0.043,
+      "gyro_z": 0.256
+    },
+    "environment": {
+      "temperature": 24.591,
+      "humidity": 55.165
+    },
+    "gps": {
+      "latitude": 37.774851,
+      "longitude": -122.419306,
+      "altitude": 429.99,
+      "timestamp": 6.6
+    },
+    "raw": {
+      "altitude": 429.99,
+      "velocity": 63.32,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.7,
+    "altimeter": {
+      "altitude": 436.632
+    },
+    "imu": {
+      "accel_x": -10.737,
+      "accel_y": 0.57,
+      "accel_z": 9.475,
+      "gyro_x": 0.387,
+      "gyro_y": -0.387,
+      "gyro_z": 0.954
+    },
+    "environment": {
+      "temperature": 25.131,
+      "humidity": 55.798
+    },
+    "gps": {
+      "latitude": 37.774938,
+      "longitude": -122.419362,
+      "altitude": 436.22,
+      "timestamp": 6.7
+    },
+    "raw": {
+      "altitude": 436.22,
+      "velocity": 62.34,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.8,
+    "altimeter": {
+      "altitude": 441.447
+    },
+    "imu": {
+      "accel_x": -8.788,
+      "accel_y": -0.631,
+      "accel_z": 9.806,
+      "gyro_x": 0.285,
+      "gyro_y": 0.993,
+      "gyro_z": 0.546
+    },
+    "environment": {
+      "temperature": 24.706,
+      "humidity": 54.894
+    },
+    "gps": {
+      "latitude": 37.774821,
+      "longitude": -122.419428,
+      "altitude": 442.36,
+      "timestamp": 6.8
+    },
+    "raw": {
+      "altitude": 442.36,
+      "velocity": 61.36,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 6.9,
+    "altimeter": {
+      "altitude": 449.111
+    },
+    "imu": {
+      "accel_x": -10.395,
+      "accel_y": 0.387,
+      "accel_z": 9.803,
+      "gyro_x": -0.432,
+      "gyro_y": -0.066,
+      "gyro_z": 1.018
+    },
+    "environment": {
+      "temperature": 25.005,
+      "humidity": 53.99
+    },
+    "gps": {
+      "latitude": 37.774811,
+      "longitude": -122.419429,
+      "altitude": 448.4,
+      "timestamp": 6.9
+    },
+    "raw": {
+      "altitude": 448.4,
+      "velocity": 60.38,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.0,
+    "altimeter": {
+      "altitude": 454.692
+    },
+    "imu": {
+      "accel_x": -9.061,
+      "accel_y": 0.76,
+      "accel_z": 9.221,
+      "gyro_x": 1.245,
+      "gyro_y": -0.331,
+      "gyro_z": 1.044
+    },
+    "environment": {
+      "temperature": 24.48,
+      "humidity": 54.417
+    },
+    "gps": {
+      "latitude": 37.77491,
+      "longitude": -122.41942,
+      "altitude": 454.34,
+      "timestamp": 7.0
+    },
+    "raw": {
+      "altitude": 454.34,
+      "velocity": 59.4,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.1,
+    "altimeter": {
+      "altitude": 460.31
+    },
+    "imu": {
+      "accel_x": -10.477,
+      "accel_y": 0.661,
+      "accel_z": 9.438,
+      "gyro_x": 0.26,
+      "gyro_y": -0.044,
+      "gyro_z": 0.74
+    },
+    "environment": {
+      "temperature": 24.76,
+      "humidity": 55.272
+    },
+    "gps": {
+      "latitude": 37.774957,
+      "longitude": -122.419336,
+      "altitude": 460.18,
+      "timestamp": 7.1
+    },
+    "raw": {
+      "altitude": 460.18,
+      "velocity": 58.42,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.2,
+    "altimeter": {
+      "altitude": 464.987
+    },
+    "imu": {
+      "accel_x": -10.044,
+      "accel_y": -0.0,
+      "accel_z": 9.595,
+      "gyro_x": 0.702,
+      "gyro_y": -0.379,
+      "gyro_z": 2.015
+    },
+    "environment": {
+      "temperature": 24.791,
+      "humidity": 55.952
+    },
+    "gps": {
+      "latitude": 37.774964,
+      "longitude": -122.419411,
+      "altitude": 465.92,
+      "timestamp": 7.2
+    },
+    "raw": {
+      "altitude": 465.92,
+      "velocity": 57.44,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.3,
+    "altimeter": {
+      "altitude": 471.197
+    },
+    "imu": {
+      "accel_x": -10.5,
+      "accel_y": -0.115,
+      "accel_z": 9.836,
+      "gyro_x": 0.762,
+      "gyro_y": -0.679,
+      "gyro_z": 1.101
+    },
+    "environment": {
+      "temperature": 25.164,
+      "humidity": 55.06
+    },
+    "gps": {
+      "latitude": 37.774945,
+      "longitude": -122.41935,
+      "altitude": 471.57,
+      "timestamp": 7.3
+    },
+    "raw": {
+      "altitude": 471.57,
+      "velocity": 56.46,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.4,
+    "altimeter": {
+      "altitude": 477.179
+    },
+    "imu": {
+      "accel_x": -8.803,
+      "accel_y": -0.113,
+      "accel_z": 9.643,
+      "gyro_x": -0.197,
+      "gyro_y": 0.024,
+      "gyro_z": 0.309
+    },
+    "environment": {
+      "temperature": 25.097,
+      "humidity": 54.277
+    },
+    "gps": {
+      "latitude": 37.77497,
+      "longitude": -122.419474,
+      "altitude": 477.12,
+      "timestamp": 7.4
+    },
+    "raw": {
+      "altitude": 477.12,
+      "velocity": 55.48,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.5,
+    "altimeter": {
+      "altitude": 482.313
+    },
+    "imu": {
+      "accel_x": -9.086,
+      "accel_y": 0.038,
+      "accel_z": 10.245,
+      "gyro_x": 0.794,
+      "gyro_y": -0.198,
+      "gyro_z": 1.195
+    },
+    "environment": {
+      "temperature": 24.977,
+      "humidity": 54.394
+    },
+    "gps": {
+      "latitude": 37.774937,
+      "longitude": -122.419396,
+      "altitude": 482.57,
+      "timestamp": 7.5
+    },
+    "raw": {
+      "altitude": 482.57,
+      "velocity": 54.49,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.6,
+    "altimeter": {
+      "altitude": 487.262
+    },
+    "imu": {
+      "accel_x": -9.18,
+      "accel_y": 0.835,
+      "accel_z": 10.771,
+      "gyro_x": 0.864,
+      "gyro_y": -0.787,
+      "gyro_z": 1.281
+    },
+    "environment": {
+      "temperature": 24.516,
+      "humidity": 55.219
+    },
+    "gps": {
+      "latitude": 37.774869,
+      "longitude": -122.419467,
+      "altitude": 487.92,
+      "timestamp": 7.6
+    },
+    "raw": {
+      "altitude": 487.92,
+      "velocity": 53.51,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.7,
+    "altimeter": {
+      "altitude": 494.044
+    },
+    "imu": {
+      "accel_x": -9.514,
+      "accel_y": 0.092,
+      "accel_z": 10.006,
+      "gyro_x": 0.311,
+      "gyro_y": -0.347,
+      "gyro_z": 0.867
+    },
+    "environment": {
+      "temperature": 23.945,
+      "humidity": 54.701
+    },
+    "gps": {
+      "latitude": 37.774847,
+      "longitude": -122.419497,
+      "altitude": 493.17,
+      "timestamp": 7.7
+    },
+    "raw": {
+      "altitude": 493.17,
+      "velocity": 52.53,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.8,
+    "altimeter": {
+      "altitude": 498.042
+    },
+    "imu": {
+      "accel_x": -9.557,
+      "accel_y": -0.286,
+      "accel_z": 9.227,
+      "gyro_x": -0.232,
+      "gyro_y": 0.798,
+      "gyro_z": 0.656
+    },
+    "environment": {
+      "temperature": 24.629,
+      "humidity": 54.267
+    },
+    "gps": {
+      "latitude": 37.774927,
+      "longitude": -122.419449,
+      "altitude": 498.33,
+      "timestamp": 7.8
+    },
+    "raw": {
+      "altitude": 498.33,
+      "velocity": 51.55,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 7.9,
+    "altimeter": {
+      "altitude": 503.558
+    },
+    "imu": {
+      "accel_x": -10.435,
+      "accel_y": -0.382,
+      "accel_z": 9.298,
+      "gyro_x": 0.412,
+      "gyro_y": -0.329,
+      "gyro_z": 1.097
+    },
+    "environment": {
+      "temperature": 24.97,
+      "humidity": 55.231
+    },
+    "gps": {
+      "latitude": 37.774934,
+      "longitude": -122.419459,
+      "altitude": 503.38,
+      "timestamp": 7.9
+    },
+    "raw": {
+      "altitude": 503.38,
+      "velocity": 50.57,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.0,
+    "altimeter": {
+      "altitude": 509.035
+    },
+    "imu": {
+      "accel_x": -9.958,
+      "accel_y": -0.115,
+      "accel_z": 10.161,
+      "gyro_x": 0.261,
+      "gyro_y": -0.176,
+      "gyro_z": 1.777
+    },
+    "environment": {
+      "temperature": 25.17,
+      "humidity": 54.914
+    },
+    "gps": {
+      "latitude": 37.774942,
+      "longitude": -122.419323,
+      "altitude": 508.34,
+      "timestamp": 8.0
+    },
+    "raw": {
+      "altitude": 508.34,
+      "velocity": 49.59,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.1,
+    "altimeter": {
+      "altitude": 512.979
+    },
+    "imu": {
+      "accel_x": -10.095,
+      "accel_y": -0.039,
+      "accel_z": 9.004,
+      "gyro_x": 0.797,
+      "gyro_y": 0.195,
+      "gyro_z": 0.679
+    },
+    "environment": {
+      "temperature": 25.021,
+      "humidity": 54.767
+    },
+    "gps": {
+      "latitude": 37.774888,
+      "longitude": -122.419405,
+      "altitude": 513.2,
+      "timestamp": 8.1
+    },
+    "raw": {
+      "altitude": 513.2,
+      "velocity": 48.61,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.2,
+    "altimeter": {
+      "altitude": 518.505
+    },
+    "imu": {
+      "accel_x": -10.548,
+      "accel_y": 0.33,
+      "accel_z": 9.385,
+      "gyro_x": 0.336,
+      "gyro_y": 0.448,
+      "gyro_z": 1.384
+    },
+    "environment": {
+      "temperature": 24.819,
+      "humidity": 54.899
+    },
+    "gps": {
+      "latitude": 37.774908,
+      "longitude": -122.419412,
+      "altitude": 517.97,
+      "timestamp": 8.2
+    },
+    "raw": {
+      "altitude": 517.97,
+      "velocity": 47.63,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.3,
+    "altimeter": {
+      "altitude": 523.08
+    },
+    "imu": {
+      "accel_x": -9.806,
+      "accel_y": -0.973,
+      "accel_z": 9.042,
+      "gyro_x": -0.363,
+      "gyro_y": -0.326,
+      "gyro_z": 0.918
+    },
+    "environment": {
+      "temperature": 24.777,
+      "humidity": 54.6
+    },
+    "gps": {
+      "latitude": 37.774859,
+      "longitude": -122.419398,
+      "altitude": 522.63,
+      "timestamp": 8.3
+    },
+    "raw": {
+      "altitude": 522.63,
+      "velocity": 46.65,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.4,
+    "altimeter": {
+      "altitude": 527.149
+    },
+    "imu": {
+      "accel_x": -10.192,
+      "accel_y": -0.404,
+      "accel_z": 10.162,
+      "gyro_x": 0.529,
+      "gyro_y": -0.317,
+      "gyro_z": -0.192
+    },
+    "environment": {
+      "temperature": 24.983,
+      "humidity": 55.379
+    },
+    "gps": {
+      "latitude": 37.774846,
+      "longitude": -122.419302,
+      "altitude": 527.2,
+      "timestamp": 8.4
+    },
+    "raw": {
+      "altitude": 527.2,
+      "velocity": 45.67,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.5,
+    "altimeter": {
+      "altitude": 531.517
+    },
+    "imu": {
+      "accel_x": -9.803,
+      "accel_y": 1.048,
+      "accel_z": 9.994,
+      "gyro_x": 0.134,
+      "gyro_y": 0.189,
+      "gyro_z": 1.431
+    },
+    "environment": {
+      "temperature": 25.302,
+      "humidity": 55.256
+    },
+    "gps": {
+      "latitude": 37.774955,
+      "longitude": -122.419478,
+      "altitude": 531.67,
+      "timestamp": 8.5
+    },
+    "raw": {
+      "altitude": 531.67,
+      "velocity": 44.68,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.6,
+    "altimeter": {
+      "altitude": 535.84
+    },
+    "imu": {
+      "accel_x": -9.411,
+      "accel_y": 0.742,
+      "accel_z": 9.386,
+      "gyro_x": 0.524,
+      "gyro_y": 0.59,
+      "gyro_z": 0.653
+    },
+    "environment": {
+      "temperature": 25.903,
+      "humidity": 54.343
+    },
+    "gps": {
+      "latitude": 37.774996,
+      "longitude": -122.419326,
+      "altitude": 536.04,
+      "timestamp": 8.6
+    },
+    "raw": {
+      "altitude": 536.04,
+      "velocity": 43.7,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.7,
+    "altimeter": {
+      "altitude": 540.314
+    },
+    "imu": {
+      "accel_x": -9.368,
+      "accel_y": 0.693,
+      "accel_z": 8.804,
+      "gyro_x": -0.453,
+      "gyro_y": 0.133,
+      "gyro_z": -0.119
+    },
+    "environment": {
+      "temperature": 25.057,
+      "humidity": 55.981
+    },
+    "gps": {
+      "latitude": 37.774808,
+      "longitude": -122.419311,
+      "altitude": 540.31,
+      "timestamp": 8.7
+    },
+    "raw": {
+      "altitude": 540.31,
+      "velocity": 42.72,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.8,
+    "altimeter": {
+      "altitude": 544.603
+    },
+    "imu": {
+      "accel_x": -10.112,
+      "accel_y": -0.605,
+      "accel_z": 10.216,
+      "gyro_x": 1.015,
+      "gyro_y": -0.119,
+      "gyro_z": 0.823
+    },
+    "environment": {
+      "temperature": 25.72,
+      "humidity": 54.725
+    },
+    "gps": {
+      "latitude": 37.774879,
+      "longitude": -122.419359,
+      "altitude": 544.48,
+      "timestamp": 8.8
+    },
+    "raw": {
+      "altitude": 544.48,
+      "velocity": 41.74,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 8.9,
+    "altimeter": {
+      "altitude": 548.67
+    },
+    "imu": {
+      "accel_x": -10.104,
+      "accel_y": 0.119,
+      "accel_z": 9.882,
+      "gyro_x": 0.018,
+      "gyro_y": 0.933,
+      "gyro_z": 0.789
+    },
+    "environment": {
+      "temperature": 24.85,
+      "humidity": 54.783
+    },
+    "gps": {
+      "latitude": 37.774852,
+      "longitude": -122.41937,
+      "altitude": 548.56,
+      "timestamp": 8.9
+    },
+    "raw": {
+      "altitude": 548.56,
+      "velocity": 40.76,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.0,
+    "altimeter": {
+      "altitude": 551.786
+    },
+    "imu": {
+      "accel_x": -10.434,
+      "accel_y": 0.208,
+      "accel_z": 9.282,
+      "gyro_x": 0.886,
+      "gyro_y": 0.323,
+      "gyro_z": 0.242
+    },
+    "environment": {
+      "temperature": 24.524,
+      "humidity": 54.736
+    },
+    "gps": {
+      "latitude": 37.774923,
+      "longitude": -122.419441,
+      "altitude": 552.54,
+      "timestamp": 9.0
+    },
+    "raw": {
+      "altitude": 552.54,
+      "velocity": 39.78,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.1,
+    "altimeter": {
+      "altitude": 556.368
+    },
+    "imu": {
+      "accel_x": -9.967,
+      "accel_y": -0.551,
+      "accel_z": 10.03,
+      "gyro_x": 0.825,
+      "gyro_y": 0.518,
+      "gyro_z": 1.149
+    },
+    "environment": {
+      "temperature": 25.681,
+      "humidity": 54.946
+    },
+    "gps": {
+      "latitude": 37.774804,
+      "longitude": -122.419338,
+      "altitude": 556.42,
+      "timestamp": 9.1
+    },
+    "raw": {
+      "altitude": 556.42,
+      "velocity": 38.8,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.2,
+    "altimeter": {
+      "altitude": 560.849
+    },
+    "imu": {
+      "accel_x": -9.967,
+      "accel_y": -0.205,
+      "accel_z": 9.731,
+      "gyro_x": 0.145,
+      "gyro_y": 0.586,
+      "gyro_z": 1.987
+    },
+    "environment": {
+      "temperature": 25.83,
+      "humidity": 54.456
+    },
+    "gps": {
+      "latitude": 37.774903,
+      "longitude": -122.419378,
+      "altitude": 560.2,
+      "timestamp": 9.2
+    },
+    "raw": {
+      "altitude": 560.2,
+      "velocity": 37.82,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.3,
+    "altimeter": {
+      "altitude": 564.412
+    },
+    "imu": {
+      "accel_x": -9.792,
+      "accel_y": 0.18,
+      "accel_z": 9.197,
+      "gyro_x": -0.037,
+      "gyro_y": 0.415,
+      "gyro_z": 0.719
+    },
+    "environment": {
+      "temperature": 25.075,
+      "humidity": 55.857
+    },
+    "gps": {
+      "latitude": 37.774818,
+      "longitude": -122.419403,
+      "altitude": 563.88,
+      "timestamp": 9.3
+    },
+    "raw": {
+      "altitude": 563.88,
+      "velocity": 36.84,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.4,
+    "altimeter": {
+      "altitude": 568.593
+    },
+    "imu": {
+      "accel_x": -9.173,
+      "accel_y": 0.198,
+      "accel_z": 10.716,
+      "gyro_x": -0.2,
+      "gyro_y": 0.053,
+      "gyro_z": 0.63
+    },
+    "environment": {
+      "temperature": 25.526,
+      "humidity": 55.752
+    },
+    "gps": {
+      "latitude": 37.774936,
+      "longitude": -122.41945,
+      "altitude": 567.47,
+      "timestamp": 9.4
+    },
+    "raw": {
+      "altitude": 567.47,
+      "velocity": 35.86,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.5,
+    "altimeter": {
+      "altitude": 571.458
+    },
+    "imu": {
+      "accel_x": -10.349,
+      "accel_y": -0.15,
+      "accel_z": 9.424,
+      "gyro_x": 0.964,
+      "gyro_y": -0.381,
+      "gyro_z": 0.995
+    },
+    "environment": {
+      "temperature": 25.561,
+      "humidity": 54.297
+    },
+    "gps": {
+      "latitude": 37.774831,
+      "longitude": -122.41934,
+      "altitude": 570.95,
+      "timestamp": 9.5
+    },
+    "raw": {
+      "altitude": 570.95,
+      "velocity": 34.87,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.6,
+    "altimeter": {
+      "altitude": 574.48
+    },
+    "imu": {
+      "accel_x": -9.911,
+      "accel_y": -0.297,
+      "accel_z": 9.519,
+      "gyro_x": 0.826,
+      "gyro_y": 0.996,
+      "gyro_z": 0.914
+    },
+    "environment": {
+      "temperature": 25.074,
+      "humidity": 55.958
+    },
+    "gps": {
+      "latitude": 37.774872,
+      "longitude": -122.419315,
+      "altitude": 574.34,
+      "timestamp": 9.6
+    },
+    "raw": {
+      "altitude": 574.34,
+      "velocity": 33.89,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.7,
+    "altimeter": {
+      "altitude": 578.007
+    },
+    "imu": {
+      "accel_x": -9.682,
+      "accel_y": 1.137,
+      "accel_z": 9.708,
+      "gyro_x": 0.284,
+      "gyro_y": -0.59,
+      "gyro_z": 0.269
+    },
+    "environment": {
+      "temperature": 25.282,
+      "humidity": 55.563
+    },
+    "gps": {
+      "latitude": 37.774858,
+      "longitude": -122.419415,
+      "altitude": 577.63,
+      "timestamp": 9.7
+    },
+    "raw": {
+      "altitude": 577.63,
+      "velocity": 32.91,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.8,
+    "altimeter": {
+      "altitude": 580.375
+    },
+    "imu": {
+      "accel_x": -9.086,
+      "accel_y": 0.453,
+      "accel_z": 9.984,
+      "gyro_x": -0.058,
+      "gyro_y": 0.099,
+      "gyro_z": 1.194
+    },
+    "environment": {
+      "temperature": 24.841,
+      "humidity": 53.732
+    },
+    "gps": {
+      "latitude": 37.774971,
+      "longitude": -122.419321,
+      "altitude": 580.83,
+      "timestamp": 9.8
+    },
+    "raw": {
+      "altitude": 580.83,
+      "velocity": 31.93,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 9.9,
+    "altimeter": {
+      "altitude": 583.873
+    },
+    "imu": {
+      "accel_x": -9.771,
+      "accel_y": 0.577,
+      "accel_z": 8.96,
+      "gyro_x": 0.623,
+      "gyro_y": -0.788,
+      "gyro_z": 0.201
+    },
+    "environment": {
+      "temperature": 25.589,
+      "humidity": 55.382
+    },
+    "gps": {
+      "latitude": 37.774837,
+      "longitude": -122.419453,
+      "altitude": 583.92,
+      "timestamp": 9.9
+    },
+    "raw": {
+      "altitude": 583.92,
+      "velocity": 30.95,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.0,
+    "altimeter": {
+      "altitude": 587.113
+    },
+    "imu": {
+      "accel_x": -9.1,
+      "accel_y": 0.357,
+      "accel_z": 9.786,
+      "gyro_x": 0.739,
+      "gyro_y": -0.67,
+      "gyro_z": 0.611
+    },
+    "environment": {
+      "temperature": 25.489,
+      "humidity": 54.241
+    },
+    "gps": {
+      "latitude": 37.774948,
+      "longitude": -122.419374,
+      "altitude": 586.92,
+      "timestamp": 10.0
+    },
+    "raw": {
+      "altitude": 586.92,
+      "velocity": 29.97,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.1,
+    "altimeter": {
+      "altitude": 589.094
+    },
+    "imu": {
+      "accel_x": -9.772,
+      "accel_y": -0.115,
+      "accel_z": 10.076,
+      "gyro_x": 0.745,
+      "gyro_y": -0.45,
+      "gyro_z": 0.132
+    },
+    "environment": {
+      "temperature": 25.205,
+      "humidity": 55.124
+    },
+    "gps": {
+      "latitude": 37.774954,
+      "longitude": -122.419474,
+      "altitude": 589.82,
+      "timestamp": 10.1
+    },
+    "raw": {
+      "altitude": 589.82,
+      "velocity": 28.99,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.2,
+    "altimeter": {
+      "altitude": 592.408
+    },
+    "imu": {
+      "accel_x": -10.631,
+      "accel_y": -0.527,
+      "accel_z": 10.056,
+      "gyro_x": 1.025,
+      "gyro_y": 0.415,
+      "gyro_z": 0.947
+    },
+    "environment": {
+      "temperature": 23.886,
+      "humidity": 55.431
+    },
+    "gps": {
+      "latitude": 37.774801,
+      "longitude": -122.41938,
+      "altitude": 592.62,
+      "timestamp": 10.2
+    },
+    "raw": {
+      "altitude": 592.62,
+      "velocity": 28.01,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.3,
+    "altimeter": {
+      "altitude": 595.403
+    },
+    "imu": {
+      "accel_x": -9.986,
+      "accel_y": -0.358,
+      "accel_z": 10.104,
+      "gyro_x": 0.711,
+      "gyro_y": -0.78,
+      "gyro_z": 0.207
+    },
+    "environment": {
+      "temperature": 25.151,
+      "humidity": 55.067
+    },
+    "gps": {
+      "latitude": 37.774929,
+      "longitude": -122.419337,
+      "altitude": 595.32,
+      "timestamp": 10.3
+    },
+    "raw": {
+      "altitude": 595.32,
+      "velocity": 27.03,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.4,
+    "altimeter": {
+      "altitude": 597.595
+    },
+    "imu": {
+      "accel_x": -10.208,
+      "accel_y": -0.422,
+      "accel_z": 10.503,
+      "gyro_x": 0.448,
+      "gyro_y": -0.476,
+      "gyro_z": 0.83
+    },
+    "environment": {
+      "temperature": 25.37,
+      "humidity": 54.771
+    },
+    "gps": {
+      "latitude": 37.77486,
+      "longitude": -122.419469,
+      "altitude": 597.93,
+      "timestamp": 10.4
+    },
+    "raw": {
+      "altitude": 597.93,
+      "velocity": 26.05,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.5,
+    "altimeter": {
+      "altitude": 600.285
+    },
+    "imu": {
+      "accel_x": -9.866,
+      "accel_y": -0.959,
+      "accel_z": 9.914,
+      "gyro_x": 0.582,
+      "gyro_y": -0.204,
+      "gyro_z": 0.651
+    },
+    "environment": {
+      "temperature": 24.806,
+      "humidity": 55.454
+    },
+    "gps": {
+      "latitude": 37.774895,
+      "longitude": -122.419366,
+      "altitude": 600.43,
+      "timestamp": 10.5
+    },
+    "raw": {
+      "altitude": 600.43,
+      "velocity": 25.06,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.6,
+    "altimeter": {
+      "altitude": 602.797
+    },
+    "imu": {
+      "accel_x": -9.785,
+      "accel_y": -0.397,
+      "accel_z": 10.176,
+      "gyro_x": 0.289,
+      "gyro_y": 0.517,
+      "gyro_z": 1.021
+    },
+    "environment": {
+      "temperature": 24.851,
+      "humidity": 55.485
+    },
+    "gps": {
+      "latitude": 37.774853,
+      "longitude": -122.419433,
+      "altitude": 602.84,
+      "timestamp": 10.6
+    },
+    "raw": {
+      "altitude": 602.84,
+      "velocity": 24.08,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.7,
+    "altimeter": {
+      "altitude": 604.979
+    },
+    "imu": {
+      "accel_x": -10.229,
+      "accel_y": 0.402,
+      "accel_z": 10.333,
+      "gyro_x": 0.401,
+      "gyro_y": 0.416,
+      "gyro_z": 0.751
+    },
+    "environment": {
+      "temperature": 24.259,
+      "humidity": 54.913
+    },
+    "gps": {
+      "latitude": 37.774821,
+      "longitude": -122.419326,
+      "altitude": 605.15,
+      "timestamp": 10.7
+    },
+    "raw": {
+      "altitude": 605.15,
+      "velocity": 23.1,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.8,
+    "altimeter": {
+      "altitude": 606.304
+    },
+    "imu": {
+      "accel_x": -9.935,
+      "accel_y": 0.008,
+      "accel_z": 8.894,
+      "gyro_x": -0.173,
+      "gyro_y": 0.281,
+      "gyro_z": 0.717
+    },
+    "environment": {
+      "temperature": 25.403,
+      "humidity": 55.583
+    },
+    "gps": {
+      "latitude": 37.774835,
+      "longitude": -122.419377,
+      "altitude": 607.36,
+      "timestamp": 10.8
+    },
+    "raw": {
+      "altitude": 607.36,
+      "velocity": 22.12,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 10.9,
+    "altimeter": {
+      "altitude": 609.446
+    },
+    "imu": {
+      "accel_x": -9.664,
+      "accel_y": 0.263,
+      "accel_z": 9.723,
+      "gyro_x": 0.816,
+      "gyro_y": -0.619,
+      "gyro_z": 1.437
+    },
+    "environment": {
+      "temperature": 24.079,
+      "humidity": 54.847
+    },
+    "gps": {
+      "latitude": 37.774991,
+      "longitude": -122.419318,
+      "altitude": 609.48,
+      "timestamp": 10.9
+    },
+    "raw": {
+      "altitude": 609.48,
+      "velocity": 21.14,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.0,
+    "altimeter": {
+      "altitude": 611.268
+    },
+    "imu": {
+      "accel_x": -9.537,
+      "accel_y": -0.307,
+      "accel_z": 10.06,
+      "gyro_x": -0.548,
+      "gyro_y": 0.064,
+      "gyro_z": -0.508
+    },
+    "environment": {
+      "temperature": 25.199,
+      "humidity": 55.16
+    },
+    "gps": {
+      "latitude": 37.774828,
+      "longitude": -122.41933,
+      "altitude": 611.49,
+      "timestamp": 11.0
+    },
+    "raw": {
+      "altitude": 611.49,
+      "velocity": 20.16,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.1,
+    "altimeter": {
+      "altitude": 613.631
+    },
+    "imu": {
+      "accel_x": -9.735,
+      "accel_y": -0.143,
+      "accel_z": 9.049,
+      "gyro_x": 1.092,
+      "gyro_y": 0.149,
+      "gyro_z": 0.475
+    },
+    "environment": {
+      "temperature": 24.71,
+      "humidity": 54.436
+    },
+    "gps": {
+      "latitude": 37.774834,
+      "longitude": -122.419438,
+      "altitude": 613.41,
+      "timestamp": 11.1
+    },
+    "raw": {
+      "altitude": 613.41,
+      "velocity": 19.18,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.2,
+    "altimeter": {
+      "altitude": 614.805
+    },
+    "imu": {
+      "accel_x": -9.667,
+      "accel_y": -0.06,
+      "accel_z": 9.925,
+      "gyro_x": 0.406,
+      "gyro_y": -0.684,
+      "gyro_z": 0.567
+    },
+    "environment": {
+      "temperature": 24.838,
+      "humidity": 55.673
+    },
+    "gps": {
+      "latitude": 37.774914,
+      "longitude": -122.419369,
+      "altitude": 615.23,
+      "timestamp": 11.2
+    },
+    "raw": {
+      "altitude": 615.23,
+      "velocity": 18.2,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.3,
+    "altimeter": {
+      "altitude": 616.179
+    },
+    "imu": {
+      "accel_x": -9.189,
+      "accel_y": 0.452,
+      "accel_z": 10.042,
+      "gyro_x": 0.202,
+      "gyro_y": -0.31,
+      "gyro_z": 1.138
+    },
+    "environment": {
+      "temperature": 25.125,
+      "humidity": 55.384
+    },
+    "gps": {
+      "latitude": 37.774961,
+      "longitude": -122.419468,
+      "altitude": 616.95,
+      "timestamp": 11.3
+    },
+    "raw": {
+      "altitude": 616.95,
+      "velocity": 17.22,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.4,
+    "altimeter": {
+      "altitude": 618.432
+    },
+    "imu": {
+      "accel_x": -8.585,
+      "accel_y": 0.005,
+      "accel_z": 9.095,
+      "gyro_x": -0.412,
+      "gyro_y": -0.831,
+      "gyro_z": -0.164
+    },
+    "environment": {
+      "temperature": 25.338,
+      "humidity": 55.037
+    },
+    "gps": {
+      "latitude": 37.77483,
+      "longitude": -122.419431,
+      "altitude": 618.58,
+      "timestamp": 11.4
+    },
+    "raw": {
+      "altitude": 618.58,
+      "velocity": 16.24,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.5,
+    "altimeter": {
+      "altitude": 619.791
+    },
+    "imu": {
+      "accel_x": -9.954,
+      "accel_y": 0.162,
+      "accel_z": 9.384,
+      "gyro_x": -0.591,
+      "gyro_y": 0.025,
+      "gyro_z": 0.231
+    },
+    "environment": {
+      "temperature": 24.616,
+      "humidity": 55.429
+    },
+    "gps": {
+      "latitude": 37.774875,
+      "longitude": -122.41949,
+      "altitude": 620.1,
+      "timestamp": 11.5
+    },
+    "raw": {
+      "altitude": 620.1,
+      "velocity": 15.25,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.6,
+    "altimeter": {
+      "altitude": 622.307
+    },
+    "imu": {
+      "accel_x": -8.968,
+      "accel_y": 0.512,
+      "accel_z": 8.721,
+      "gyro_x": -0.034,
+      "gyro_y": -0.287,
+      "gyro_z": 0.76
+    },
+    "environment": {
+      "temperature": 24.701,
+      "humidity": 54.364
+    },
+    "gps": {
+      "latitude": 37.774942,
+      "longitude": -122.419405,
+      "altitude": 621.53,
+      "timestamp": 11.6
+    },
+    "raw": {
+      "altitude": 621.53,
+      "velocity": 14.27,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.7,
+    "altimeter": {
+      "altitude": 623.757
+    },
+    "imu": {
+      "accel_x": -10.196,
+      "accel_y": 0.7,
+      "accel_z": 10.156,
+      "gyro_x": -0.858,
+      "gyro_y": -0.539,
+      "gyro_z": 0.475
+    },
+    "environment": {
+      "temperature": 24.031,
+      "humidity": 54.358
+    },
+    "gps": {
+      "latitude": 37.774845,
+      "longitude": -122.419474,
+      "altitude": 622.86,
+      "timestamp": 11.7
+    },
+    "raw": {
+      "altitude": 622.86,
+      "velocity": 13.29,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.8,
+    "altimeter": {
+      "altitude": 623.662
+    },
+    "imu": {
+      "accel_x": -9.975,
+      "accel_y": 0.137,
+      "accel_z": 9.395,
+      "gyro_x": -0.217,
+      "gyro_y": -0.098,
+      "gyro_z": 0.637
+    },
+    "environment": {
+      "temperature": 25.239,
+      "humidity": 55.244
+    },
+    "gps": {
+      "latitude": 37.774957,
+      "longitude": -122.419443,
+      "altitude": 624.09,
+      "timestamp": 11.8
+    },
+    "raw": {
+      "altitude": 624.09,
+      "velocity": 12.31,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 11.9,
+    "altimeter": {
+      "altitude": 625.813
+    },
+    "imu": {
+      "accel_x": -8.969,
+      "accel_y": -0.692,
+      "accel_z": 10.044,
+      "gyro_x": 0.35,
+      "gyro_y": -0.364,
+      "gyro_z": -0.567
+    },
+    "environment": {
+      "temperature": 25.157,
+      "humidity": 54.242
+    },
+    "gps": {
+      "latitude": 37.774987,
+      "longitude": -122.419407,
+      "altitude": 625.22,
+      "timestamp": 11.9
+    },
+    "raw": {
+      "altitude": 625.22,
+      "velocity": 11.33,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.0,
+    "altimeter": {
+      "altitude": 625.96
+    },
+    "imu": {
+      "accel_x": -9.745,
+      "accel_y": 0.932,
+      "accel_z": 9.921,
+      "gyro_x": 0.387,
+      "gyro_y": 0.035,
+      "gyro_z": -0.495
+    },
+    "environment": {
+      "temperature": 25.338,
+      "humidity": 55.524
+    },
+    "gps": {
+      "latitude": 37.77493,
+      "longitude": -122.419363,
+      "altitude": 626.26,
+      "timestamp": 12.0
+    },
+    "raw": {
+      "altitude": 626.26,
+      "velocity": 10.35,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.1,
+    "altimeter": {
+      "altitude": 627.66
+    },
+    "imu": {
+      "accel_x": -10.295,
+      "accel_y": 0.047,
+      "accel_z": 9.66,
+      "gyro_x": -0.228,
+      "gyro_y": -0.766,
+      "gyro_z": -0.83
+    },
+    "environment": {
+      "temperature": 25.128,
+      "humidity": 54.873
+    },
+    "gps": {
+      "latitude": 37.774917,
+      "longitude": -122.419469,
+      "altitude": 627.19,
+      "timestamp": 12.1
+    },
+    "raw": {
+      "altitude": 627.19,
+      "velocity": 9.37,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.2,
+    "altimeter": {
+      "altitude": 628.202
+    },
+    "imu": {
+      "accel_x": -10.42,
+      "accel_y": -0.657,
+      "accel_z": 9.912,
+      "gyro_x": -1.212,
+      "gyro_y": -1.096,
+      "gyro_z": 0.408
+    },
+    "environment": {
+      "temperature": 25.006,
+      "humidity": 55.662
+    },
+    "gps": {
+      "latitude": 37.774908,
+      "longitude": -122.419419,
+      "altitude": 628.03,
+      "timestamp": 12.2
+    },
+    "raw": {
+      "altitude": 628.03,
+      "velocity": 8.39,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.3,
+    "altimeter": {
+      "altitude": 629.178
+    },
+    "imu": {
+      "accel_x": -9.861,
+      "accel_y": 0.169,
+      "accel_z": 9.887,
+      "gyro_x": -0.628,
+      "gyro_y": -1.089,
+      "gyro_z": -0.32
+    },
+    "environment": {
+      "temperature": 25.333,
+      "humidity": 54.826
+    },
+    "gps": {
+      "latitude": 37.774826,
+      "longitude": -122.419308,
+      "altitude": 628.77,
+      "timestamp": 12.3
+    },
+    "raw": {
+      "altitude": 628.77,
+      "velocity": 7.41,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.4,
+    "altimeter": {
+      "altitude": 629.019
+    },
+    "imu": {
+      "accel_x": -9.791,
+      "accel_y": -0.498,
+      "accel_z": 9.39,
+      "gyro_x": 0.727,
+      "gyro_y": 0.401,
+      "gyro_z": 0.241
+    },
+    "environment": {
+      "temperature": 25.665,
+      "humidity": 54.774
+    },
+    "gps": {
+      "latitude": 37.774817,
+      "longitude": -122.419359,
+      "altitude": 629.42,
+      "timestamp": 12.4
+    },
+    "raw": {
+      "altitude": 629.42,
+      "velocity": 6.43,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.5,
+    "altimeter": {
+      "altitude": 629.894
+    },
+    "imu": {
+      "accel_x": -9.532,
+      "accel_y": -0.216,
+      "accel_z": 9.976,
+      "gyro_x": 0.633,
+      "gyro_y": -0.069,
+      "gyro_z": -0.408
+    },
+    "environment": {
+      "temperature": 24.705,
+      "humidity": 55.941
+    },
+    "gps": {
+      "latitude": 37.774967,
+      "longitude": -122.419437,
+      "altitude": 629.96,
+      "timestamp": 12.5
+    },
+    "raw": {
+      "altitude": 629.96,
+      "velocity": 5.44,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.6,
+    "altimeter": {
+      "altitude": 629.93
+    },
+    "imu": {
+      "accel_x": -9.43,
+      "accel_y": -0.059,
+      "accel_z": 9.994,
+      "gyro_x": -0.028,
+      "gyro_y": 0.801,
+      "gyro_z": 0.073
+    },
+    "environment": {
+      "temperature": 25.384,
+      "humidity": 54.597
+    },
+    "gps": {
+      "latitude": 37.774897,
+      "longitude": -122.419357,
+      "altitude": 630.41,
+      "timestamp": 12.6
+    },
+    "raw": {
+      "altitude": 630.41,
+      "velocity": 4.46,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.7,
+    "altimeter": {
+      "altitude": 630.25
+    },
+    "imu": {
+      "accel_x": -10.48,
+      "accel_y": -0.876,
+      "accel_z": 9.594,
+      "gyro_x": 0.252,
+      "gyro_y": -0.809,
+      "gyro_z": -0.011
+    },
+    "environment": {
+      "temperature": 25.124,
+      "humidity": 55.269
+    },
+    "gps": {
+      "latitude": 37.774947,
+      "longitude": -122.419359,
+      "altitude": 630.75,
+      "timestamp": 12.7
+    },
+    "raw": {
+      "altitude": 630.75,
+      "velocity": 3.48,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.8,
+    "altimeter": {
+      "altitude": 630.842
+    },
+    "imu": {
+      "accel_x": -10.117,
+      "accel_y": -0.144,
+      "accel_z": 9.412,
+      "gyro_x": -0.202,
+      "gyro_y": -0.914,
+      "gyro_z": 0.494
+    },
+    "environment": {
+      "temperature": 24.086,
+      "humidity": 54.487
+    },
+    "gps": {
+      "latitude": 37.774861,
+      "longitude": -122.419452,
+      "altitude": 631.0,
+      "timestamp": 12.8
+    },
+    "raw": {
+      "altitude": 631.0,
+      "velocity": 2.5,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 12.9,
+    "altimeter": {
+      "altitude": 631.159
+    },
+    "imu": {
+      "accel_x": -9.825,
+      "accel_y": -0.458,
+      "accel_z": 10.012,
+      "gyro_x": -0.695,
+      "gyro_y": 0.038,
+      "gyro_z": 0.892
+    },
+    "environment": {
+      "temperature": 24.964,
+      "humidity": 54.95
+    },
+    "gps": {
+      "latitude": 37.774994,
+      "longitude": -122.41937,
+      "altitude": 631.16,
+      "timestamp": 12.9
+    },
+    "raw": {
+      "altitude": 631.16,
+      "velocity": 1.52,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.0,
+    "altimeter": {
+      "altitude": 630.608
+    },
+    "imu": {
+      "accel_x": -10.027,
+      "accel_y": -0.415,
+      "accel_z": 10.994,
+      "gyro_x": -0.855,
+      "gyro_y": 0.36,
+      "gyro_z": -0.297
+    },
+    "environment": {
+      "temperature": 24.907,
+      "humidity": 54.848
+    },
+    "gps": {
+      "latitude": 37.774823,
+      "longitude": -122.419416,
+      "altitude": 631.21,
+      "timestamp": 13.0
+    },
+    "raw": {
+      "altitude": 631.21,
+      "velocity": 0.54,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.1,
+    "altimeter": {
+      "altitude": 630.787
+    },
+    "imu": {
+      "accel_x": -9.577,
+      "accel_y": -0.452,
+      "accel_z": 9.303,
+      "gyro_x": 0.474,
+      "gyro_y": -0.228,
+      "gyro_z": 0.877
+    },
+    "environment": {
+      "temperature": 24.374,
+      "humidity": 55.202
+    },
+    "gps": {
+      "latitude": 37.774862,
+      "longitude": -122.419341,
+      "altitude": 631.17,
+      "timestamp": 13.1
+    },
+    "raw": {
+      "altitude": 631.17,
+      "velocity": -0.44,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.2,
+    "altimeter": {
+      "altitude": 630.13
+    },
+    "imu": {
+      "accel_x": -9.243,
+      "accel_y": 0.255,
+      "accel_z": 9.317,
+      "gyro_x": 0.4,
+      "gyro_y": -0.329,
+      "gyro_z": -0.532
+    },
+    "environment": {
+      "temperature": 25.439,
+      "humidity": 54.782
+    },
+    "gps": {
+      "latitude": 37.774961,
+      "longitude": -122.419325,
+      "altitude": 631.02,
+      "timestamp": 13.2
+    },
+    "raw": {
+      "altitude": 631.02,
+      "velocity": -1.42,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.3,
+    "altimeter": {
+      "altitude": 630.253
+    },
+    "imu": {
+      "accel_x": -9.45,
+      "accel_y": 0.382,
+      "accel_z": 9.909,
+      "gyro_x": 0.114,
+      "gyro_y": 0.849,
+      "gyro_z": -0.112
+    },
+    "environment": {
+      "temperature": 25.063,
+      "humidity": 54.558
+    },
+    "gps": {
+      "latitude": 37.774912,
+      "longitude": -122.419483,
+      "altitude": 630.78,
+      "timestamp": 13.3
+    },
+    "raw": {
+      "altitude": 630.78,
+      "velocity": -2.4,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.4,
+    "altimeter": {
+      "altitude": 630.185
+    },
+    "imu": {
+      "accel_x": -8.739,
+      "accel_y": -0.819,
+      "accel_z": 9.163,
+      "gyro_x": -0.268,
+      "gyro_y": 0.066,
+      "gyro_z": 0.34
+    },
+    "environment": {
+      "temperature": 26.23,
+      "humidity": 55.682
+    },
+    "gps": {
+      "latitude": 37.774817,
+      "longitude": -122.419369,
+      "altitude": 630.44,
+      "timestamp": 13.4
+    },
+    "raw": {
+      "altitude": 630.44,
+      "velocity": -3.38,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.5,
+    "altimeter": {
+      "altitude": 630.78
+    },
+    "imu": {
+      "accel_x": -9.309,
+      "accel_y": 0.652,
+      "accel_z": 10.077,
+      "gyro_x": 0.455,
+      "gyro_y": 0.22,
+      "gyro_z": -0.317
+    },
+    "environment": {
+      "temperature": 25.839,
+      "humidity": 54.335
+    },
+    "gps": {
+      "latitude": 37.774866,
+      "longitude": -122.419421,
+      "altitude": 630.01,
+      "timestamp": 13.5
+    },
+    "raw": {
+      "altitude": 630.01,
+      "velocity": -4.37,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.6,
+    "altimeter": {
+      "altitude": 629.738
+    },
+    "imu": {
+      "accel_x": -9.468,
+      "accel_y": 0.168,
+      "accel_z": 9.52,
+      "gyro_x": 0.051,
+      "gyro_y": -0.567,
+      "gyro_z": 0.149
+    },
+    "environment": {
+      "temperature": 25.191,
+      "humidity": 54.891
+    },
+    "gps": {
+      "latitude": 37.774831,
+      "longitude": -122.419464,
+      "altitude": 629.47,
+      "timestamp": 13.6
+    },
+    "raw": {
+      "altitude": 629.47,
+      "velocity": -5.35,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.7,
+    "altimeter": {
+      "altitude": 629.115
+    },
+    "imu": {
+      "accel_x": -9.749,
+      "accel_y": -0.015,
+      "accel_z": 9.822,
+      "gyro_x": -1.064,
+      "gyro_y": 0.029,
+      "gyro_z": 0.259
+    },
+    "environment": {
+      "temperature": 25.298,
+      "humidity": 54.49
+    },
+    "gps": {
+      "latitude": 37.774937,
+      "longitude": -122.419392,
+      "altitude": 628.84,
+      "timestamp": 13.7
+    },
+    "raw": {
+      "altitude": 628.84,
+      "velocity": -6.33,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.8,
+    "altimeter": {
+      "altitude": 627.795
+    },
+    "imu": {
+      "accel_x": -9.682,
+      "accel_y": -0.172,
+      "accel_z": 9.58,
+      "gyro_x": -0.317,
+      "gyro_y": 0.191,
+      "gyro_z": 0.295
+    },
+    "environment": {
+      "temperature": 25.132,
+      "humidity": 55.757
+    },
+    "gps": {
+      "latitude": 37.774872,
+      "longitude": -122.419494,
+      "altitude": 628.11,
+      "timestamp": 13.8
+    },
+    "raw": {
+      "altitude": 628.11,
+      "velocity": -7.31,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 13.9,
+    "altimeter": {
+      "altitude": 626.15
+    },
+    "imu": {
+      "accel_x": -10.65,
+      "accel_y": 0.637,
+      "accel_z": 9.853,
+      "gyro_x": 0.079,
+      "gyro_y": -0.733,
+      "gyro_z": -0.521
+    },
+    "environment": {
+      "temperature": 24.599,
+      "humidity": 55.505
+    },
+    "gps": {
+      "latitude": 37.774991,
+      "longitude": -122.419416,
+      "altitude": 627.28,
+      "timestamp": 13.9
+    },
+    "raw": {
+      "altitude": 627.28,
+      "velocity": -8.29,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.0,
+    "altimeter": {
+      "altitude": 626.645
+    },
+    "imu": {
+      "accel_x": -9.576,
+      "accel_y": -0.072,
+      "accel_z": 9.11,
+      "gyro_x": 0.606,
+      "gyro_y": 0.553,
+      "gyro_z": -0.595
+    },
+    "environment": {
+      "temperature": 25.167,
+      "humidity": 54.187
+    },
+    "gps": {
+      "latitude": 37.774837,
+      "longitude": -122.419442,
+      "altitude": 626.35,
+      "timestamp": 14.0
+    },
+    "raw": {
+      "altitude": 626.35,
+      "velocity": -9.27,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.1,
+    "altimeter": {
+      "altitude": 625.168
+    },
+    "imu": {
+      "accel_x": -10.572,
+      "accel_y": 0.564,
+      "accel_z": 9.892,
+      "gyro_x": -1.069,
+      "gyro_y": 0.159,
+      "gyro_z": -0.507
+    },
+    "environment": {
+      "temperature": 24.85,
+      "humidity": 54.905
+    },
+    "gps": {
+      "latitude": 37.774954,
+      "longitude": -122.419404,
+      "altitude": 625.33,
+      "timestamp": 14.1
+    },
+    "raw": {
+      "altitude": 625.33,
+      "velocity": -10.25,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.2,
+    "altimeter": {
+      "altitude": 623.7
+    },
+    "imu": {
+      "accel_x": -9.534,
+      "accel_y": 0.331,
+      "accel_z": 9.318,
+      "gyro_x": -0.013,
+      "gyro_y": -0.879,
+      "gyro_z": -0.958
+    },
+    "environment": {
+      "temperature": 25.021,
+      "humidity": 55.4
+    },
+    "gps": {
+      "latitude": 37.774824,
+      "longitude": -122.419369,
+      "altitude": 624.2,
+      "timestamp": 14.2
+    },
+    "raw": {
+      "altitude": 624.2,
+      "velocity": -11.23,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.3,
+    "altimeter": {
+      "altitude": 623.809
+    },
+    "imu": {
+      "accel_x": -9.887,
+      "accel_y": -0.345,
+      "accel_z": 10.358,
+      "gyro_x": 1.282,
+      "gyro_y": -0.717,
+      "gyro_z": -0.849
+    },
+    "environment": {
+      "temperature": 24.489,
+      "humidity": 55.326
+    },
+    "gps": {
+      "latitude": 37.774992,
+      "longitude": -122.419306,
+      "altitude": 622.98,
+      "timestamp": 14.3
+    },
+    "raw": {
+      "altitude": 622.98,
+      "velocity": -12.21,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.4,
+    "altimeter": {
+      "altitude": 621.775
+    },
+    "imu": {
+      "accel_x": -9.417,
+      "accel_y": 0.116,
+      "accel_z": 9.954,
+      "gyro_x": -0.371,
+      "gyro_y": -0.559,
+      "gyro_z": 0.122
+    },
+    "environment": {
+      "temperature": 24.078,
+      "humidity": 55.933
+    },
+    "gps": {
+      "latitude": 37.77482,
+      "longitude": -122.419455,
+      "altitude": 621.66,
+      "timestamp": 14.4
+    },
+    "raw": {
+      "altitude": 621.66,
+      "velocity": -13.19,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.5,
+    "altimeter": {
+      "altitude": 620.629
+    },
+    "imu": {
+      "accel_x": -11.168,
+      "accel_y": -0.093,
+      "accel_z": 10.314,
+      "gyro_x": -0.36,
+      "gyro_y": 0.787,
+      "gyro_z": -1.759
+    },
+    "environment": {
+      "temperature": 25.231,
+      "humidity": 54.515
+    },
+    "gps": {
+      "latitude": 37.774974,
+      "longitude": -122.419391,
+      "altitude": 620.25,
+      "timestamp": 14.5
+    },
+    "raw": {
+      "altitude": 620.25,
+      "velocity": -14.18,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.6,
+    "altimeter": {
+      "altitude": 618.895
+    },
+    "imu": {
+      "accel_x": -9.712,
+      "accel_y": -0.599,
+      "accel_z": 9.546,
+      "gyro_x": -0.118,
+      "gyro_y": 0.595,
+      "gyro_z": -0.696
+    },
+    "environment": {
+      "temperature": 24.786,
+      "humidity": 55.041
+    },
+    "gps": {
+      "latitude": 37.774875,
+      "longitude": -122.41946,
+      "altitude": 618.73,
+      "timestamp": 14.6
+    },
+    "raw": {
+      "altitude": 618.73,
+      "velocity": -15.16,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.7,
+    "altimeter": {
+      "altitude": 617.459
+    },
+    "imu": {
+      "accel_x": -9.185,
+      "accel_y": -1.017,
+      "accel_z": 9.342,
+      "gyro_x": 0.444,
+      "gyro_y": -0.069,
+      "gyro_z": -0.322
+    },
+    "environment": {
+      "temperature": 25.017,
+      "humidity": 54.763
+    },
+    "gps": {
+      "latitude": 37.774901,
+      "longitude": -122.419484,
+      "altitude": 617.12,
+      "timestamp": 14.7
+    },
+    "raw": {
+      "altitude": 617.12,
+      "velocity": -16.14,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.8,
+    "altimeter": {
+      "altitude": 615.249
+    },
+    "imu": {
+      "accel_x": -9.88,
+      "accel_y": 0.686,
+      "accel_z": 11.295,
+      "gyro_x": -0.069,
+      "gyro_y": -0.199,
+      "gyro_z": 0.07
+    },
+    "environment": {
+      "temperature": 25.715,
+      "humidity": 54.403
+    },
+    "gps": {
+      "latitude": 37.774965,
+      "longitude": -122.419341,
+      "altitude": 615.41,
+      "timestamp": 14.8
+    },
+    "raw": {
+      "altitude": 615.41,
+      "velocity": -17.12,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 14.9,
+    "altimeter": {
+      "altitude": 614.367
+    },
+    "imu": {
+      "accel_x": -9.258,
+      "accel_y": -1.31,
+      "accel_z": 9.76,
+      "gyro_x": 0.675,
+      "gyro_y": -0.632,
+      "gyro_z": -0.621
+    },
+    "environment": {
+      "temperature": 23.958,
+      "humidity": 55.277
+    },
+    "gps": {
+      "latitude": 37.774808,
+      "longitude": -122.419344,
+      "altitude": 613.6,
+      "timestamp": 14.9
+    },
+    "raw": {
+      "altitude": 613.6,
+      "velocity": -18.1,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.0,
+    "altimeter": {
+      "altitude": 611.436
+    },
+    "imu": {
+      "accel_x": -9.468,
+      "accel_y": -0.222,
+      "accel_z": 9.443,
+      "gyro_x": -0.074,
+      "gyro_y": 0.368,
+      "gyro_z": -0.577
+    },
+    "environment": {
+      "temperature": 24.914,
+      "humidity": 54.673
+    },
+    "gps": {
+      "latitude": 37.774821,
+      "longitude": -122.419401,
+      "altitude": 611.69,
+      "timestamp": 15.0
+    },
+    "raw": {
+      "altitude": 611.69,
+      "velocity": -19.08,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.1,
+    "altimeter": {
+      "altitude": 609.874
+    },
+    "imu": {
+      "accel_x": -9.905,
+      "accel_y": 0.851,
+      "accel_z": 9.852,
+      "gyro_x": 0.346,
+      "gyro_y": 1.654,
+      "gyro_z": -0.467
+    },
+    "environment": {
+      "temperature": 24.076,
+      "humidity": 53.36
+    },
+    "gps": {
+      "latitude": 37.774926,
+      "longitude": -122.419422,
+      "altitude": 609.68,
+      "timestamp": 15.1
+    },
+    "raw": {
+      "altitude": 609.68,
+      "velocity": -20.06,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.2,
+    "altimeter": {
+      "altitude": 608.084
+    },
+    "imu": {
+      "accel_x": -10.416,
+      "accel_y": 0.476,
+      "accel_z": 9.462,
+      "gyro_x": -0.374,
+      "gyro_y": -0.591,
+      "gyro_z": 0.31
+    },
+    "environment": {
+      "temperature": 25.397,
+      "humidity": 55.544
+    },
+    "gps": {
+      "latitude": 37.774871,
+      "longitude": -122.419312,
+      "altitude": 607.58,
+      "timestamp": 15.2
+    },
+    "raw": {
+      "altitude": 607.58,
+      "velocity": -21.04,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.3,
+    "altimeter": {
+      "altitude": 605.48
+    },
+    "imu": {
+      "accel_x": -10.135,
+      "accel_y": 0.449,
+      "accel_z": 11.037,
+      "gyro_x": 0.72,
+      "gyro_y": -0.589,
+      "gyro_z": -0.267
+    },
+    "environment": {
+      "temperature": 24.341,
+      "humidity": 55.694
+    },
+    "gps": {
+      "latitude": 37.774808,
+      "longitude": -122.419311,
+      "altitude": 605.37,
+      "timestamp": 15.3
+    },
+    "raw": {
+      "altitude": 605.37,
+      "velocity": -22.02,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.4,
+    "altimeter": {
+      "altitude": 603.846
+    },
+    "imu": {
+      "accel_x": -10.174,
+      "accel_y": 0.011,
+      "accel_z": 10.238,
+      "gyro_x": -0.229,
+      "gyro_y": 0.381,
+      "gyro_z": -0.443
+    },
+    "environment": {
+      "temperature": 25.987,
+      "humidity": 55.28
+    },
+    "gps": {
+      "latitude": 37.774999,
+      "longitude": -122.419305,
+      "altitude": 603.07,
+      "timestamp": 15.4
+    },
+    "raw": {
+      "altitude": 603.07,
+      "velocity": -23.01,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.5,
+    "altimeter": {
+      "altitude": 601.174
+    },
+    "imu": {
+      "accel_x": -9.229,
+      "accel_y": -0.232,
+      "accel_z": 10.48,
+      "gyro_x": -0.149,
+      "gyro_y": 0.186,
+      "gyro_z": -1.215
+    },
+    "environment": {
+      "temperature": 25.308,
+      "humidity": 54.676
+    },
+    "gps": {
+      "latitude": 37.774972,
+      "longitude": -122.419436,
+      "altitude": 600.67,
+      "timestamp": 15.5
+    },
+    "raw": {
+      "altitude": 600.67,
+      "velocity": -23.99,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.6,
+    "altimeter": {
+      "altitude": 597.775
+    },
+    "imu": {
+      "accel_x": -10.248,
+      "accel_y": 1.032,
+      "accel_z": 9.235,
+      "gyro_x": 0.004,
+      "gyro_y": -0.177,
+      "gyro_z": -0.289
+    },
+    "environment": {
+      "temperature": 26.652,
+      "humidity": 55.292
+    },
+    "gps": {
+      "latitude": 37.774907,
+      "longitude": -122.419423,
+      "altitude": 598.18,
+      "timestamp": 15.6
+    },
+    "raw": {
+      "altitude": 598.18,
+      "velocity": -24.97,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.7,
+    "altimeter": {
+      "altitude": 595.198
+    },
+    "imu": {
+      "accel_x": -9.967,
+      "accel_y": -0.882,
+      "accel_z": 9.678,
+      "gyro_x": -0.724,
+      "gyro_y": -0.179,
+      "gyro_z": -0.221
+    },
+    "environment": {
+      "temperature": 23.979,
+      "humidity": 55.152
+    },
+    "gps": {
+      "latitude": 37.774837,
+      "longitude": -122.41937,
+      "altitude": 595.58,
+      "timestamp": 15.7
+    },
+    "raw": {
+      "altitude": 595.58,
+      "velocity": -25.95,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.8,
+    "altimeter": {
+      "altitude": 592.32
+    },
+    "imu": {
+      "accel_x": -10.221,
+      "accel_y": 0.456,
+      "accel_z": 10.055,
+      "gyro_x": 0.007,
+      "gyro_y": -0.066,
+      "gyro_z": -0.429
+    },
+    "environment": {
+      "temperature": 24.752,
+      "humidity": 54.423
+    },
+    "gps": {
+      "latitude": 37.774994,
+      "longitude": -122.419412,
+      "altitude": 592.89,
+      "timestamp": 15.8
+    },
+    "raw": {
+      "altitude": 592.89,
+      "velocity": -26.93,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 15.9,
+    "altimeter": {
+      "altitude": 589.972
+    },
+    "imu": {
+      "accel_x": -9.892,
+      "accel_y": -0.561,
+      "accel_z": 10.218,
+      "gyro_x": 0.946,
+      "gyro_y": 0.797,
+      "gyro_z": -1.153
+    },
+    "environment": {
+      "temperature": 25.61,
+      "humidity": 54.928
+    },
+    "gps": {
+      "latitude": 37.774921,
+      "longitude": -122.419435,
+      "altitude": 590.1,
+      "timestamp": 15.9
+    },
+    "raw": {
+      "altitude": 590.1,
+      "velocity": -27.91,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.0,
+    "altimeter": {
+      "altitude": 587.022
+    },
+    "imu": {
+      "accel_x": -10.365,
+      "accel_y": 0.158,
+      "accel_z": 9.754,
+      "gyro_x": -0.646,
+      "gyro_y": 0.158,
+      "gyro_z": 0.489
+    },
+    "environment": {
+      "temperature": 25.334,
+      "humidity": 54.679
+    },
+    "gps": {
+      "latitude": 37.774874,
+      "longitude": -122.419329,
+      "altitude": 587.21,
+      "timestamp": 16.0
+    },
+    "raw": {
+      "altitude": 587.21,
+      "velocity": -28.89,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.1,
+    "altimeter": {
+      "altitude": 583.732
+    },
+    "imu": {
+      "accel_x": -8.974,
+      "accel_y": -0.412,
+      "accel_z": 10.604,
+      "gyro_x": -0.859,
+      "gyro_y": -0.527,
+      "gyro_z": -1.341
+    },
+    "environment": {
+      "temperature": 24.683,
+      "humidity": 54.767
+    },
+    "gps": {
+      "latitude": 37.774865,
+      "longitude": -122.419478,
+      "altitude": 584.22,
+      "timestamp": 16.1
+    },
+    "raw": {
+      "altitude": 584.22,
+      "velocity": -29.87,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.2,
+    "altimeter": {
+      "altitude": 581.37
+    },
+    "imu": {
+      "accel_x": -10.016,
+      "accel_y": -0.577,
+      "accel_z": 10.514,
+      "gyro_x": -0.652,
+      "gyro_y": 0.293,
+      "gyro_z": 0.187
+    },
+    "environment": {
+      "temperature": 25.353,
+      "humidity": 54.633
+    },
+    "gps": {
+      "latitude": 37.774896,
+      "longitude": -122.419461,
+      "altitude": 581.14,
+      "timestamp": 16.2
+    },
+    "raw": {
+      "altitude": 581.14,
+      "velocity": -30.85,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.3,
+    "altimeter": {
+      "altitude": 577.608
+    },
+    "imu": {
+      "accel_x": -9.618,
+      "accel_y": 1.016,
+      "accel_z": 9.631,
+      "gyro_x": -0.078,
+      "gyro_y": 0.389,
+      "gyro_z": -0.741
+    },
+    "environment": {
+      "temperature": 25.423,
+      "humidity": 54.74
+    },
+    "gps": {
+      "latitude": 37.774822,
+      "longitude": -122.419344,
+      "altitude": 577.95,
+      "timestamp": 16.3
+    },
+    "raw": {
+      "altitude": 577.95,
+      "velocity": -31.83,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.4,
+    "altimeter": {
+      "altitude": 574.827
+    },
+    "imu": {
+      "accel_x": -9.437,
+      "accel_y": 0.943,
+      "accel_z": 9.71,
+      "gyro_x": -0.958,
+      "gyro_y": -0.302,
+      "gyro_z": -0.465
+    },
+    "environment": {
+      "temperature": 25.385,
+      "humidity": 55.426
+    },
+    "gps": {
+      "latitude": 37.774815,
+      "longitude": -122.419483,
+      "altitude": 574.67,
+      "timestamp": 16.4
+    },
+    "raw": {
+      "altitude": 574.67,
+      "velocity": -32.82,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.5,
+    "altimeter": {
+      "altitude": 571.353
+    },
+    "imu": {
+      "accel_x": -10.737,
+      "accel_y": -0.009,
+      "accel_z": 10.004,
+      "gyro_x": -0.07,
+      "gyro_y": 0.191,
+      "gyro_z": -0.455
+    },
+    "environment": {
+      "temperature": 24.958,
+      "humidity": 55.971
+    },
+    "gps": {
+      "latitude": 37.774838,
+      "longitude": -122.419356,
+      "altitude": 571.29,
+      "timestamp": 16.5
+    },
+    "raw": {
+      "altitude": 571.29,
+      "velocity": -33.8,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.6,
+    "altimeter": {
+      "altitude": 568.002
+    },
+    "imu": {
+      "accel_x": -9.721,
+      "accel_y": 0.738,
+      "accel_z": 10.473,
+      "gyro_x": 0.548,
+      "gyro_y": -0.795,
+      "gyro_z": -1.484
+    },
+    "environment": {
+      "temperature": 25.614,
+      "humidity": 55.556
+    },
+    "gps": {
+      "latitude": 37.774875,
+      "longitude": -122.419394,
+      "altitude": 567.82,
+      "timestamp": 16.6
+    },
+    "raw": {
+      "altitude": 567.82,
+      "velocity": -34.78,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.7,
+    "altimeter": {
+      "altitude": 563.92
+    },
+    "imu": {
+      "accel_x": -10.001,
+      "accel_y": 0.243,
+      "accel_z": 9.27,
+      "gyro_x": -0.447,
+      "gyro_y": 0.221,
+      "gyro_z": -0.578
+    },
+    "environment": {
+      "temperature": 25.361,
+      "humidity": 54.266
+    },
+    "gps": {
+      "latitude": 37.774928,
+      "longitude": -122.419375,
+      "altitude": 564.24,
+      "timestamp": 16.7
+    },
+    "raw": {
+      "altitude": 564.24,
+      "velocity": -35.76,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.8,
+    "altimeter": {
+      "altitude": 561.074
+    },
+    "imu": {
+      "accel_x": -9.635,
+      "accel_y": -0.347,
+      "accel_z": 10.072,
+      "gyro_x": -0.274,
+      "gyro_y": -0.628,
+      "gyro_z": -1.697
+    },
+    "environment": {
+      "temperature": 25.015,
+      "humidity": 54.575
+    },
+    "gps": {
+      "latitude": 37.774841,
+      "longitude": -122.419435,
+      "altitude": 560.57,
+      "timestamp": 16.8
+    },
+    "raw": {
+      "altitude": 560.57,
+      "velocity": -36.74,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 16.9,
+    "altimeter": {
+      "altitude": 557.352
+    },
+    "imu": {
+      "accel_x": -9.871,
+      "accel_y": -0.291,
+      "accel_z": 10.073,
+      "gyro_x": -0.212,
+      "gyro_y": 0.434,
+      "gyro_z": -1.054
+    },
+    "environment": {
+      "temperature": 25.242,
+      "humidity": 55.162
+    },
+    "gps": {
+      "latitude": 37.77497,
+      "longitude": -122.419485,
+      "altitude": 556.79,
+      "timestamp": 16.9
+    },
+    "raw": {
+      "altitude": 556.79,
+      "velocity": -37.72,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.0,
+    "altimeter": {
+      "altitude": 553.069
+    },
+    "imu": {
+      "accel_x": -9.592,
+      "accel_y": 0.065,
+      "accel_z": 10.31,
+      "gyro_x": -0.329,
+      "gyro_y": -0.897,
+      "gyro_z": -1.48
+    },
+    "environment": {
+      "temperature": 25.007,
+      "humidity": 55.888
+    },
+    "gps": {
+      "latitude": 37.77496,
+      "longitude": -122.41947,
+      "altitude": 552.92,
+      "timestamp": 17.0
+    },
+    "raw": {
+      "altitude": 552.92,
+      "velocity": -38.7,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.1,
+    "altimeter": {
+      "altitude": 549.181
+    },
+    "imu": {
+      "accel_x": -9.658,
+      "accel_y": 0.542,
+      "accel_z": 10.451,
+      "gyro_x": 0.099,
+      "gyro_y": -0.638,
+      "gyro_z": -1.128
+    },
+    "environment": {
+      "temperature": 25.745,
+      "humidity": 54.668
+    },
+    "gps": {
+      "latitude": 37.774827,
+      "longitude": -122.419459,
+      "altitude": 548.96,
+      "timestamp": 17.1
+    },
+    "raw": {
+      "altitude": 548.96,
+      "velocity": -39.68,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.2,
+    "altimeter": {
+      "altitude": 545.354
+    },
+    "imu": {
+      "accel_x": -10.24,
+      "accel_y": -0.452,
+      "accel_z": 11.172,
+      "gyro_x": -1.046,
+      "gyro_y": 0.816,
+      "gyro_z": -0.499
+    },
+    "environment": {
+      "temperature": 26.332,
+      "humidity": 55.103
+    },
+    "gps": {
+      "latitude": 37.774909,
+      "longitude": -122.419339,
+      "altitude": 544.89,
+      "timestamp": 17.2
+    },
+    "raw": {
+      "altitude": 544.89,
+      "velocity": -40.66,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.3,
+    "altimeter": {
+      "altitude": 540.989
+    },
+    "imu": {
+      "accel_x": -9.484,
+      "accel_y": -0.063,
+      "accel_z": 9.515,
+      "gyro_x": -0.733,
+      "gyro_y": 0.251,
+      "gyro_z": -0.692
+    },
+    "environment": {
+      "temperature": 25.522,
+      "humidity": 55.525
+    },
+    "gps": {
+      "latitude": 37.774909,
+      "longitude": -122.41949,
+      "altitude": 540.73,
+      "timestamp": 17.3
+    },
+    "raw": {
+      "altitude": 540.73,
+      "velocity": -41.64,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.4,
+    "altimeter": {
+      "altitude": 534.513
+    },
+    "imu": {
+      "accel_x": -10.811,
+      "accel_y": -0.695,
+      "accel_z": 10.409,
+      "gyro_x": -1.022,
+      "gyro_y": -0.684,
+      "gyro_z": -0.967
+    },
+    "environment": {
+      "temperature": 24.475,
+      "humidity": 55.201
+    },
+    "gps": {
+      "latitude": 37.774867,
+      "longitude": -122.419322,
+      "altitude": 536.46,
+      "timestamp": 17.4
+    },
+    "raw": {
+      "altitude": 536.46,
+      "velocity": -42.63,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.5,
+    "altimeter": {
+      "altitude": 532.185
+    },
+    "imu": {
+      "accel_x": -10.213,
+      "accel_y": 0.015,
+      "accel_z": 9.283,
+      "gyro_x": -0.717,
+      "gyro_y": 0.448,
+      "gyro_z": -1.168
+    },
+    "environment": {
+      "temperature": 25.164,
+      "humidity": 54.066
+    },
+    "gps": {
+      "latitude": 37.774815,
+      "longitude": -122.419489,
+      "altitude": 532.1,
+      "timestamp": 17.5
+    },
+    "raw": {
+      "altitude": 532.1,
+      "velocity": -43.61,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.6,
+    "altimeter": {
+      "altitude": 527.572
+    },
+    "imu": {
+      "accel_x": -9.818,
+      "accel_y": 0.076,
+      "accel_z": 9.244,
+      "gyro_x": -0.131,
+      "gyro_y": -0.312,
+      "gyro_z": -0.064
+    },
+    "environment": {
+      "temperature": 25.64,
+      "humidity": 55.462
+    },
+    "gps": {
+      "latitude": 37.774847,
+      "longitude": -122.419484,
+      "altitude": 527.64,
+      "timestamp": 17.6
+    },
+    "raw": {
+      "altitude": 527.64,
+      "velocity": -44.59,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.7,
+    "altimeter": {
+      "altitude": 523.907
+    },
+    "imu": {
+      "accel_x": -9.918,
+      "accel_y": -0.384,
+      "accel_z": 9.987,
+      "gyro_x": -0.189,
+      "gyro_y": -0.026,
+      "gyro_z": -1.353
+    },
+    "environment": {
+      "temperature": 26.237,
+      "humidity": 55.551
+    },
+    "gps": {
+      "latitude": 37.77488,
+      "longitude": -122.41938,
+      "altitude": 523.09,
+      "timestamp": 17.7
+    },
+    "raw": {
+      "altitude": 523.09,
+      "velocity": -45.57,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.8,
+    "altimeter": {
+      "altitude": 518.178
+    },
+    "imu": {
+      "accel_x": -9.245,
+      "accel_y": -0.003,
+      "accel_z": 9.65,
+      "gyro_x": -0.376,
+      "gyro_y": -0.059,
+      "gyro_z": -1.886
+    },
+    "environment": {
+      "temperature": 25.405,
+      "humidity": 54.372
+    },
+    "gps": {
+      "latitude": 37.774879,
+      "longitude": -122.419434,
+      "altitude": 518.43,
+      "timestamp": 17.8
+    },
+    "raw": {
+      "altitude": 518.43,
+      "velocity": -46.55,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 17.9,
+    "altimeter": {
+      "altitude": 513.08
+    },
+    "imu": {
+      "accel_x": -8.93,
+      "accel_y": -0.313,
+      "accel_z": 10.313,
+      "gyro_x": 0.053,
+      "gyro_y": 0.287,
+      "gyro_z": -1.134
+    },
+    "environment": {
+      "temperature": 24.592,
+      "humidity": 54.829
+    },
+    "gps": {
+      "latitude": 37.774978,
+      "longitude": -122.419489,
+      "altitude": 513.68,
+      "timestamp": 17.9
+    },
+    "raw": {
+      "altitude": 513.68,
+      "velocity": -47.53,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.0,
+    "altimeter": {
+      "altitude": 509.394
+    },
+    "imu": {
+      "accel_x": -9.88,
+      "accel_y": -0.878,
+      "accel_z": 9.763,
+      "gyro_x": -0.411,
+      "gyro_y": -1.254,
+      "gyro_z": -1.023
+    },
+    "environment": {
+      "temperature": 25.473,
+      "humidity": 55.273
+    },
+    "gps": {
+      "latitude": 37.774829,
+      "longitude": -122.419484,
+      "altitude": 508.83,
+      "timestamp": 18.0
+    },
+    "raw": {
+      "altitude": 508.83,
+      "velocity": -48.51,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.1,
+    "altimeter": {
+      "altitude": 503.833
+    },
+    "imu": {
+      "accel_x": -9.352,
+      "accel_y": 0.415,
+      "accel_z": 10.17,
+      "gyro_x": -0.754,
+      "gyro_y": 0.706,
+      "gyro_z": -0.909
+    },
+    "environment": {
+      "temperature": 24.457,
+      "humidity": 54.907
+    },
+    "gps": {
+      "latitude": 37.77486,
+      "longitude": -122.419403,
+      "altitude": 503.88,
+      "timestamp": 18.1
+    },
+    "raw": {
+      "altitude": 503.88,
+      "velocity": -49.49,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.2,
+    "altimeter": {
+      "altitude": 498.883
+    },
+    "imu": {
+      "accel_x": -10.198,
+      "accel_y": 0.362,
+      "accel_z": 10.557,
+      "gyro_x": 0.211,
+      "gyro_y": -0.264,
+      "gyro_z": -0.784
+    },
+    "environment": {
+      "temperature": 24.865,
+      "humidity": 54.598
+    },
+    "gps": {
+      "latitude": 37.77487,
+      "longitude": -122.419413,
+      "altitude": 498.83,
+      "timestamp": 18.2
+    },
+    "raw": {
+      "altitude": 498.83,
+      "velocity": -50.47,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.3,
+    "altimeter": {
+      "altitude": 494.723
+    },
+    "imu": {
+      "accel_x": -9.844,
+      "accel_y": -0.003,
+      "accel_z": 9.59,
+      "gyro_x": -0.06,
+      "gyro_y": -0.567,
+      "gyro_z": -0.272
+    },
+    "environment": {
+      "temperature": 26.181,
+      "humidity": 55.058
+    },
+    "gps": {
+      "latitude": 37.774882,
+      "longitude": -122.419422,
+      "altitude": 493.69,
+      "timestamp": 18.3
+    },
+    "raw": {
+      "altitude": 493.69,
+      "velocity": -51.45,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.4,
+    "altimeter": {
+      "altitude": 488.199
+    },
+    "imu": {
+      "accel_x": -10.315,
+      "accel_y": 0.406,
+      "accel_z": 9.753,
+      "gyro_x": -1.004,
+      "gyro_y": 0.644,
+      "gyro_z": -1.903
+    },
+    "environment": {
+      "temperature": 24.556,
+      "humidity": 54.923
+    },
+    "gps": {
+      "latitude": 37.774943,
+      "longitude": -122.419432,
+      "altitude": 488.44,
+      "timestamp": 18.4
+    },
+    "raw": {
+      "altitude": 488.44,
+      "velocity": -52.44,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.5,
+    "altimeter": {
+      "altitude": 482.665
+    },
+    "imu": {
+      "accel_x": -9.833,
+      "accel_y": 0.756,
+      "accel_z": 9.508,
+      "gyro_x": -0.4,
+      "gyro_y": 1.042,
+      "gyro_z": -0.632
+    },
+    "environment": {
+      "temperature": 25.001,
+      "humidity": 54.888
+    },
+    "gps": {
+      "latitude": 37.774834,
+      "longitude": -122.41945,
+      "altitude": 483.1,
+      "timestamp": 18.5
+    },
+    "raw": {
+      "altitude": 483.1,
+      "velocity": -53.42,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.6,
+    "altimeter": {
+      "altitude": 477.679
+    },
+    "imu": {
+      "accel_x": -10.716,
+      "accel_y": 0.06,
+      "accel_z": 9.818,
+      "gyro_x": -0.504,
+      "gyro_y": -0.88,
+      "gyro_z": -1.016
+    },
+    "environment": {
+      "temperature": 25.314,
+      "humidity": 54.346
+    },
+    "gps": {
+      "latitude": 37.774956,
+      "longitude": -122.419408,
+      "altitude": 477.66,
+      "timestamp": 18.6
+    },
+    "raw": {
+      "altitude": 477.66,
+      "velocity": -54.4,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.7,
+    "altimeter": {
+      "altitude": 472.774
+    },
+    "imu": {
+      "accel_x": -9.31,
+      "accel_y": -0.265,
+      "accel_z": 10.044,
+      "gyro_x": -0.895,
+      "gyro_y": 0.174,
+      "gyro_z": -1.023
+    },
+    "environment": {
+      "temperature": 24.847,
+      "humidity": 54.688
+    },
+    "gps": {
+      "latitude": 37.774878,
+      "longitude": -122.419372,
+      "altitude": 472.12,
+      "timestamp": 18.7
+    },
+    "raw": {
+      "altitude": 472.12,
+      "velocity": -55.38,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.8,
+    "altimeter": {
+      "altitude": 466.712
+    },
+    "imu": {
+      "accel_x": -9.824,
+      "accel_y": -0.797,
+      "accel_z": 9.916,
+      "gyro_x": -0.49,
+      "gyro_y": 0.203,
+      "gyro_z": -0.494
+    },
+    "environment": {
+      "temperature": 24.28,
+      "humidity": 54.76
+    },
+    "gps": {
+      "latitude": 37.774848,
+      "longitude": -122.419419,
+      "altitude": 466.49,
+      "timestamp": 18.8
+    },
+    "raw": {
+      "altitude": 466.49,
+      "velocity": -56.36,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 18.9,
+    "altimeter": {
+      "altitude": 460.505
+    },
+    "imu": {
+      "accel_x": -10.369,
+      "accel_y": -0.295,
+      "accel_z": 9.403,
+      "gyro_x": 0.299,
+      "gyro_y": -0.323,
+      "gyro_z": -1.64
+    },
+    "environment": {
+      "temperature": 25.799,
+      "humidity": 54.879
+    },
+    "gps": {
+      "latitude": 37.774981,
+      "longitude": -122.419422,
+      "altitude": 460.75,
+      "timestamp": 18.9
+    },
+    "raw": {
+      "altitude": 460.75,
+      "velocity": -57.34,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.0,
+    "altimeter": {
+      "altitude": 455.94
+    },
+    "imu": {
+      "accel_x": -10.119,
+      "accel_y": -0.05,
+      "accel_z": 10.153,
+      "gyro_x": -0.753,
+      "gyro_y": -0.405,
+      "gyro_z": -1.834
+    },
+    "environment": {
+      "temperature": 23.967,
+      "humidity": 54.442
+    },
+    "gps": {
+      "latitude": 37.774918,
+      "longitude": -122.419476,
+      "altitude": 454.92,
+      "timestamp": 19.0
+    },
+    "raw": {
+      "altitude": 454.92,
+      "velocity": -58.32,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.1,
+    "altimeter": {
+      "altitude": 448.824
+    },
+    "imu": {
+      "accel_x": -10.054,
+      "accel_y": 0.689,
+      "accel_z": 8.779,
+      "gyro_x": -0.506,
+      "gyro_y": -0.189,
+      "gyro_z": -1.174
+    },
+    "environment": {
+      "temperature": 24.524,
+      "humidity": 54.428
+    },
+    "gps": {
+      "latitude": 37.774821,
+      "longitude": -122.419471,
+      "altitude": 448.99,
+      "timestamp": 19.1
+    },
+    "raw": {
+      "altitude": 448.99,
+      "velocity": -59.3,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.2,
+    "altimeter": {
+      "altitude": 442.887
+    },
+    "imu": {
+      "accel_x": -9.276,
+      "accel_y": 0.241,
+      "accel_z": 9.096,
+      "gyro_x": -0.488,
+      "gyro_y": 0.56,
+      "gyro_z": -1.413
+    },
+    "environment": {
+      "temperature": 24.57,
+      "humidity": 54.307
+    },
+    "gps": {
+      "latitude": 37.774908,
+      "longitude": -122.419364,
+      "altitude": 442.96,
+      "timestamp": 19.2
+    },
+    "raw": {
+      "altitude": 442.96,
+      "velocity": -60.28,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.3,
+    "altimeter": {
+      "altitude": 437.22
+    },
+    "imu": {
+      "accel_x": -9.572,
+      "accel_y": -0.759,
+      "accel_z": 10.144,
+      "gyro_x": -0.775,
+      "gyro_y": 0.346,
+      "gyro_z": -1.636
+    },
+    "environment": {
+      "temperature": 26.614,
+      "humidity": 55.852
+    },
+    "gps": {
+      "latitude": 37.774841,
+      "longitude": -122.419436,
+      "altitude": 436.84,
+      "timestamp": 19.3
+    },
+    "raw": {
+      "altitude": 436.84,
+      "velocity": -61.26,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.4,
+    "altimeter": {
+      "altitude": 429.26
+    },
+    "imu": {
+      "accel_x": -9.662,
+      "accel_y": -0.543,
+      "accel_z": 10.255,
+      "gyro_x": 0.313,
+      "gyro_y": 0.602,
+      "gyro_z": -1.615
+    },
+    "environment": {
+      "temperature": 25.956,
+      "humidity": 54.883
+    },
+    "gps": {
+      "latitude": 37.774871,
+      "longitude": -122.419348,
+      "altitude": 430.61,
+      "timestamp": 19.4
+    },
+    "raw": {
+      "altitude": 430.61,
+      "velocity": -62.25,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.5,
+    "altimeter": {
+      "altitude": 424.099
+    },
+    "imu": {
+      "accel_x": -9.921,
+      "accel_y": 0.72,
+      "accel_z": 9.809,
+      "gyro_x": -0.061,
+      "gyro_y": -0.173,
+      "gyro_z": -0.362
+    },
+    "environment": {
+      "temperature": 24.315,
+      "humidity": 54.452
+    },
+    "gps": {
+      "latitude": 37.774864,
+      "longitude": -122.419395,
+      "altitude": 424.29,
+      "timestamp": 19.5
+    },
+    "raw": {
+      "altitude": 424.29,
+      "velocity": -63.23,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.6,
+    "altimeter": {
+      "altitude": 418.245
+    },
+    "imu": {
+      "accel_x": -10.111,
+      "accel_y": -0.205,
+      "accel_z": 9.482,
+      "gyro_x": -0.67,
+      "gyro_y": -0.327,
+      "gyro_z": -0.702
+    },
+    "environment": {
+      "temperature": 25.477,
+      "humidity": 55.116
+    },
+    "gps": {
+      "latitude": 37.77485,
+      "longitude": -122.419437,
+      "altitude": 417.87,
+      "timestamp": 19.6
+    },
+    "raw": {
+      "altitude": 417.87,
+      "velocity": -64.21,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.7,
+    "altimeter": {
+      "altitude": 411.641
+    },
+    "imu": {
+      "accel_x": -9.686,
+      "accel_y": 0.24,
+      "accel_z": 9.713,
+      "gyro_x": -0.541,
+      "gyro_y": -0.753,
+      "gyro_z": -1.254
+    },
+    "environment": {
+      "temperature": 24.457,
+      "humidity": 54.73
+    },
+    "gps": {
+      "latitude": 37.774849,
+      "longitude": -122.419387,
+      "altitude": 411.35,
+      "timestamp": 19.7
+    },
+    "raw": {
+      "altitude": 411.35,
+      "velocity": -65.19,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.8,
+    "altimeter": {
+      "altitude": 404.014
+    },
+    "imu": {
+      "accel_x": -9.487,
+      "accel_y": 0.451,
+      "accel_z": 10.418,
+      "gyro_x": -0.657,
+      "gyro_y": -0.061,
+      "gyro_z": -0.766
+    },
+    "environment": {
+      "temperature": 25.365,
+      "humidity": 54.559
+    },
+    "gps": {
+      "latitude": 37.774964,
+      "longitude": -122.419433,
+      "altitude": 404.73,
+      "timestamp": 19.8
+    },
+    "raw": {
+      "altitude": 404.73,
+      "velocity": -66.17,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 19.9,
+    "altimeter": {
+      "altitude": 397.495
+    },
+    "imu": {
+      "accel_x": -9.188,
+      "accel_y": -0.314,
+      "accel_z": 9.604,
+      "gyro_x": -1.446,
+      "gyro_y": -0.704,
+      "gyro_z": -1.106
+    },
+    "environment": {
+      "temperature": 24.793,
+      "humidity": 54.845
+    },
+    "gps": {
+      "latitude": 37.774886,
+      "longitude": -122.419392,
+      "altitude": 398.02,
+      "timestamp": 19.9
+    },
+    "raw": {
+      "altitude": 398.02,
+      "velocity": -67.15,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.0,
+    "altimeter": {
+      "altitude": 391.435
+    },
+    "imu": {
+      "accel_x": -10.073,
+      "accel_y": 0.193,
+      "accel_z": 9.415,
+      "gyro_x": -0.647,
+      "gyro_y": 0.647,
+      "gyro_z": -1.102
+    },
+    "environment": {
+      "temperature": 24.631,
+      "humidity": 55.406
+    },
+    "gps": {
+      "latitude": 37.774983,
+      "longitude": -122.419413,
+      "altitude": 391.2,
+      "timestamp": 20.0
+    },
+    "raw": {
+      "altitude": 391.2,
+      "velocity": -68.13,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.1,
+    "altimeter": {
+      "altitude": 383.641
+    },
+    "imu": {
+      "accel_x": -9.713,
+      "accel_y": 0.181,
+      "accel_z": 9.442,
+      "gyro_x": -0.303,
+      "gyro_y": -0.039,
+      "gyro_z": -1.38
+    },
+    "environment": {
+      "temperature": 25.182,
+      "humidity": 54.252
+    },
+    "gps": {
+      "latitude": 37.774862,
+      "longitude": -122.419339,
+      "altitude": 384.29,
+      "timestamp": 20.1
+    },
+    "raw": {
+      "altitude": 384.29,
+      "velocity": -69.11,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.2,
+    "altimeter": {
+      "altitude": 376.833
+    },
+    "imu": {
+      "accel_x": -9.843,
+      "accel_y": -0.845,
+      "accel_z": 9.07,
+      "gyro_x": -0.763,
+      "gyro_y": 0.502,
+      "gyro_z": -1.022
+    },
+    "environment": {
+      "temperature": 24.582,
+      "humidity": 55.549
+    },
+    "gps": {
+      "latitude": 37.77496,
+      "longitude": -122.419483,
+      "altitude": 377.28,
+      "timestamp": 20.2
+    },
+    "raw": {
+      "altitude": 377.28,
+      "velocity": -70.09,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.3,
+    "altimeter": {
+      "altitude": 370.567
+    },
+    "imu": {
+      "accel_x": -10.256,
+      "accel_y": -0.664,
+      "accel_z": 10.202,
+      "gyro_x": -0.07,
+      "gyro_y": -0.652,
+      "gyro_z": -1.777
+    },
+    "environment": {
+      "temperature": 25.498,
+      "humidity": 55.017
+    },
+    "gps": {
+      "latitude": 37.774868,
+      "longitude": -122.419386,
+      "altitude": 370.18,
+      "timestamp": 20.3
+    },
+    "raw": {
+      "altitude": 370.18,
+      "velocity": -71.07,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.4,
+    "altimeter": {
+      "altitude": 363.579
+    },
+    "imu": {
+      "accel_x": -9.447,
+      "accel_y": 0.386,
+      "accel_z": 10.25,
+      "gyro_x": -0.944,
+      "gyro_y": 0.114,
+      "gyro_z": -1.503
+    },
+    "environment": {
+      "temperature": 25.593,
+      "humidity": 54.601
+    },
+    "gps": {
+      "latitude": 37.774847,
+      "longitude": -122.419379,
+      "altitude": 362.97,
+      "timestamp": 20.4
+    },
+    "raw": {
+      "altitude": 362.97,
+      "velocity": -72.06,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.5,
+    "altimeter": {
+      "altitude": 355.181
+    },
+    "imu": {
+      "accel_x": -9.086,
+      "accel_y": 0.344,
+      "accel_z": 9.442,
+      "gyro_x": -0.427,
+      "gyro_y": 0.379,
+      "gyro_z": -1.224
+    },
+    "environment": {
+      "temperature": 24.59,
+      "humidity": 54.995
+    },
+    "gps": {
+      "latitude": 37.774846,
+      "longitude": -122.419396,
+      "altitude": 355.67,
+      "timestamp": 20.5
+    },
+    "raw": {
+      "altitude": 355.67,
+      "velocity": -73.04,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.6,
+    "altimeter": {
+      "altitude": 349.858
+    },
+    "imu": {
+      "accel_x": -9.274,
+      "accel_y": -0.249,
+      "accel_z": 9.857,
+      "gyro_x": -0.427,
+      "gyro_y": -0.043,
+      "gyro_z": -1.962
+    },
+    "environment": {
+      "temperature": 25.576,
+      "humidity": 55.137
+    },
+    "gps": {
+      "latitude": 37.774845,
+      "longitude": -122.419449,
+      "altitude": 348.27,
+      "timestamp": 20.6
+    },
+    "raw": {
+      "altitude": 348.27,
+      "velocity": -74.02,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.7,
+    "altimeter": {
+      "altitude": 340.03
+    },
+    "imu": {
+      "accel_x": -9.779,
+      "accel_y": 0.373,
+      "accel_z": 11.031,
+      "gyro_x": -0.339,
+      "gyro_y": -0.84,
+      "gyro_z": -2.298
+    },
+    "environment": {
+      "temperature": 24.06,
+      "humidity": 54.477
+    },
+    "gps": {
+      "latitude": 37.774895,
+      "longitude": -122.419439,
+      "altitude": 340.77,
+      "timestamp": 20.7
+    },
+    "raw": {
+      "altitude": 340.77,
+      "velocity": -75.0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.8,
+    "altimeter": {
+      "altitude": 332.996
+    },
+    "imu": {
+      "accel_x": -10.539,
+      "accel_y": 0.925,
+      "accel_z": 9.496,
+      "gyro_x": -0.098,
+      "gyro_y": 0.01,
+      "gyro_z": -1.365
+    },
+    "environment": {
+      "temperature": 24.599,
+      "humidity": 54.597
+    },
+    "gps": {
+      "latitude": 37.774878,
+      "longitude": -122.419419,
+      "altitude": 333.17,
+      "timestamp": 20.8
+    },
+    "raw": {
+      "altitude": 333.17,
+      "velocity": -75.98,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 20.9,
+    "altimeter": {
+      "altitude": 326.151
+    },
+    "imu": {
+      "accel_x": -9.945,
+      "accel_y": 0.088,
+      "accel_z": 9.797,
+      "gyro_x": -0.407,
+      "gyro_y": -0.021,
+      "gyro_z": -1.469
+    },
+    "environment": {
+      "temperature": 23.878,
+      "humidity": 54.625
+    },
+    "gps": {
+      "latitude": 37.774959,
+      "longitude": -122.419487,
+      "altitude": 325.47,
+      "timestamp": 20.9
+    },
+    "raw": {
+      "altitude": 325.47,
+      "velocity": -76.96,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.0,
+    "altimeter": {
+      "altitude": 317.059
+    },
+    "imu": {
+      "accel_x": -8.948,
+      "accel_y": -0.563,
+      "accel_z": 9.28,
+      "gyro_x": -1.08,
+      "gyro_y": 0.55,
+      "gyro_z": -1.978
+    },
+    "environment": {
+      "temperature": 25.261,
+      "humidity": 55.172
+    },
+    "gps": {
+      "latitude": 37.774808,
+      "longitude": -122.419387,
+      "altitude": 317.68,
+      "timestamp": 21.0
+    },
+    "raw": {
+      "altitude": 317.68,
+      "velocity": -77.94,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.1,
+    "altimeter": {
+      "altitude": 309.822
+    },
+    "imu": {
+      "accel_x": -10.102,
+      "accel_y": 0.22,
+      "accel_z": 9.775,
+      "gyro_x": -0.89,
+      "gyro_y": 0.759,
+      "gyro_z": -1.117
+    },
+    "environment": {
+      "temperature": 25.604,
+      "humidity": 54.501
+    },
+    "gps": {
+      "latitude": 37.774835,
+      "longitude": -122.419375,
+      "altitude": 309.79,
+      "timestamp": 21.1
+    },
+    "raw": {
+      "altitude": 309.79,
+      "velocity": -78.92,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.2,
+    "altimeter": {
+      "altitude": 300.743
+    },
+    "imu": {
+      "accel_x": -9.545,
+      "accel_y": 0.139,
+      "accel_z": 9.682,
+      "gyro_x": -0.936,
+      "gyro_y": 0.669,
+      "gyro_z": -1.147
+    },
+    "environment": {
+      "temperature": 25.573,
+      "humidity": 54.946
+    },
+    "gps": {
+      "latitude": 37.774966,
+      "longitude": -122.419383,
+      "altitude": 301.8,
+      "timestamp": 21.2
+    },
+    "raw": {
+      "altitude": 301.8,
+      "velocity": -79.9,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.3,
+    "altimeter": {
+      "altitude": 293.168
+    },
+    "imu": {
+      "accel_x": -9.955,
+      "accel_y": -0.601,
+      "accel_z": 10.0,
+      "gyro_x": -0.808,
+      "gyro_y": 0.361,
+      "gyro_z": -1.376
+    },
+    "environment": {
+      "temperature": 25.879,
+      "humidity": 55.418
+    },
+    "gps": {
+      "latitude": 37.774816,
+      "longitude": -122.419415,
+      "altitude": 293.71,
+      "timestamp": 21.3
+    },
+    "raw": {
+      "altitude": 293.71,
+      "velocity": -80.88,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.4,
+    "altimeter": {
+      "altitude": 285.223
+    },
+    "imu": {
+      "accel_x": -9.774,
+      "accel_y": -0.065,
+      "accel_z": 9.822,
+      "gyro_x": -1.535,
+      "gyro_y": 0.311,
+      "gyro_z": -1.29
+    },
+    "environment": {
+      "temperature": 24.924,
+      "humidity": 54.724
+    },
+    "gps": {
+      "latitude": 37.774875,
+      "longitude": -122.419441,
+      "altitude": 285.52,
+      "timestamp": 21.4
+    },
+    "raw": {
+      "altitude": 285.52,
+      "velocity": -81.86,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.5,
+    "altimeter": {
+      "altitude": 277.203
+    },
+    "imu": {
+      "accel_x": -9.381,
+      "accel_y": -0.402,
+      "accel_z": 10.023,
+      "gyro_x": -0.841,
+      "gyro_y": 0.838,
+      "gyro_z": -2.292
+    },
+    "environment": {
+      "temperature": 24.961,
+      "humidity": 55.11
+    },
+    "gps": {
+      "latitude": 37.774953,
+      "longitude": -122.419324,
+      "altitude": 277.24,
+      "timestamp": 21.5
+    },
+    "raw": {
+      "altitude": 277.24,
+      "velocity": -82.85,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.6,
+    "altimeter": {
+      "altitude": 268.552
+    },
+    "imu": {
+      "accel_x": -10.194,
+      "accel_y": -0.812,
+      "accel_z": 10.517,
+      "gyro_x": -1.45,
+      "gyro_y": 0.185,
+      "gyro_z": -2.081
+    },
+    "environment": {
+      "temperature": 24.687,
+      "humidity": 55.817
+    },
+    "gps": {
+      "latitude": 37.77486,
+      "longitude": -122.419495,
+      "altitude": 268.85,
+      "timestamp": 21.6
+    },
+    "raw": {
+      "altitude": 268.85,
+      "velocity": -83.83,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.7,
+    "altimeter": {
+      "altitude": 259.667
+    },
+    "imu": {
+      "accel_x": -9.648,
+      "accel_y": -0.743,
+      "accel_z": 9.137,
+      "gyro_x": -1.233,
+      "gyro_y": -0.219,
+      "gyro_z": -0.725
+    },
+    "environment": {
+      "temperature": 24.883,
+      "humidity": 54.743
+    },
+    "gps": {
+      "latitude": 37.774803,
+      "longitude": -122.419415,
+      "altitude": 260.37,
+      "timestamp": 21.7
+    },
+    "raw": {
+      "altitude": 260.37,
+      "velocity": -84.81,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.8,
+    "altimeter": {
+      "altitude": 251.647
+    },
+    "imu": {
+      "accel_x": -10.438,
+      "accel_y": -0.342,
+      "accel_z": 10.151,
+      "gyro_x": -1.235,
+      "gyro_y": 1.164,
+      "gyro_z": -1.634
+    },
+    "environment": {
+      "temperature": 26.042,
+      "humidity": 54.97
+    },
+    "gps": {
+      "latitude": 37.774914,
+      "longitude": -122.419374,
+      "altitude": 251.79,
+      "timestamp": 21.8
+    },
+    "raw": {
+      "altitude": 251.79,
+      "velocity": -85.79,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 21.9,
+    "altimeter": {
+      "altitude": 243.409
+    },
+    "imu": {
+      "accel_x": -10.365,
+      "accel_y": -0.203,
+      "accel_z": 9.779,
+      "gyro_x": -1.577,
+      "gyro_y": 0.394,
+      "gyro_z": -1.102
+    },
+    "environment": {
+      "temperature": 25.012,
+      "humidity": 54.588
+    },
+    "gps": {
+      "latitude": 37.77499,
+      "longitude": -122.419489,
+      "altitude": 243.12,
+      "timestamp": 21.9
+    },
+    "raw": {
+      "altitude": 243.12,
+      "velocity": -86.77,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.0,
+    "altimeter": {
+      "altitude": 234.319
+    },
+    "imu": {
+      "accel_x": -9.947,
+      "accel_y": 0.538,
+      "accel_z": 10.05,
+      "gyro_x": -0.73,
+      "gyro_y": 0.705,
+      "gyro_z": -1.106
+    },
+    "environment": {
+      "temperature": 25.671,
+      "humidity": 55.472
+    },
+    "gps": {
+      "latitude": 37.774999,
+      "longitude": -122.419347,
+      "altitude": 234.34,
+      "timestamp": 22.0
+    },
+    "raw": {
+      "altitude": 234.34,
+      "velocity": -87.75,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.1,
+    "altimeter": {
+      "altitude": 224.948
+    },
+    "imu": {
+      "accel_x": -9.372,
+      "accel_y": -0.356,
+      "accel_z": 10.432,
+      "gyro_x": -1.272,
+      "gyro_y": 0.119,
+      "gyro_z": -1.997
+    },
+    "environment": {
+      "temperature": 25.125,
+      "humidity": 55.303
+    },
+    "gps": {
+      "latitude": 37.774975,
+      "longitude": -122.419476,
+      "altitude": 225.47,
+      "timestamp": 22.1
+    },
+    "raw": {
+      "altitude": 225.47,
+      "velocity": -88.73,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.2,
+    "altimeter": {
+      "altitude": 217.542
+    },
+    "imu": {
+      "accel_x": -10.23,
+      "accel_y": -0.636,
+      "accel_z": 9.763,
+      "gyro_x": -0.327,
+      "gyro_y": -0.409,
+      "gyro_z": -0.962
+    },
+    "environment": {
+      "temperature": 24.836,
+      "humidity": 54.984
+    },
+    "gps": {
+      "latitude": 37.774987,
+      "longitude": -122.419484,
+      "altitude": 216.5,
+      "timestamp": 22.2
+    },
+    "raw": {
+      "altitude": 216.5,
+      "velocity": -89.71,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.3,
+    "altimeter": {
+      "altitude": 207.443
+    },
+    "imu": {
+      "accel_x": -10.798,
+      "accel_y": -0.045,
+      "accel_z": 9.188,
+      "gyro_x": -1.356,
+      "gyro_y": -0.874,
+      "gyro_z": -1.972
+    },
+    "environment": {
+      "temperature": 24.409,
+      "humidity": 55.221
+    },
+    "gps": {
+      "latitude": 37.774988,
+      "longitude": -122.41932,
+      "altitude": 207.43,
+      "timestamp": 22.3
+    },
+    "raw": {
+      "altitude": 207.43,
+      "velocity": -90.69,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.4,
+    "altimeter": {
+      "altitude": 198.333
+    },
+    "imu": {
+      "accel_x": -9.034,
+      "accel_y": 0.546,
+      "accel_z": 9.568,
+      "gyro_x": -1.176,
+      "gyro_y": 0.108,
+      "gyro_z": -1.125
+    },
+    "environment": {
+      "temperature": 25.171,
+      "humidity": 54.229
+    },
+    "gps": {
+      "latitude": 37.774996,
+      "longitude": -122.419364,
+      "altitude": 198.26,
+      "timestamp": 22.4
+    },
+    "raw": {
+      "altitude": 198.26,
+      "velocity": -91.67,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.5,
+    "altimeter": {
+      "altitude": 189.171
+    },
+    "imu": {
+      "accel_x": -9.086,
+      "accel_y": 0.441,
+      "accel_z": 9.923,
+      "gyro_x": -0.203,
+      "gyro_y": 0.037,
+      "gyro_z": -2.565
+    },
+    "environment": {
+      "temperature": 24.838,
+      "humidity": 55.123
+    },
+    "gps": {
+      "latitude": 37.774987,
+      "longitude": -122.419389,
+      "altitude": 188.99,
+      "timestamp": 22.5
+    },
+    "raw": {
+      "altitude": 188.99,
+      "velocity": -92.66,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.6,
+    "altimeter": {
+      "altitude": 179.497
+    },
+    "imu": {
+      "accel_x": -9.686,
+      "accel_y": 0.427,
+      "accel_z": 9.594,
+      "gyro_x": -1.221,
+      "gyro_y": 0.742,
+      "gyro_z": -2.071
+    },
+    "environment": {
+      "temperature": 24.525,
+      "humidity": 54.65
+    },
+    "gps": {
+      "latitude": 37.774912,
+      "longitude": -122.419395,
+      "altitude": 179.63,
+      "timestamp": 22.6
+    },
+    "raw": {
+      "altitude": 179.63,
+      "velocity": -93.64,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.7,
+    "altimeter": {
+      "altitude": 170.383
+    },
+    "imu": {
+      "accel_x": -10.442,
+      "accel_y": 0.142,
+      "accel_z": 9.819,
+      "gyro_x": -1.323,
+      "gyro_y": -0.678,
+      "gyro_z": -1.899
+    },
+    "environment": {
+      "temperature": 24.579,
+      "humidity": 55.485
+    },
+    "gps": {
+      "latitude": 37.774947,
+      "longitude": -122.419375,
+      "altitude": 170.17,
+      "timestamp": 22.7
+    },
+    "raw": {
+      "altitude": 170.17,
+      "velocity": -94.62,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.8,
+    "altimeter": {
+      "altitude": 160.427
+    },
+    "imu": {
+      "accel_x": -9.906,
+      "accel_y": -0.422,
+      "accel_z": 9.985,
+      "gyro_x": -0.882,
+      "gyro_y": 0.062,
+      "gyro_z": -1.162
+    },
+    "environment": {
+      "temperature": 25.332,
+      "humidity": 55.893
+    },
+    "gps": {
+      "latitude": 37.774813,
+      "longitude": -122.419321,
+      "altitude": 160.61,
+      "timestamp": 22.8
+    },
+    "raw": {
+      "altitude": 160.61,
+      "velocity": -95.6,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 22.9,
+    "altimeter": {
+      "altitude": 151.683
+    },
+    "imu": {
+      "accel_x": -9.544,
+      "accel_y": 0.945,
+      "accel_z": 10.016,
+      "gyro_x": -1.39,
+      "gyro_y": -0.49,
+      "gyro_z": -1.816
+    },
+    "environment": {
+      "temperature": 24.922,
+      "humidity": 55.713
+    },
+    "gps": {
+      "latitude": 37.774972,
+      "longitude": -122.419459,
+      "altitude": 150.95,
+      "timestamp": 22.9
+    },
+    "raw": {
+      "altitude": 150.95,
+      "velocity": -96.58,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.0,
+    "altimeter": {
+      "altitude": 141.879
+    },
+    "imu": {
+      "accel_x": -9.365,
+      "accel_y": -0.302,
+      "accel_z": 9.839,
+      "gyro_x": -0.6,
+      "gyro_y": 0.048,
+      "gyro_z": -1.577
+    },
+    "environment": {
+      "temperature": 25.587,
+      "humidity": 55.428
+    },
+    "gps": {
+      "latitude": 37.774986,
+      "longitude": -122.419338,
+      "altitude": 141.19,
+      "timestamp": 23.0
+    },
+    "raw": {
+      "altitude": 141.19,
+      "velocity": -97.56,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.1,
+    "altimeter": {
+      "altitude": 131.719
+    },
+    "imu": {
+      "accel_x": -9.956,
+      "accel_y": -0.033,
+      "accel_z": 9.938,
+      "gyro_x": -0.804,
+      "gyro_y": -0.217,
+      "gyro_z": -1.036
+    },
+    "environment": {
+      "temperature": 25.403,
+      "humidity": 55.071
+    },
+    "gps": {
+      "latitude": 37.774803,
+      "longitude": -122.419405,
+      "altitude": 131.34,
+      "timestamp": 23.1
+    },
+    "raw": {
+      "altitude": 131.34,
+      "velocity": -98.54,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.2,
+    "altimeter": {
+      "altitude": 121.606
+    },
+    "imu": {
+      "accel_x": -10.531,
+      "accel_y": 0.495,
+      "accel_z": 9.365,
+      "gyro_x": -1.221,
+      "gyro_y": -0.876,
+      "gyro_z": -2.359
+    },
+    "environment": {
+      "temperature": 25.645,
+      "humidity": 55.257
+    },
+    "gps": {
+      "latitude": 37.774931,
+      "longitude": -122.419423,
+      "altitude": 121.39,
+      "timestamp": 23.2
+    },
+    "raw": {
+      "altitude": 121.39,
+      "velocity": -99.52,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.3,
+    "altimeter": {
+      "altitude": 111.459
+    },
+    "imu": {
+      "accel_x": -10.706,
+      "accel_y": -0.117,
+      "accel_z": 10.694,
+      "gyro_x": -0.74,
+      "gyro_y": -0.137,
+      "gyro_z": -2.171
+    },
+    "environment": {
+      "temperature": 25.201,
+      "humidity": 55.008
+    },
+    "gps": {
+      "latitude": 37.774885,
+      "longitude": -122.419425,
+      "altitude": 111.34,
+      "timestamp": 23.3
+    },
+    "raw": {
+      "altitude": 111.34,
+      "velocity": -100.5,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.4,
+    "altimeter": {
+      "altitude": 100.712
+    },
+    "imu": {
+      "accel_x": -9.71,
+      "accel_y": -0.595,
+      "accel_z": 9.887,
+      "gyro_x": -0.977,
+      "gyro_y": -0.14,
+      "gyro_z": -1.7
+    },
+    "environment": {
+      "temperature": 25.711,
+      "humidity": 54.773
+    },
+    "gps": {
+      "latitude": 37.774827,
+      "longitude": -122.419445,
+      "altitude": 101.19,
+      "timestamp": 23.4
+    },
+    "raw": {
+      "altitude": 101.19,
+      "velocity": -101.48,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.5,
+    "altimeter": {
+      "altitude": 91.509
+    },
+    "imu": {
+      "accel_x": -9.866,
+      "accel_y": 0.419,
+      "accel_z": 9.996,
+      "gyro_x": -0.747,
+      "gyro_y": -0.231,
+      "gyro_z": -2.48
+    },
+    "environment": {
+      "temperature": 25.566,
+      "humidity": 54.881
+    },
+    "gps": {
+      "latitude": 37.774874,
+      "longitude": -122.419381,
+      "altitude": 90.94,
+      "timestamp": 23.5
+    },
+    "raw": {
+      "altitude": 90.94,
+      "velocity": -102.47,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.6,
+    "altimeter": {
+      "altitude": 80.602
+    },
+    "imu": {
+      "accel_x": -9.767,
+      "accel_y": 0.502,
+      "accel_z": 9.578,
+      "gyro_x": -0.73,
+      "gyro_y": 0.215,
+      "gyro_z": -1.497
+    },
+    "environment": {
+      "temperature": 25.896,
+      "humidity": 54.575
+    },
+    "gps": {
+      "latitude": 37.774861,
+      "longitude": -122.419372,
+      "altitude": 80.6,
+      "timestamp": 23.6
+    },
+    "raw": {
+      "altitude": 80.6,
+      "velocity": -103.45,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.7,
+    "altimeter": {
+      "altitude": 70.26
+    },
+    "imu": {
+      "accel_x": -10.562,
+      "accel_y": 0.506,
+      "accel_z": 9.957,
+      "gyro_x": -0.993,
+      "gyro_y": 0.567,
+      "gyro_z": -2.42
+    },
+    "environment": {
+      "temperature": 25.606,
+      "humidity": 54.893
+    },
+    "gps": {
+      "latitude": 37.77488,
+      "longitude": -122.41936,
+      "altitude": 70.16,
+      "timestamp": 23.7
+    },
+    "raw": {
+      "altitude": 70.16,
+      "velocity": -104.43,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.8,
+    "altimeter": {
+      "altitude": 59.418
+    },
+    "imu": {
+      "accel_x": -9.35,
+      "accel_y": 0.353,
+      "accel_z": 10.028,
+      "gyro_x": -0.793,
+      "gyro_y": -0.38,
+      "gyro_z": -1.616
+    },
+    "environment": {
+      "temperature": 24.634,
+      "humidity": 54.903
+    },
+    "gps": {
+      "latitude": 37.77499,
+      "longitude": -122.419483,
+      "altitude": 59.61,
+      "timestamp": 23.8
+    },
+    "raw": {
+      "altitude": 59.61,
+      "velocity": -105.41,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 23.9,
+    "altimeter": {
+      "altitude": 49.346
+    },
+    "imu": {
+      "accel_x": -9.805,
+      "accel_y": -0.43,
+      "accel_z": 9.908,
+      "gyro_x": -2.067,
+      "gyro_y": -0.182,
+      "gyro_z": -2.135
+    },
+    "environment": {
+      "temperature": 24.978,
+      "humidity": 54.135
+    },
+    "gps": {
+      "latitude": 37.774909,
+      "longitude": -122.419318,
+      "altitude": 48.98,
+      "timestamp": 23.9
+    },
+    "raw": {
+      "altitude": 48.98,
+      "velocity": -106.39,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.0,
+    "altimeter": {
+      "altitude": 37.918
+    },
+    "imu": {
+      "accel_x": -10.015,
+      "accel_y": 0.536,
+      "accel_z": 10.2,
+      "gyro_x": -0.824,
+      "gyro_y": 0.245,
+      "gyro_z": -3.077
+    },
+    "environment": {
+      "temperature": 25.273,
+      "humidity": 55.616
+    },
+    "gps": {
+      "latitude": 37.774942,
+      "longitude": -122.419347,
+      "altitude": 38.24,
+      "timestamp": 24.0
+    },
+    "raw": {
+      "altitude": 38.24,
+      "velocity": -107.37,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.1,
+    "altimeter": {
+      "altitude": 26.927
+    },
+    "imu": {
+      "accel_x": -10.658,
+      "accel_y": -0.142,
+      "accel_z": 9.918,
+      "gyro_x": -1.107,
+      "gyro_y": -0.008,
+      "gyro_z": -1.869
+    },
+    "environment": {
+      "temperature": 25.325,
+      "humidity": 55.527
+    },
+    "gps": {
+      "latitude": 37.774893,
+      "longitude": -122.419301,
+      "altitude": 27.4,
+      "timestamp": 24.1
+    },
+    "raw": {
+      "altitude": 27.4,
+      "velocity": -108.35,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.2,
+    "altimeter": {
+      "altitude": 15.794
+    },
+    "imu": {
+      "accel_x": -10.229,
+      "accel_y": 0.106,
+      "accel_z": 9.6,
+      "gyro_x": -1.75,
+      "gyro_y": 0.619,
+      "gyro_z": -2.115
+    },
+    "environment": {
+      "temperature": 24.74,
+      "humidity": 54.882
+    },
+    "gps": {
+      "latitude": 37.77496,
+      "longitude": -122.419303,
+      "altitude": 16.47,
+      "timestamp": 24.2
+    },
+    "raw": {
+      "altitude": 16.47,
+      "velocity": -109.33,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.3,
+    "altimeter": {
+      "altitude": 4.878
+    },
+    "imu": {
+      "accel_x": -10.945,
+      "accel_y": 0.147,
+      "accel_z": 9.573,
+      "gyro_x": -0.731,
+      "gyro_y": 0.081,
+      "gyro_z": -1.597
+    },
+    "environment": {
+      "temperature": 24.744,
+      "humidity": 54.68
+    },
+    "gps": {
+      "latitude": 37.774861,
+      "longitude": -122.41942,
+      "altitude": 5.44,
+      "timestamp": 24.3
+    },
+    "raw": {
+      "altitude": 5.44,
+      "velocity": -110.31,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.4,
+    "altimeter": {
+      "altitude": -0.667
+    },
+    "imu": {
+      "accel_x": -9.057,
+      "accel_y": 0.413,
+      "accel_z": 9.595,
+      "gyro_x": 0.258,
+      "gyro_y": -0.056,
+      "gyro_z": 0.077
+    },
+    "environment": {
+      "temperature": 24.91,
+      "humidity": 54.927
+    },
+    "gps": {
+      "latitude": 37.774847,
+      "longitude": -122.419454,
+      "altitude": 0,
+      "timestamp": 24.4
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.5,
+    "altimeter": {
+      "altitude": -0.423
+    },
+    "imu": {
+      "accel_x": -10.05,
+      "accel_y": -0.418,
+      "accel_z": 10.486,
+      "gyro_x": -0.83,
+      "gyro_y": -0.055,
+      "gyro_z": 0.259
+    },
+    "environment": {
+      "temperature": 25.306,
+      "humidity": 54.493
+    },
+    "gps": {
+      "latitude": 37.774966,
+      "longitude": -122.419494,
+      "altitude": 0,
+      "timestamp": 24.5
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.6,
+    "altimeter": {
+      "altitude": 0.053
+    },
+    "imu": {
+      "accel_x": -9.488,
+      "accel_y": -0.843,
+      "accel_z": 9.935,
+      "gyro_x": 0.644,
+      "gyro_y": -0.085,
+      "gyro_z": -0.212
+    },
+    "environment": {
+      "temperature": 24.958,
+      "humidity": 54.856
+    },
+    "gps": {
+      "latitude": 37.774833,
+      "longitude": -122.419415,
+      "altitude": 0,
+      "timestamp": 24.6
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.7,
+    "altimeter": {
+      "altitude": 0.181
+    },
+    "imu": {
+      "accel_x": -9.289,
+      "accel_y": -0.497,
+      "accel_z": 9.866,
+      "gyro_x": 0.324,
+      "gyro_y": 0.563,
+      "gyro_z": -0.122
+    },
+    "environment": {
+      "temperature": 25.966,
+      "humidity": 55.787
+    },
+    "gps": {
+      "latitude": 37.774997,
+      "longitude": -122.41936,
+      "altitude": 0,
+      "timestamp": 24.7
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.8,
+    "altimeter": {
+      "altitude": -0.07
+    },
+    "imu": {
+      "accel_x": -10.51,
+      "accel_y": -0.37,
+      "accel_z": 9.284,
+      "gyro_x": 0.929,
+      "gyro_y": -0.976,
+      "gyro_z": 0.192
+    },
+    "environment": {
+      "temperature": 24.831,
+      "humidity": 55.39
+    },
+    "gps": {
+      "latitude": 37.774809,
+      "longitude": -122.419343,
+      "altitude": 0,
+      "timestamp": 24.8
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 24.9,
+    "altimeter": {
+      "altitude": -0.588
+    },
+    "imu": {
+      "accel_x": -9.852,
+      "accel_y": 0.007,
+      "accel_z": 9.291,
+      "gyro_x": -0.609,
+      "gyro_y": -0.165,
+      "gyro_z": 0.65
+    },
+    "environment": {
+      "temperature": 24.345,
+      "humidity": 55.142
+    },
+    "gps": {
+      "latitude": 37.774866,
+      "longitude": -122.41944,
+      "altitude": 0,
+      "timestamp": 24.9
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.0,
+    "altimeter": {
+      "altitude": -0.139
+    },
+    "imu": {
+      "accel_x": -9.332,
+      "accel_y": 0.731,
+      "accel_z": 10.565,
+      "gyro_x": -0.283,
+      "gyro_y": -0.002,
+      "gyro_z": -0.584
+    },
+    "environment": {
+      "temperature": 24.87,
+      "humidity": 55.059
+    },
+    "gps": {
+      "latitude": 37.774841,
+      "longitude": -122.419353,
+      "altitude": 0,
+      "timestamp": 25.0
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.1,
+    "altimeter": {
+      "altitude": -0.098
+    },
+    "imu": {
+      "accel_x": -10.044,
+      "accel_y": 0.44,
+      "accel_z": 9.372,
+      "gyro_x": 0.256,
+      "gyro_y": -1.411,
+      "gyro_z": -0.485
+    },
+    "environment": {
+      "temperature": 25.256,
+      "humidity": 54.797
+    },
+    "gps": {
+      "latitude": 37.774911,
+      "longitude": -122.41931,
+      "altitude": 0,
+      "timestamp": 25.1
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.2,
+    "altimeter": {
+      "altitude": -0.59
+    },
+    "imu": {
+      "accel_x": -9.773,
+      "accel_y": 0.167,
+      "accel_z": 9.552,
+      "gyro_x": 0.53,
+      "gyro_y": 0.015,
+      "gyro_z": -0.524
+    },
+    "environment": {
+      "temperature": 24.963,
+      "humidity": 54.938
+    },
+    "gps": {
+      "latitude": 37.774994,
+      "longitude": -122.419399,
+      "altitude": 0,
+      "timestamp": 25.2
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.3,
+    "altimeter": {
+      "altitude": -0.1
+    },
+    "imu": {
+      "accel_x": -10.355,
+      "accel_y": 0.395,
+      "accel_z": 10.113,
+      "gyro_x": 0.283,
+      "gyro_y": -0.744,
+      "gyro_z": -0.289
+    },
+    "environment": {
+      "temperature": 25.728,
+      "humidity": 55.287
+    },
+    "gps": {
+      "latitude": 37.774886,
+      "longitude": -122.419329,
+      "altitude": 0,
+      "timestamp": 25.3
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.4,
+    "altimeter": {
+      "altitude": -0.512
+    },
+    "imu": {
+      "accel_x": -10.54,
+      "accel_y": -0.029,
+      "accel_z": 9.502,
+      "gyro_x": 0.367,
+      "gyro_y": -0.368,
+      "gyro_z": 0.639
+    },
+    "environment": {
+      "temperature": 25.648,
+      "humidity": 54.942
+    },
+    "gps": {
+      "latitude": 37.774869,
+      "longitude": -122.419457,
+      "altitude": 0,
+      "timestamp": 25.4
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.5,
+    "altimeter": {
+      "altitude": -0.181
+    },
+    "imu": {
+      "accel_x": -10.483,
+      "accel_y": 0.546,
+      "accel_z": 9.788,
+      "gyro_x": -0.065,
+      "gyro_y": -0.111,
+      "gyro_z": 0.081
+    },
+    "environment": {
+      "temperature": 25.253,
+      "humidity": 55.23
+    },
+    "gps": {
+      "latitude": 37.774915,
+      "longitude": -122.419302,
+      "altitude": 0,
+      "timestamp": 25.5
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.6,
+    "altimeter": {
+      "altitude": 0.031
+    },
+    "imu": {
+      "accel_x": -9.457,
+      "accel_y": -0.587,
+      "accel_z": 9.086,
+      "gyro_x": 0.496,
+      "gyro_y": -0.145,
+      "gyro_z": -1.369
+    },
+    "environment": {
+      "temperature": 25.359,
+      "humidity": 54.982
+    },
+    "gps": {
+      "latitude": 37.774852,
+      "longitude": -122.419348,
+      "altitude": 0,
+      "timestamp": 25.6
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.7,
+    "altimeter": {
+      "altitude": 0.602
+    },
+    "imu": {
+      "accel_x": -10.54,
+      "accel_y": 0.298,
+      "accel_z": 10.235,
+      "gyro_x": -0.276,
+      "gyro_y": 0.357,
+      "gyro_z": -0.392
+    },
+    "environment": {
+      "temperature": 24.902,
+      "humidity": 54.639
+    },
+    "gps": {
+      "latitude": 37.774978,
+      "longitude": -122.419402,
+      "altitude": 0,
+      "timestamp": 25.7
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.8,
+    "altimeter": {
+      "altitude": 0.278
+    },
+    "imu": {
+      "accel_x": -9.411,
+      "accel_y": 0.616,
+      "accel_z": 10.111,
+      "gyro_x": 0.556,
+      "gyro_y": 0.18,
+      "gyro_z": -0.601
+    },
+    "environment": {
+      "temperature": 25.339,
+      "humidity": 54.888
+    },
+    "gps": {
+      "latitude": 37.774987,
+      "longitude": -122.419351,
+      "altitude": 0,
+      "timestamp": 25.8
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 25.9,
+    "altimeter": {
+      "altitude": -0.321
+    },
+    "imu": {
+      "accel_x": -9.664,
+      "accel_y": 0.828,
+      "accel_z": 9.75,
+      "gyro_x": 0.264,
+      "gyro_y": -0.328,
+      "gyro_z": 0.299
+    },
+    "environment": {
+      "temperature": 24.558,
+      "humidity": 54.065
+    },
+    "gps": {
+      "latitude": 37.774992,
+      "longitude": -122.419322,
+      "altitude": 0,
+      "timestamp": 25.9
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.0,
+    "altimeter": {
+      "altitude": 0.28
+    },
+    "imu": {
+      "accel_x": -9.274,
+      "accel_y": -1.368,
+      "accel_z": 10.174,
+      "gyro_x": 0.158,
+      "gyro_y": 0.726,
+      "gyro_z": 0.449
+    },
+    "environment": {
+      "temperature": 25.626,
+      "humidity": 54.961
+    },
+    "gps": {
+      "latitude": 37.77484,
+      "longitude": -122.41946,
+      "altitude": 0,
+      "timestamp": 26.0
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.1,
+    "altimeter": {
+      "altitude": 0.552
+    },
+    "imu": {
+      "accel_x": -10.343,
+      "accel_y": 0.018,
+      "accel_z": 9.815,
+      "gyro_x": -0.265,
+      "gyro_y": 0.313,
+      "gyro_z": 0.237
+    },
+    "environment": {
+      "temperature": 25.228,
+      "humidity": 54.984
+    },
+    "gps": {
+      "latitude": 37.774941,
+      "longitude": -122.419385,
+      "altitude": 0,
+      "timestamp": 26.1
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.2,
+    "altimeter": {
+      "altitude": 0.468
+    },
+    "imu": {
+      "accel_x": -9.046,
+      "accel_y": 0.365,
+      "accel_z": 9.942,
+      "gyro_x": 0.398,
+      "gyro_y": 0.215,
+      "gyro_z": -0.081
+    },
+    "environment": {
+      "temperature": 24.902,
+      "humidity": 55.415
+    },
+    "gps": {
+      "latitude": 37.77494,
+      "longitude": -122.419447,
+      "altitude": 0,
+      "timestamp": 26.2
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.3,
+    "altimeter": {
+      "altitude": -0.017
+    },
+    "imu": {
+      "accel_x": -10.802,
+      "accel_y": 0.993,
+      "accel_z": 10.706,
+      "gyro_x": 0.073,
+      "gyro_y": -0.156,
+      "gyro_z": -0.093
+    },
+    "environment": {
+      "temperature": 24.533,
+      "humidity": 54.648
+    },
+    "gps": {
+      "latitude": 37.77497,
+      "longitude": -122.419373,
+      "altitude": 0,
+      "timestamp": 26.3
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.4,
+    "altimeter": {
+      "altitude": 0.005
+    },
+    "imu": {
+      "accel_x": -9.8,
+      "accel_y": -0.296,
+      "accel_z": 9.922,
+      "gyro_x": 0.52,
+      "gyro_y": 0.002,
+      "gyro_z": 0.014
+    },
+    "environment": {
+      "temperature": 24.438,
+      "humidity": 54.849
+    },
+    "gps": {
+      "latitude": 37.774972,
+      "longitude": -122.419355,
+      "altitude": 0,
+      "timestamp": 26.4
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.5,
+    "altimeter": {
+      "altitude": -0.633
+    },
+    "imu": {
+      "accel_x": -10.513,
+      "accel_y": -0.385,
+      "accel_z": 10.3,
+      "gyro_x": -0.028,
+      "gyro_y": -0.805,
+      "gyro_z": 0.971
+    },
+    "environment": {
+      "temperature": 26.583,
+      "humidity": 54.501
+    },
+    "gps": {
+      "latitude": 37.774826,
+      "longitude": -122.419308,
+      "altitude": 0,
+      "timestamp": 26.5
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.6,
+    "altimeter": {
+      "altitude": -0.525
+    },
+    "imu": {
+      "accel_x": -10.697,
+      "accel_y": 0.621,
+      "accel_z": 10.128,
+      "gyro_x": 0.483,
+      "gyro_y": 0.145,
+      "gyro_z": 0.1
+    },
+    "environment": {
+      "temperature": 25.247,
+      "humidity": 55.296
+    },
+    "gps": {
+      "latitude": 37.774811,
+      "longitude": -122.419419,
+      "altitude": 0,
+      "timestamp": 26.6
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.7,
+    "altimeter": {
+      "altitude": -0.06
+    },
+    "imu": {
+      "accel_x": -9.77,
+      "accel_y": 0.148,
+      "accel_z": 10.486,
+      "gyro_x": -0.052,
+      "gyro_y": -0.557,
+      "gyro_z": -0.43
+    },
+    "environment": {
+      "temperature": 25.86,
+      "humidity": 54.471
+    },
+    "gps": {
+      "latitude": 37.774973,
+      "longitude": -122.419324,
+      "altitude": 0,
+      "timestamp": 26.7
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.8,
+    "altimeter": {
+      "altitude": 0.06
+    },
+    "imu": {
+      "accel_x": -9.717,
+      "accel_y": -0.349,
+      "accel_z": 8.826,
+      "gyro_x": -0.657,
+      "gyro_y": -0.613,
+      "gyro_z": -0.395
+    },
+    "environment": {
+      "temperature": 24.849,
+      "humidity": 55.298
+    },
+    "gps": {
+      "latitude": 37.774878,
+      "longitude": -122.419362,
+      "altitude": 0,
+      "timestamp": 26.8
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 26.9,
+    "altimeter": {
+      "altitude": -0.775
+    },
+    "imu": {
+      "accel_x": -9.906,
+      "accel_y": -0.14,
+      "accel_z": 9.793,
+      "gyro_x": 0.896,
+      "gyro_y": 0.284,
+      "gyro_z": 0.808
+    },
+    "environment": {
+      "temperature": 25.233,
+      "humidity": 55.082
+    },
+    "gps": {
+      "latitude": 37.774841,
+      "longitude": -122.419496,
+      "altitude": 0,
+      "timestamp": 26.9
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.0,
+    "altimeter": {
+      "altitude": 0.66
+    },
+    "imu": {
+      "accel_x": -10.405,
+      "accel_y": -0.292,
+      "accel_z": 10.103,
+      "gyro_x": -0.372,
+      "gyro_y": -0.38,
+      "gyro_z": -0.628
+    },
+    "environment": {
+      "temperature": 24.926,
+      "humidity": 54.629
+    },
+    "gps": {
+      "latitude": 37.77481,
+      "longitude": -122.419473,
+      "altitude": 0,
+      "timestamp": 27.0
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.1,
+    "altimeter": {
+      "altitude": 0.526
+    },
+    "imu": {
+      "accel_x": -10.059,
+      "accel_y": -0.011,
+      "accel_z": 9.875,
+      "gyro_x": 0.416,
+      "gyro_y": -0.182,
+      "gyro_z": 0.279
+    },
+    "environment": {
+      "temperature": 25.246,
+      "humidity": 54.753
+    },
+    "gps": {
+      "latitude": 37.774898,
+      "longitude": -122.419306,
+      "altitude": 0,
+      "timestamp": 27.1
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.2,
+    "altimeter": {
+      "altitude": -0.752
+    },
+    "imu": {
+      "accel_x": -10.058,
+      "accel_y": 0.369,
+      "accel_z": 9.756,
+      "gyro_x": -0.316,
+      "gyro_y": 0.107,
+      "gyro_z": -0.43
+    },
+    "environment": {
+      "temperature": 25.052,
+      "humidity": 54.745
+    },
+    "gps": {
+      "latitude": 37.774831,
+      "longitude": -122.41934,
+      "altitude": 0,
+      "timestamp": 27.2
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.3,
+    "altimeter": {
+      "altitude": 0.072
+    },
+    "imu": {
+      "accel_x": -9.689,
+      "accel_y": 0.249,
+      "accel_z": 8.923,
+      "gyro_x": -0.117,
+      "gyro_y": -0.021,
+      "gyro_z": -0.134
+    },
+    "environment": {
+      "temperature": 24.734,
+      "humidity": 54.642
+    },
+    "gps": {
+      "latitude": 37.774943,
+      "longitude": -122.419413,
+      "altitude": 0,
+      "timestamp": 27.3
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.4,
+    "altimeter": {
+      "altitude": -0.442
+    },
+    "imu": {
+      "accel_x": -9.713,
+      "accel_y": 0.159,
+      "accel_z": 9.783,
+      "gyro_x": -0.367,
+      "gyro_y": 0.426,
+      "gyro_z": 0.246
+    },
+    "environment": {
+      "temperature": 24.361,
+      "humidity": 54.944
+    },
+    "gps": {
+      "latitude": 37.774909,
+      "longitude": -122.419416,
+      "altitude": 0,
+      "timestamp": 27.4
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.5,
+    "altimeter": {
+      "altitude": 0.26
+    },
+    "imu": {
+      "accel_x": -9.611,
+      "accel_y": 0.174,
+      "accel_z": 9.686,
+      "gyro_x": -0.015,
+      "gyro_y": 0.183,
+      "gyro_z": 0.371
+    },
+    "environment": {
+      "temperature": 25.076,
+      "humidity": 55.066
+    },
+    "gps": {
+      "latitude": 37.774959,
+      "longitude": -122.419473,
+      "altitude": 0,
+      "timestamp": 27.5
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.6,
+    "altimeter": {
+      "altitude": 0.174
+    },
+    "imu": {
+      "accel_x": -9.528,
+      "accel_y": -0.15,
+      "accel_z": 10.041,
+      "gyro_x": -0.46,
+      "gyro_y": 0.212,
+      "gyro_z": -0.136
+    },
+    "environment": {
+      "temperature": 25.331,
+      "humidity": 55.132
+    },
+    "gps": {
+      "latitude": 37.774898,
+      "longitude": -122.419359,
+      "altitude": 0,
+      "timestamp": 27.6
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.7,
+    "altimeter": {
+      "altitude": 0.55
+    },
+    "imu": {
+      "accel_x": -9.466,
+      "accel_y": 0.49,
+      "accel_z": 8.989,
+      "gyro_x": -0.011,
+      "gyro_y": -0.105,
+      "gyro_z": 0.025
+    },
+    "environment": {
+      "temperature": 26.327,
+      "humidity": 54.961
+    },
+    "gps": {
+      "latitude": 37.774922,
+      "longitude": -122.419304,
+      "altitude": 0,
+      "timestamp": 27.7
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.8,
+    "altimeter": {
+      "altitude": -0.221
+    },
+    "imu": {
+      "accel_x": -9.138,
+      "accel_y": -1.398,
+      "accel_z": 9.621,
+      "gyro_x": -0.615,
+      "gyro_y": -0.641,
+      "gyro_z": 0.208
+    },
+    "environment": {
+      "temperature": 25.183,
+      "humidity": 54.668
+    },
+    "gps": {
+      "latitude": 37.774821,
+      "longitude": -122.419395,
+      "altitude": 0,
+      "timestamp": 27.8
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 27.9,
+    "altimeter": {
+      "altitude": 0.198
+    },
+    "imu": {
+      "accel_x": -9.914,
+      "accel_y": 0.693,
+      "accel_z": 9.88,
+      "gyro_x": 0.558,
+      "gyro_y": -0.072,
+      "gyro_z": 0.485
+    },
+    "environment": {
+      "temperature": 24.827,
+      "humidity": 55.483
+    },
+    "gps": {
+      "latitude": 37.774969,
+      "longitude": -122.419343,
+      "altitude": 0,
+      "timestamp": 27.9
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.0,
+    "altimeter": {
+      "altitude": 0.307
+    },
+    "imu": {
+      "accel_x": -9.467,
+      "accel_y": -0.02,
+      "accel_z": 9.529,
+      "gyro_x": -0.148,
+      "gyro_y": 0.084,
+      "gyro_z": 0.041
+    },
+    "environment": {
+      "temperature": 26.06,
+      "humidity": 54.158
+    },
+    "gps": {
+      "latitude": 37.774927,
+      "longitude": -122.419456,
+      "altitude": 0,
+      "timestamp": 28.0
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.1,
+    "altimeter": {
+      "altitude": 0.371
+    },
+    "imu": {
+      "accel_x": -10.01,
+      "accel_y": 0.375,
+      "accel_z": 9.913,
+      "gyro_x": 0.255,
+      "gyro_y": -0.377,
+      "gyro_z": -0.633
+    },
+    "environment": {
+      "temperature": 25.071,
+      "humidity": 55.336
+    },
+    "gps": {
+      "latitude": 37.774896,
+      "longitude": -122.419469,
+      "altitude": 0,
+      "timestamp": 28.1
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.2,
+    "altimeter": {
+      "altitude": -0.289
+    },
+    "imu": {
+      "accel_x": -9.553,
+      "accel_y": 0.397,
+      "accel_z": 10.703,
+      "gyro_x": -0.216,
+      "gyro_y": 0.024,
+      "gyro_z": 0.209
+    },
+    "environment": {
+      "temperature": 25.344,
+      "humidity": 55.808
+    },
+    "gps": {
+      "latitude": 37.774993,
+      "longitude": -122.419398,
+      "altitude": 0,
+      "timestamp": 28.2
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.3,
+    "altimeter": {
+      "altitude": -0.145
+    },
+    "imu": {
+      "accel_x": -9.168,
+      "accel_y": 0.172,
+      "accel_z": 10.589,
+      "gyro_x": 0.034,
+      "gyro_y": 0.105,
+      "gyro_z": 0.829
+    },
+    "environment": {
+      "temperature": 24.893,
+      "humidity": 54.427
+    },
+    "gps": {
+      "latitude": 37.774848,
+      "longitude": -122.419365,
+      "altitude": 0,
+      "timestamp": 28.3
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.4,
+    "altimeter": {
+      "altitude": -0.654
+    },
+    "imu": {
+      "accel_x": -9.582,
+      "accel_y": -0.052,
+      "accel_z": 9.92,
+      "gyro_x": 0.128,
+      "gyro_y": -0.324,
+      "gyro_z": 0.964
+    },
+    "environment": {
+      "temperature": 25.514,
+      "humidity": 55.289
+    },
+    "gps": {
+      "latitude": 37.77497,
+      "longitude": -122.419472,
+      "altitude": 0,
+      "timestamp": 28.4
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.5,
+    "altimeter": {
+      "altitude": 0.148
+    },
+    "imu": {
+      "accel_x": -9.746,
+      "accel_y": 0.346,
+      "accel_z": 10.476,
+      "gyro_x": 0.561,
+      "gyro_y": -0.464,
+      "gyro_z": 0.037
+    },
+    "environment": {
+      "temperature": 24.731,
+      "humidity": 54.404
+    },
+    "gps": {
+      "latitude": 37.774951,
+      "longitude": -122.419478,
+      "altitude": 0,
+      "timestamp": 28.5
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.6,
+    "altimeter": {
+      "altitude": -0.113
+    },
+    "imu": {
+      "accel_x": -9.668,
+      "accel_y": 0.643,
+      "accel_z": 10.321,
+      "gyro_x": -0.959,
+      "gyro_y": -0.794,
+      "gyro_z": 0.446
+    },
+    "environment": {
+      "temperature": 25.19,
+      "humidity": 54.313
+    },
+    "gps": {
+      "latitude": 37.774984,
+      "longitude": -122.419497,
+      "altitude": 0,
+      "timestamp": 28.6
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.7,
+    "altimeter": {
+      "altitude": -0.241
+    },
+    "imu": {
+      "accel_x": -9.93,
+      "accel_y": -0.018,
+      "accel_z": 9.996,
+      "gyro_x": -0.122,
+      "gyro_y": -0.519,
+      "gyro_z": 0.022
+    },
+    "environment": {
+      "temperature": 24.525,
+      "humidity": 54.725
+    },
+    "gps": {
+      "latitude": 37.774855,
+      "longitude": -122.41935,
+      "altitude": 0,
+      "timestamp": 28.7
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.8,
+    "altimeter": {
+      "altitude": -0.319
+    },
+    "imu": {
+      "accel_x": -9.778,
+      "accel_y": 0.373,
+      "accel_z": 10.005,
+      "gyro_x": 0.132,
+      "gyro_y": 0.151,
+      "gyro_z": 0.521
+    },
+    "environment": {
+      "temperature": 25.346,
+      "humidity": 55.173
+    },
+    "gps": {
+      "latitude": 37.774827,
+      "longitude": -122.419463,
+      "altitude": 0,
+      "timestamp": 28.8
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 28.9,
+    "altimeter": {
+      "altitude": -0.273
+    },
+    "imu": {
+      "accel_x": -9.44,
+      "accel_y": 0.009,
+      "accel_z": 9.785,
+      "gyro_x": -1.231,
+      "gyro_y": 0.563,
+      "gyro_z": -0.132
+    },
+    "environment": {
+      "temperature": 25.031,
+      "humidity": 54.489
+    },
+    "gps": {
+      "latitude": 37.774956,
+      "longitude": -122.419328,
+      "altitude": 0,
+      "timestamp": 28.9
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.0,
+    "altimeter": {
+      "altitude": -0.847
+    },
+    "imu": {
+      "accel_x": -9.826,
+      "accel_y": -0.326,
+      "accel_z": 10.062,
+      "gyro_x": -1.326,
+      "gyro_y": 0.597,
+      "gyro_z": -0.823
+    },
+    "environment": {
+      "temperature": 24.779,
+      "humidity": 55.932
+    },
+    "gps": {
+      "latitude": 37.774903,
+      "longitude": -122.419437,
+      "altitude": 0,
+      "timestamp": 29.0
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.1,
+    "altimeter": {
+      "altitude": 0.612
+    },
+    "imu": {
+      "accel_x": -8.917,
+      "accel_y": 0.044,
+      "accel_z": 9.596,
+      "gyro_x": -0.864,
+      "gyro_y": 0.178,
+      "gyro_z": 0.356
+    },
+    "environment": {
+      "temperature": 25.281,
+      "humidity": 54.856
+    },
+    "gps": {
+      "latitude": 37.774833,
+      "longitude": -122.4195,
+      "altitude": 0,
+      "timestamp": 29.1
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.2,
+    "altimeter": {
+      "altitude": 0.637
+    },
+    "imu": {
+      "accel_x": -10.289,
+      "accel_y": -0.436,
+      "accel_z": 10.213,
+      "gyro_x": -0.003,
+      "gyro_y": -0.317,
+      "gyro_z": -0.107
+    },
+    "environment": {
+      "temperature": 25.588,
+      "humidity": 54.681
+    },
+    "gps": {
+      "latitude": 37.77488,
+      "longitude": -122.419354,
+      "altitude": 0,
+      "timestamp": 29.2
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.3,
+    "altimeter": {
+      "altitude": -0.192
+    },
+    "imu": {
+      "accel_x": -9.502,
+      "accel_y": 0.571,
+      "accel_z": 10.011,
+      "gyro_x": -0.636,
+      "gyro_y": 0.278,
+      "gyro_z": 0.071
+    },
+    "environment": {
+      "temperature": 24.568,
+      "humidity": 54.717
+    },
+    "gps": {
+      "latitude": 37.774988,
+      "longitude": -122.419322,
+      "altitude": 0,
+      "timestamp": 29.3
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.4,
+    "altimeter": {
+      "altitude": 0.388
+    },
+    "imu": {
+      "accel_x": -10.332,
+      "accel_y": -0.807,
+      "accel_z": 9.798,
+      "gyro_x": 0.232,
+      "gyro_y": 0.102,
+      "gyro_z": -0.623
+    },
+    "environment": {
+      "temperature": 24.709,
+      "humidity": 54.724
+    },
+    "gps": {
+      "latitude": 37.774886,
+      "longitude": -122.419459,
+      "altitude": 0,
+      "timestamp": 29.4
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.5,
+    "altimeter": {
+      "altitude": 0.129
+    },
+    "imu": {
+      "accel_x": -9.594,
+      "accel_y": -0.321,
+      "accel_z": 9.985,
+      "gyro_x": -0.063,
+      "gyro_y": 0.358,
+      "gyro_z": -0.49
+    },
+    "environment": {
+      "temperature": 24.901,
+      "humidity": 54.734
+    },
+    "gps": {
+      "latitude": 37.774808,
+      "longitude": -122.419466,
+      "altitude": 0,
+      "timestamp": 29.5
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.6,
+    "altimeter": {
+      "altitude": -0.831
+    },
+    "imu": {
+      "accel_x": -9.617,
+      "accel_y": -1.036,
+      "accel_z": 10.567,
+      "gyro_x": -0.702,
+      "gyro_y": 0.103,
+      "gyro_z": 0.585
+    },
+    "environment": {
+      "temperature": 24.145,
+      "humidity": 54.346
+    },
+    "gps": {
+      "latitude": 37.774933,
+      "longitude": -122.41949,
+      "altitude": 0,
+      "timestamp": 29.6
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.7,
+    "altimeter": {
+      "altitude": -0.416
+    },
+    "imu": {
+      "accel_x": -9.492,
+      "accel_y": -0.187,
+      "accel_z": 10.286,
+      "gyro_x": -0.227,
+      "gyro_y": 0.927,
+      "gyro_z": -0.56
+    },
+    "environment": {
+      "temperature": 24.391,
+      "humidity": 54.763
+    },
+    "gps": {
+      "latitude": 37.774884,
+      "longitude": -122.419321,
+      "altitude": 0,
+      "timestamp": 29.7
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.8,
+    "altimeter": {
+      "altitude": -0.39
+    },
+    "imu": {
+      "accel_x": -10.09,
+      "accel_y": -0.471,
+      "accel_z": 9.19,
+      "gyro_x": 0.12,
+      "gyro_y": 0.677,
+      "gyro_z": 0.115
+    },
+    "environment": {
+      "temperature": 24.467,
+      "humidity": 55.9
+    },
+    "gps": {
+      "latitude": 37.774953,
+      "longitude": -122.419498,
+      "altitude": 0,
+      "timestamp": 29.8
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  },
+  {
+    "time": 29.9,
+    "altimeter": {
+      "altitude": -1.006
+    },
+    "imu": {
+      "accel_x": -9.245,
+      "accel_y": 0.178,
+      "accel_z": 10.25,
+      "gyro_x": 0.329,
+      "gyro_y": 0.285,
+      "gyro_z": -0.168
+    },
+    "environment": {
+      "temperature": 24.807,
+      "humidity": 55.06
+    },
+    "gps": {
+      "latitude": 37.774938,
+      "longitude": -122.419436,
+      "altitude": 0,
+      "timestamp": 29.9
+    },
+    "raw": {
+      "altitude": 0,
+      "velocity": 0,
+      "acceleration": -9.81
+    }
+  }
+]
