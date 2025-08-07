@@ -1,5 +1,5 @@
 
-# 📦 Smart Rocket System — Arav's Ground Tools
+# 📦 Smart Rocket System — Arav's Ground Tools(hi)
 
 This folder contains two Python tools designed to help CS 321 students simulate and interact with the Smart Rocket System project **before actual hardware is available**.
 
