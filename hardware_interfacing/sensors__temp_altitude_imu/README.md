@@ -63,14 +63,14 @@
 - The I2C addresses are handled internally by the Adafruit libraries.
 
 ### 2. Sensor Initialization
-- **SHTC3**: 
-- Initialized using **shtc3.begin()** to prepare temperature and humidity readings.
-- **MPU6050**: 
-- Initialized using **mpu.begin()**.
-- Accelerometer range: ±8g, Gyroscope range: ±500°/s, Digital low-pass filter: 21Hz.
+- **SHTC3**:
+    - Initialized using **shtc3.begin()** to prepare temperature and humidity readings.
+- **MPU6050**:
+    - Initialized using **mpu.begin()**.
+    - Accelerometer range: ±8g, Gyroscope range: ±500°/s, Digital low-pass filter: 21Hz.
 - **BMP390**:
-- Initialized using **bmp.begin_I2C()**.
-- Pressure oversampling is set to 4x, IIR filter to medium (coeff 3), and output data rate to 50 Hz.
+    - Initialized using **bmp.begin_I2C()**.
+    - Pressure oversampling is set to 4x, IIR filter to medium (coeff 3), and output data rate to 50 Hz.
 
 ### 3. Sensor Data Acquisition
 - Temperature & Humidity (**SHTC3**):
