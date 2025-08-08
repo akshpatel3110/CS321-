@@ -63,23 +63,23 @@
     - The I2C addresses are handled internally by the Adafruit libraries.
 
 ### 2. Sensor Initialization
-**SHTC3**: 
+- **SHTC3**: 
     - Initialized using **shtc3.begin()** to prepare temperature and humidity readings.
-**MPU6050**: 
+- **MPU6050**: 
     - Initialized using **mpu.begin()**.
     - Accelerometer range: ±8g, Gyroscope range: ±500°/s, Digital low-pass filter: 21Hz.
-**BMP390**:
+- **BMP390**:
     - Initialized using **bmp.begin_I2C()**.
     - Pressure oversampling is set to 4x, IIR filter to medium (coeff 3), and output data rate to 50 Hz.
 
 ### 3. Sensor Data Acquisition
-Temperature & Humidity (**SHTC3**):
+- Temperature & Humidity (**SHTC3**):
     - **shtc3.getEvent(&humidity, &temp)** reads both values.
     - Values are printed to the serial monitor and stored in oledline[2] for OLED display.
-Acceleration & Gyroscope (**MPU6050**):
+- Acceleration & Gyroscope (**MPU6050**):
     - **mpu.getEvent(&accel, &gyro, &throwaway)** fetches latest accelerometer and gyroscope readings.
     - Acceleration stored in oledline[4], gyro data in oledline[5].
-Pressure & Altitude (**BMP390**):
+- Pressure & Altitude (**BMP390**):
     - **bmp.performReading()** ensures fresh data.
     - Pressure (in hPa) stored in oledline[7], altitude (based on sea-level pressure constant) in oledline[8].
 
