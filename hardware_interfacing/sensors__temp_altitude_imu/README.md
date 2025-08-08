@@ -63,25 +63,25 @@
     - The I2C addresses are handled internally by the Adafruit libraries.
 
 ### 2. Sensor Initialization
-    **SHTC3**: 
-        - Initialized using **shtc3.begin()** to prepare temperature and humidity readings.
-    **MPU6050**: 
-        - Initialized using **mpu.begin()**.
-        - Accelerometer range: ±8g, Gyroscope range: ±500°/s, Digital low-pass filter: 21Hz.
-    **BMP390**:
-        - Initialized using **bmp.begin_I2C()**.
-        - Pressure oversampling is set to 4x, IIR filter to medium (coeff 3), and output data rate to 50 Hz.
+**SHTC3**: 
+    - Initialized using **shtc3.begin()** to prepare temperature and humidity readings.
+**MPU6050**: 
+    - Initialized using **mpu.begin()**.
+    - Accelerometer range: ±8g, Gyroscope range: ±500°/s, Digital low-pass filter: 21Hz.
+**BMP390**:
+    - Initialized using **bmp.begin_I2C()**.
+    - Pressure oversampling is set to 4x, IIR filter to medium (coeff 3), and output data rate to 50 Hz.
 
 ### 3. Sensor Data Acquisition
-    Temperature & Humidity (**SHTC3**):
-        - **shtc3.getEvent(&humidity, &temp)** reads both values.
-        - Values are printed to the serial monitor and stored in oledline[2] for OLED display.
-    Acceleration & Gyroscope (**MPU6050**):
-        - **mpu.getEvent(&accel, &gyro, &throwaway)** fetches latest accelerometer and gyroscope readings.
-        - Acceleration stored in oledline[4], gyro data in oledline[5].
-    Pressure & Altitude (**BMP390**):
-        - **bmp.performReading()** ensures fresh data.
-        - Pressure (in hPa) stored in oledline[7], altitude (based on sea-level pressure constant) in oledline[8].
+Temperature & Humidity (**SHTC3**):
+    - **shtc3.getEvent(&humidity, &temp)** reads both values.
+    - Values are printed to the serial monitor and stored in oledline[2] for OLED display.
+Acceleration & Gyroscope (**MPU6050**):
+    - **mpu.getEvent(&accel, &gyro, &throwaway)** fetches latest accelerometer and gyroscope readings.
+    - Acceleration stored in oledline[4], gyro data in oledline[5].
+Pressure & Altitude (**BMP390**):
+    - **bmp.performReading()** ensures fresh data.
+    - Pressure (in hPa) stored in oledline[7], altitude (based on sea-level pressure constant) in oledline[8].
 
 ### 4. OLED Display Output
 - The SSD1306 OLED (128x64) is initialized with address 0x3C.
@@ -98,7 +98,7 @@
     - OLED screen for real-time embedded visualization.
 ---
 ## Wiring & Pictures
-![Wiring](hardware_interfacing/sensors__temp_altitude_imu/images/wiring.png)
+![Wiring](sensors__temp_altitude_imu/images/wiring.png)
 
 Few pictures
 ![1](hardware_interfacing/sensors__temp_altitude_imu/images/pic1.jpeg)
