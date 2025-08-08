@@ -98,12 +98,12 @@
     - OLED screen for real-time embedded visualization.
 ---
 ## Wiring & Pictures
-![Wiring](CS321-/hardware_interfacing/sensors__temp_altitude_imu/images/wiring.png)
+![Wiring](images/wiring.png)
 
 Few pictures
-![1](hardware_interfacing/sensors__temp_altitude_imu/images/pic1.jpeg)
-![2](hardware_interfacing/sensors__temp_altitude_imu/images/pic2.jpeg)
-![3](hardware_interfacing/sensors__temp_altitude_imu/images/pic3.jpeg)
+![1](images/pic1.jpeg)
+![2](images/pic2.jpeg)
+![3](images/pic3.jpeg)
 ---
 
 
