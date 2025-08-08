@@ -14,7 +14,6 @@
 - [Sensirion SHTC3](https://www.adafruit.com/product/4636) - Low-power, high-accuracy digital sensor for measuring temperature and humidity.
 > **Note:** All sensors are breakout boards from Adafruit with good libraryy support.
 ---
----
 ## Installation
 - Install the CH9102 USB bridge driver for the first time. [Windows](https://www.wch-ic.com/downloads/CH343SER_ZIP.html), [Mac](https://www.wch-ic.com/downloads/CH34XSER_MAC_ZIP.html)
 - Install [Visual Studio Code](https://code.visualstudio.com/).
@@ -25,10 +24,9 @@
         - PlatformIO Core
         - Python environment
         - Required tools and boards
-       ⚠️ This may take a few minutes (especially the first time).
+        - ⚠️ This may take a few minutes (especially the first time).
 - Restart VS Code (if prompted)
 - Verify Installation - After restarting, you’ll see a PlatformIO icon (alien head) on the sidebar.
----
 ---
 ## How to Run
 - Click “**New Project**” in PlatformIO (PIO) Home.
@@ -37,7 +35,7 @@
     - Board:     ESP32 Pico Kit (Espressif)
     - Framework: Arduino
     - Location 
-   ⚠️ This may take a few minutes (especially the first time).
+    - ⚠️ This may take a few minutes (especially the first time).
 - In PIO Home, go to the Libraries section in the PlatformIO sidebar. Search and add the following libraries to the project.
     - Adafruit SHTC3 Library
     - Adafruit MPU6050
@@ -57,7 +55,6 @@
 - Click (**→**) to upload firmware.
 - Click on (**Upload and Monitor**) to upload firmware and monitor the Serial Monitor.
 ---
----
 ## Sensor Interfacing and Data Display
 ### 1. Sensor Interfacing (I²C Communication)
     - All sensors (SHTC3, MPU6050, BMP390) use the I2C protocol.
@@ -66,23 +63,23 @@
     - The I2C addresses are handled internally by the Adafruit libraries.
 
 ### 2. Sensor Initialization
-    - **SHTC3**: 
+    **SHTC3**: 
         - Initialized using **shtc3.begin()** to prepare temperature and humidity readings.
-    - **MPU6050**: 
+    **MPU6050**: 
         - Initialized using **mpu.begin()**.
         - Accelerometer range: ±8g, Gyroscope range: ±500°/s, Digital low-pass filter: 21Hz.
-    - BMP390:
+    **BMP390**:
         - Initialized using **bmp.begin_I2C()**.
         - Pressure oversampling is set to 4x, IIR filter to medium (coeff 3), and output data rate to 50 Hz.
 
 ### 3. Sensor Data Acquisition
-    - Temperature & Humidity (**SHTC3**):
+    Temperature & Humidity (**SHTC3**):
         - **shtc3.getEvent(&humidity, &temp)** reads both values.
         - Values are printed to the serial monitor and stored in oledline[2] for OLED display.
-    - Acceleration & Gyroscope (**MPU6050**):
+    Acceleration & Gyroscope (**MPU6050**):
         - **mpu.getEvent(&accel, &gyro, &throwaway)** fetches latest accelerometer and gyroscope readings.
         - Acceleration stored in oledline[4], gyro data in oledline[5].
-    - Pressure & Altitude (**BMP390**):
+    Pressure & Altitude (**BMP390**):
         - **bmp.performReading()** ensures fresh data.
         - Pressure (in hPa) stored in oledline[7], altitude (based on sea-level pressure constant) in oledline[8].
 
@@ -100,14 +97,13 @@
     - Serial monitor via Serial.print() (for debugging/logging).
     - OLED screen for real-time embedded visualization.
 ---
----
 ## Wiring & Pictures
-![Wiring](initial_test/images/wiring.png)
+![Wiring](hardware_interfacing/sensors__temp_altitude_imu/images/wiring.png)
+
 Few pictures
-![1](initial_test/images/pic1.jpeg)
-![2](initial_test/images/pic2.jpeg)
-![3](initial_test/images/pic3.jpeg)
----
+![1](hardware_interfacing/sensors__temp_altitude_imu/images/pic1.jpeg)
+![2](hardware_interfacing/sensors__temp_altitude_imu/images/pic2.jpeg)
+![3](hardware_interfacing/sensors__temp_altitude_imu/images/pic3.jpeg)
 ---
 
 
