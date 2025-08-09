@@ -3,10 +3,6 @@ build/
 .vscode/
 test/
 include/
-lib/
-test2/
-
-oled_test.txt
 
 *.elf
 *.bin
