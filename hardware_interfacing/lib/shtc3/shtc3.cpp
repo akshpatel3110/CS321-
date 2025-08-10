@@ -7,7 +7,8 @@ static Adafruit_SHTC3 shtc3; // private to this file
 
 // Function to initialize the SHTC3 Temperature and Humidity sensor
 bool shtc3_init() {
-    Serial.println("SHTC3 test");
+    
+    // Serial.println("SHTC3 test");
 
     // Initialize the SHTC3 sensor using I2C communication
     // The SHTC3 sensor is initialized with the default address (0x70).

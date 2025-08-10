@@ -10,7 +10,7 @@ static Adafruit_BMP3XX bmp;
 // Function to initialize the BMP390 sensor
 bool bmp390_init()
 {
-    Serial.println("BMP390 test");
+    // Serial.println("BMP390 test");
 
     // Initialize the BMP390 sensor using I2C communication
     // The BMP390 sensor is initialized with the default address (0x76).
