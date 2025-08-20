@@ -10,11 +10,12 @@
   voltage for the sensor to function.
  ***********************************************************************/
 #include <Wire.h>
-// #include "shtc3.h"
+#include "shtc3.h"
 #include "mpu6050_A.h"
-// #include "bmp390.h"
+#include "bmp390.h"
 #include "ssd1306.h"
-// #include <Arduino.h>
+#include <Arduino.h>
+
 
 char tmpBuffer[72];
 char tmpBuffer2[72];
@@ -34,9 +35,9 @@ void setup()
 
   // Initialize the OLED display and the sensors
   oled_display_init();
-  // shtc3_init();
+  shtc3_init();
   mpu6050_init();
-  // bmp390_init();
+  bmp390_init();
 
   currMillis = millis();
   // Prepare the OLED display with initial text
@@ -53,7 +54,7 @@ void loop()
 {
   currMillis = millis();
 
-  if (currMillis - prevMillis >= 200)
+  if (currMillis - prevMillis >= 500)
   {
     prevMillis = currMillis;
 
@@ -62,19 +63,29 @@ void loop()
 
     /*** Read SHTC3 temperature and humidity data ***/
     // The temperature is in degrees Celsius and the humidity is in relative humidity percentage.
-    /*
     float temp, hum;
     shtc3_read(temp, hum);
+
+    // To print on Serial Monitor
+    sprintf(tmpBuffer2, "%.2f,%.2f,", temp, hum);
+    Serial.print(tmpBuffer2);
+
+    // To print on OLED
     sprintf(tmpBuffer, "T:%.1f C | H:%.1f RH%%", temp, hum);
     oledline[2] = tmpBuffer;
-    */
+
+    /*** -----------Temperature and Humidity interfacing done -----------***/
 
     /*** Read MPU6050 accelerometer and gyroscope data ***/
     // The accelerometer data is in g's and the gyroscope data is in degrees per second.
     float ax, ay, az, gx, gy, gz;
     mpu6050_read(ax, ay, az, gx, gy, gz);
-    sprintf(tmpBuffer2, "%.1f, %.1f, %.1f, %.1f, %.1f, %.1f", ax, ay, az, gx, gy, gz);
-    Serial.println(tmpBuffer2);
+
+    // To print on Serial Monitor
+    sprintf(tmpBuffer2, "%.1f,%.1f,%.1f,%.1f,%.1f,%.1f,", ax, ay, az, gx, gy, gz);
+    Serial.print(tmpBuffer2);
+
+    // To print on OLED
     sprintf(tmpBuffer, "Acc: %.1f, %.1f, %.1f", ax, ay, az);
     oledline[4] = tmpBuffer;
     sprintf(tmpBuffer, "Gyro: %.1f, %.1f, %.1f", gx, gy, gz);
@@ -82,19 +93,29 @@ void loop()
 
     // g-force magnitude
     // float gmag = sqrtf(ax*ax + ay*ay + az*az) / 9.80665f;
+    /*
     sprintf(tmpBuffer, "GMAG: %.2f", (sqrtf(ax * ax + ay * ay + az * az) / 9.80665f));
     oledline[6] = tmpBuffer;
+    */
+    /*** -----------Tri Axial Accelerometer data and Gyroscope data interfacing done--------------- ***/
 
     /*** Read BMP390 pressure and altitude data ***/
     // Pressure in hPa and Altitude in meters
-    /*
     float pressure, altitude;
     bmp390_read(pressure, altitude);
+
+    // To print on Serial Monitor
+    sprintf(tmpBuffer2, "%.2f,%.2f", pressure, altitude);
+    Serial.println(tmpBuffer2);
+
+    // To print on OLED
     sprintf(tmpBuffer, "Pressure: %.2f hpa", pressure);
     oledline[7] = tmpBuffer;
     sprintf(tmpBuffer, "Altitude: %.2f m", altitude);
     oledline[8] = tmpBuffer;
-    */
+    /*** -----------Pressure and Altitude data interfacing done----------- ***/
+
+    
 
     // Display the sensor data on the OLED
     displayTextOLED(oledline);

@@ -17,17 +17,14 @@ bool mpu6050_init()
     {
         // If the sensor is not found, print an error message and halt the program
         Serial.println("Couldn't find MPU6050 sensor");
-        while (1)
-        {
-            delay(10);
-        }
+        return false;
     }
     Serial.println("Found MPU6050 sensor");
 
     // Set up accelerometer and gyroscope ranges and filter bandwidth
-    mpu.setAccelerometerRange(MPU6050_RANGE_8_G); // Set accelerometer ±8g range
-    mpu.setGyroRange(MPU6050_RANGE_250_DEG);      // Set gyroscope ±500 deg/s range
-    mpu.setFilterBandwidth(MPU6050_BAND_21_HZ);   // Set filter bandwidth to 94 Hz (digital low-pass filter)
+    mpu.setAccelerometerRange(MPU6050_RANGE_16_G); // Set accelerometer ±16g range
+    mpu.setGyroRange(MPU6050_RANGE_1000_DEG);      // Set gyroscope ±500 deg/s range
+    mpu.setFilterBandwidth(MPU6050_BAND_94_HZ);   // Set filter bandwidth to 94 Hz (digital low-pass filter)
     return true;
 }
 

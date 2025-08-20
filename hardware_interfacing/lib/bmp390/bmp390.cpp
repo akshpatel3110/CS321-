@@ -2,7 +2,7 @@
 #include <Arduino.h>
 #include <Adafruit_BMP3XX.h>
 
-#define SEALEVELPRESSURE_HPA (1026.4) // Barometric Pressure in my location
+#define SEALEVELPRESSURE_HPA (1015.20) // Barometric Pressure in my location
 
 // Create an instance of the BMP3XX pressure and altitude sensor
 static Adafruit_BMP3XX bmp;
