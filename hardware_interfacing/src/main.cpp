@@ -77,7 +77,7 @@ void loop()
     /*** -----------Temperature and Humidity interfacing done -----------***/
 
     /*** Read MPU6050 accelerometer and gyroscope data ***/
-    // The accelerometer data is in g's and the gyroscope data is in degrees per second.
+    // The accelerometer data is in m/s^2 and the gyroscope data is in degrees per second.
     float ax, ay, az, gx, gy, gz;
     mpu6050_read(ax, ay, az, gx, gy, gz);
 
