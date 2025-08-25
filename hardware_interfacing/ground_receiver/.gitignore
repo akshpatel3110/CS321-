@@ -1,0 +1,15 @@
+build/
+.pio/
+.vscode/
+test/
+include/
+
+*.elf
+*.bin
+*.hex
+
+*.swp
+*.bak
+*.tmp
+
+upload/
