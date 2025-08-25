@@ -43,7 +43,7 @@ void setup()
   shtc3_init();
   mpu6050_init();
   bmp390_init();
-  //sd_card_init();
+  sd_card_init();
   lora_sx1276_init();
 
   currMillis = millis();
