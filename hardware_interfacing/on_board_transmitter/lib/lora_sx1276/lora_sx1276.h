@@ -7,7 +7,7 @@
 #define RADIO_FREQ_HZ   915E6
 #endif
 #ifndef RADIO_TX_DBM
-#define RADIO_TX_DBM    17     // 2..20 depending on board/regulatory limits
+#define RADIO_TX_DBM    18     // 2..20 depending on board/regulatory limits
 #endif
 #ifndef RADIO_BW_HZ
 #define RADIO_BW_HZ     125E3  // 125 kHz

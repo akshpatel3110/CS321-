@@ -71,6 +71,8 @@ void lora_sx1276_receive()
     // Serial.println(snr, 1);
     oledline[3] = String(incoming);
     oledline[1] = String("Ground-Receiving:") + String(counter);
+    //oledline[4] = String("RSSI=") + String(rssi) + String(" dBm");
+    //oledline[5] = String("SNR=") + String(snr, 1) + String(" dB");
     counter++;
     displayTextOLED(oledline);
     lastRxMs = millis();
