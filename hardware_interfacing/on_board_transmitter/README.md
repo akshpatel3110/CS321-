@@ -97,8 +97,16 @@
     - Serial monitor via Serial.print() (for debugging/logging).
     - OLED screen for real-time embedded visualization.
 ---
-## Wiring & Pictures
-![Wiring](images/wiring.png)
+### Initial Wiring on a Breadboard
+![Wiring1](images/wiring.png)
+
+### Wiring with Adafruit Stemma QT 4-pin cable
+Adafruit I²C breakouts use two 4-pin JST-SH connectors (in/out) for easy daisy-chaining without soldering.  
+Key features:  
+- Built-in 10kΩ pull-up resistors on SDA/SCL (fine for short chains, but may need removal on long chains to avoid overly strong pull-ups).  
+- 3.3V/5V logic compatible with built-in level shifting for wide MCU support.  
+- Each device requires a unique I²C address; configurable jumpers allow duplicates, otherwise use SPI or I²C multiplexer.
+![Wiring2](images/wiring2.png)
 
 Few pictures
 ![1](images/pic1.jpeg)
