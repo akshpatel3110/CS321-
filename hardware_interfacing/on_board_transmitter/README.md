@@ -49,7 +49,8 @@ For this project, open PIO Home, go to Libraries in the PlatformIO sidebar. Sear
 
 ### 3. Packet Format
 Each transmitted packet follows this structure:
-```<time>, <temperature>, <humidity>, <accelX>, <accelY>, <accelZ>, <gyroX>, <gyroY>, <gyroZ>, <pressure>, <altitude>```
+```<time>, <temperature>, <humidity>, <accelX>, <accelY>, <accelZ>, <gyroX>, <gyroY>, <gyroZ>, <pressure>, <altitude>```  
+
 **Example Packet:**
 This packet represents a single measurement cycle.
 ![msg](images/message_format.png)

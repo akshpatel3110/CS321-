@@ -21,7 +21,8 @@ For this project, open PIO Home, go to Libraries in the PlatformIO sidebar. Sear
 
 Each received LoRa packet is a comma-separated string containing sensor values such as:
 ```<time>, <temperature>, <humidity>, <accelX>, <accelY>, <accelZ>, <gyroX>, <gyroY>, <gyroZ>, <pressure>, <altitude>```
-The receiver reads the full packet as a string and directly displays it on the OLED.
+The receiver reads the full packet as a string and directly displays it on the OLED.  
+
 ![1](image/pic1.jpeg)
 ### Handling Packet Loss
 - Dropped Packets: If a packet is lost in transmission, the OLED display simply retains the previous values.
