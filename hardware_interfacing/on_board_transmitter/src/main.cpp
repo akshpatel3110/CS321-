@@ -1,13 +1,13 @@
 /***********************************************************************
-  This is an example for interfacing the
-  SHTC3 Humidity & Temp Sensor,
-  MPU-6050 6-DoF Accel and Gyro Sensor and
-  BMP390 - Precision Barometric Pressure and Altimeter.
-
-
-  These sensors use I2C to communicate, 2 pins, SDA and SCL are required
-  to interface. 2 other pins Vin and Gnd are also required to provide
-  voltage for the sensor to function.
+  This is the main program for the on-board transmitter.
+  It initializes the OLED display, sensors, SD card, and LoRa module,
+  then enters a loop to read sensor data, log it to the SD card,
+  transmit it via LoRa, and update the OLED display.
+  
+  Sensors used:
+  - SHTC3: Temperature and Humidity
+  - MPU6050: Tri-Axial Accelerometer and Gyroscope
+  - BMP390: Pressure and Altitude
  ***********************************************************************/
 #include <Wire.h>
 #include <Arduino.h>

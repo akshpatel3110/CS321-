@@ -1,13 +1,7 @@
 /***********************************************************************
-  This is an example for interfacing the
-  SHTC3 Humidity & Temp Sensor,
-  MPU-6050 6-DoF Accel and Gyro Sensor and
-  BMP390 - Precision Barometric Pressure and Altimeter.
-
-
-  These sensors use I2C to communicate, 2 pins, SDA and SCL are required
-  to interface. 2 other pins Vin and Gnd are also required to provide
-  voltage for the sensor to function.
+  This is the main program for the ground receiver.
+  It initializes the OLED display and LoRa module, then enters a loop
+  to receive data and update the display.
  ***********************************************************************/
 #include <Wire.h>
 #include <Arduino.h>
